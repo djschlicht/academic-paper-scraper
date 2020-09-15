@@ -19,8 +19,8 @@ keywords = ['pathogenesis', 'incubation period', 'latent period',
 pathogens = ['H1N1', 'Ebola', 'Zika', 'MERS', 'Chikungunya']
 
 # create a text file to list relevant papers
-paper_file = open("papers.txt", "a")
-raw_file = open("raw.txt", "a") ### debug use
+paper_file = open(r"./data/papers.txt", "a")
+raw_file = open(r"./data/raw.txt", "a") ### debug use
 
 # generate the query to use
 query = sp.generate_query(keywords, pathogens)
