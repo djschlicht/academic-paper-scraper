@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# This is the front-end of the academic journal scraper.
+# main.py - the control script of the academic paper scraper
 
 ''' TODO:
 [] fill out keywords and pathogens lists 
