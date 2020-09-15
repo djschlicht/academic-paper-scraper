@@ -10,7 +10,7 @@ import requests
 				api	  	- API type (open or meta)
 				num 	- max number of results per page (maxes at 50)
 				key 	- your API key
-				page	- page to look at
+				page	- page that you start on
 	output: json object (really a dict) with search results 
 '''
 def request_springer(query, api, num, key, page):
