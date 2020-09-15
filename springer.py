@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# springer.py is a script to find relevant journal articles from  
+# springer.py has functions to access Springer API and find articles from 
 # 	Springer Databases (Nature, etc)
 # Springer API documentation: https://dev.springernature.com/docs
 
@@ -45,6 +45,8 @@ def format_results(obj, f):
 
 	# for each result, format it and write to file
 	for res in obj['records']:
+		if not isinstance(res['title'], str): # if title isnt a string, move along
+			continue
 		f.write('Title: \n\t' + res['title'] + '\n')
 		f.write('Publisher and Journal: \n\t' + res['publisher'] + 
 			'; ' + res['publicationName'] + '\n')
@@ -59,6 +61,25 @@ def format_results(obj, f):
 			f.write(res['abstract'] + '\n')
 		f.write('DOI: \n\t' + res['doi'] + '\n')
 		f.write('URL: \n\t' + res['url'][0]['value'] + '\n\n\n')
+		
+''' generate_query
+	parameters: key - keywords/traits/etc
+				path- pathogens
+	output:		a well crafted search term
+'''
+def generate_query(key, path):
+	# '("path1" OR "path2" OR ...) AND ("key1" OR "key2" ...)'
+	query = r'("'
+	for p in path[:-1]:
+		query = query + p + r'" OR "'
+	query = query + path[-1] + r'") AND ("'
+	for k in key[:-1]:
+		query = query + k + r'" OR "'
+	query = query + key[-1] + r'")'
+	# AND -(year:2021)
+	query = query + r' AND -(year:2021)'
+	return query
+	
 	
 
 

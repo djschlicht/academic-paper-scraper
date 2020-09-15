@@ -1,0 +1,955 @@
+Title: 
+	Predictive in silico binding algorithms reveal HLA specificities and autoallergen peptides associated with atopic dermatitis
+Publisher and Journal: 
+	Springer; Archives of Dermatological Research
+Publication Date: 
+	2020-11-01
+Authors:
+	Gong, Jan J.
+	Margolis, David J.
+	Monos, Dimitrios S.
+Abstract:
+	Atopic dermatitis (AD) is a skin disease that results from a combination of skin barrier dysfunction and immune dysregulation. The immune dysregulation is often associated with IgE sensitivity. There is also evidence that autoallergens Hom s 1, 2, 3, and 4 play a role in AD; it is possible that patients with specific HLA subtypes are predisposed to autoreactivity due to increased presentation of autoallergen peptides. The goal of our study was to use in silico epitope prediction platforms as an approach to identify HLA subtypes that may preferentially bind autoallergen peptides and are thus candidates for further study. Considering the previously described association of DRB1 alleles with AD and progression of disease, emphasis was placed on DRB1. Certain DRB1 alleles (08:04, 11:01, and 11:04) were identified by both algorithms to bind a significant percent of the generated autoallergen peptides. Conversely, autoallergen core peptide sequences FRQLSHRFH and IRAKLRLQA (Hom s 1), IRKSKNILF (Hom s 2), FKWVPVTDS and MAAIEKVRK (Hom s 3), and FRYFATLKV (Hom s 4) were predicted to bind many DRB1 alleles and, thus, may play a role in the pathogenesis of AD. Our findings provide candidate DRB1 alleles and autoallergen epitopes that will guide future studies exploring the relationship between DRB1 subtype and autoreactivity in AD. A similar approach can be used for any antigen that has been associated with an IgE response and AD.
+DOI: 
+	10.1007/s00403-020-02059-0
+URL: 
+	http://dx.doi.org/10.1007/s00403-020-02059-0
+
+
+Title: 
+	The novel coronavirus 2019-nCoV: Its evolution and transmission into humans causing global COVID-19 pandemic
+Publisher and Journal: 
+	Springer; International Journal of Environmental Science and Technology
+Publication Date: 
+	2020-10-02
+Authors:
+	Rastogi, Y. R.
+	Sharma, A.
+	Nagraik, R.
+	Aygün, A.
+	Şen, F.
+Abstract:
+	A novel coronavirus strain 2019-nCoV has caused a rapid global pandemic-COVID-19. Scientists have taken onto the task of characterizing this new virus and understanding how this virus has transmitted to humans. All preliminary studies have found some striking similarities between this new virus and the SARS-CoV that caused a similar kind of epidemic in 2002–2003. Through bioinformatics tools, a great deal of information has been gathered about the origin, evolution and zoonosis of this virus. We, in this review, report the symptoms, mode of transmission and available and putative treatments to tackle 2019-nCoV infections. We also comprehensively summarize all the information so far made available regarding the genome, evolution and zoonosis of this virus.
+DOI: 
+	10.1007/s13762-020-02781-2
+URL: 
+	http://dx.doi.org/10.1007/s13762-020-02781-2
+
+
+Title: 
+	Current Status of Multiple Drug Molecules, and Vaccines: An Update in SARS-CoV-2 Therapeutics
+Publisher and Journal: 
+	Springer; Molecular Neurobiology
+Publication Date: 
+	2020-10-01
+Authors:
+	Kandimalla, Ramesh
+	John, Albin
+	Abburi, Chandrika
+	Vallamkondu, Jayalakshmi
+	Reddy, P. Hemachandra
+Abstract:
+	The coronavirus disease of 2019 (COVID-19) is a pandemic disease that has taken the lives of many around the world. It is caused by severe acute respiratory syndrome-corona virus-2 (SARS-CoV-2). To date, the USA, Italy, Spain, France, Russia, and the UK have been hit the hardest by the virus. However, death counts are still rising. Some nations have managed to “flatten” the death rate via protective measures such physical distancing, quarantine measures, and therapeutic management. The structure of the SARS-CoV-2 virus comprises of S proteins, M proteins, E proteins, hemagglutinin esterases, nucleocapsid proteins, and a 30-kb RNA genome. Viral proteases cleave these polyproteins and RNA-dependent polymerases replicate the genome. Currently, there are no effective therapies against this new disease. Numerous investigators are developing novel protease inhibitors, some of which have made it into clinical trials. Researchers are also attempting to develop a vaccine. In this review paper, we discuss the latest therapeutic developments against COVID-19. Graphical Abstract
+DOI: 
+	10.1007/s12035-020-02022-0
+URL: 
+	http://dx.doi.org/10.1007/s12035-020-02022-0
+
+
+Title: 
+	Autoimmune and rheumatic musculoskeletal diseases as a consequence of SARS-CoV-2 infection and its treatment
+Publisher and Journal: 
+	Springer; Rheumatology International
+Publication Date: 
+	2020-10-01
+Authors:
+	Shah, Sanket
+	Danda, Debashish
+	Kavadichanda, Chengappa
+	Das, Saibal
+	Adarsh, M. B.
+	Negi, Vir Singh
+Abstract:
+	The coronavirus disease-2019 (COVID-19) pandemic is likely to pose new challenges to the rheumatology community in the near and distant future. Some of the challenges, like the severity of COVID-19 among patients on immunosuppressive agents, are predictable and are being evaluated with great care and effort across the globe. A few others, such as atypical manifestations of COVID-19 mimicking rheumatic musculoskeletal diseases (RMDs) are being reported. Like in many other viral infections, severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection can potentially lead to an array of rheumatological and autoimmune manifestations by molecular mimicry (cross-reacting epitope between the virus and the host), bystander killing (virus-specific CD8 + T cells migrating to the target tissues and exerting cytotoxicity), epitope spreading, viral persistence (polyclonal activation due to the constant presence of viral antigens driving immune-mediated injury) and formation of neutrophil extracellular traps. In addition, the myriad of antiviral drugs presently being tried in the treatment of COVID-19 can result in several rheumatic musculoskeletal adverse effects. In this review, we have addressed the possible spectrum and mechanisms of various autoimmune and rheumatic musculoskeletal manifestations that can be precipitated by COVID-19 infection, its therapy, and the preventive strategies to contain the infection.
+DOI: 
+	10.1007/s00296-020-04639-9
+URL: 
+	http://dx.doi.org/10.1007/s00296-020-04639-9
+
+
+Title: 
+	An Evaluation of Florida’s Zika Response Using the WHO Health Systems Framework: Can We Apply These Lessons to COVID-19?
+Publisher and Journal: 
+	Springer; Maternal and Child Health Journal
+Publication Date: 
+	2020-10-01
+Authors:
+	Marshall, Jennifer
+	Scott, Blake
+	Delva, Jennifer
+	Ade, Cedrick
+	Hernandez, Santiago
+	Patel, Jaladhikumar
+	Moreno-Cheek, Mantero
+	Rojas, Dogeli
+	Tanner, Jean-Paul
+	Kirby, Russell S.
+Abstract:
+	Objectives From 2016 to 2018 Florida documented 1471 cases of Zika virus, 299 of which were pregnant women (Florida Department of Health, https://www.floridahealth.gov/diseases-and-conditions/mosquito-bornediseases/surveillance.html , 2019a ). Florida’s response required unprecedented rapid and continuous cross-sector communication, adaptation, and coordination. Zika tested public health systems in new ways, particularly for maternal child health populations. The systems are now being challenged again, as the Coronavirus COVID-19 pandemic spreads throughout Florida. This qualitative journey mapping evaluation of Florida’s response focused on care for pregnant women and families with infants exposed to Zika virus. Methods Fifteen focus groups and interviews were conducted with 33 public health and healthcare workers who managed outbreak response, case investigations, and patient care in south Florida. Data were thematically analyzed, and the results were framed by the World Health Organization’s (WHO) Healthcare Systems Framework of six building blocks: health service delivery, health workforce, health information systems, access to essential medicines, financing, and leadership and governance (World Health Organization, https://www.who.int/healthsystems/strategy/everybodys_business.pdf , 2007 , https://www.who.int/healthinfo/systems/monitoring/en/ , 2010 ). Results Results highlighted coordination of resources, essential services and treatment, data collection, communication among public health and healthcare systems, and dissemination of information. Community education, testing accuracy and turnaround time, financing, and continuity of health services were areas of need, and there was room for improvement in all indicator areas. Conclusions The WHO Framework encapsulated important infrastructure and process factors relevant to the Florida Zika response as well as future epidemics. In this context, similarities, differences, and implications for the Coronavirus COVID-19 pandemic response are discussed.
+DOI: 
+	10.1007/s10995-020-02969-5
+URL: 
+	http://dx.doi.org/10.1007/s10995-020-02969-5
+
+
+Title: 
+	COVID-19 Pandemic: from Molecular Biology, Pathogenesis, Detection, and Treatment to Global Societal Impact
+Publisher and Journal: 
+	Springer; Current Pharmacology Reports
+Publication Date: 
+	2020-10-01
+Authors:
+	Sood, Shivani
+	Aggarwal, Vaishali
+	Aggarwal, Diwakar
+	Upadhyay, Sushil K
+	Sak, Katrin
+	Tuli, Hardeep Singh
+	Kumar, Manoj
+	Kumar, Jayant
+	Talwar, Shivangi
+Abstract:
+	Purpose of Review In December 2019, there was an outbreak of viral disease in Wuhan, China which raised the concern across the whole world. The viral disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or novel coronavirus or COVID-19 (CoV-19) is known as a pandemic. After SARS-CoV and Middle East respiratory syndrome (MERS)–related CoV, COVID-19 is the third most pathogenic virus, hazardous to humans which have raised worries concerning the capacity of current security measures and the human services framework to deal with such danger. Recent Findings According to WHO, the mortality rate of COVID-19 exceeded that of SARS and MERS in view of which COVID-19 was declared as public health emergency of international concern. Coronaviruses are positive-sense RNA viruses with single stranded RNA and non-segmented envelopes. Recently, genome sequencing confirmed that COVID-19 is similar to SARS-CoV and bat coronavirus, but the major source of this pandemic outbreak, its transmission, and mechanisms related to its pathogenicity to humans are not yet known. Summary In order to prevent the further pandemic and loss to humanity, scientists are studying the development of therapeutic drugs, vaccines, and strategies to cure the infections. In this review, we present a brief introduction to emerging and re-emerging pathogens, i.e., coronavirus in humans and animals, its taxonomic classification, genome organization, its replication, pathogenicity, impact on socioeconomic growth, and drugs associated with COVID-19.
+DOI: 
+	10.1007/s40495-020-00229-2
+URL: 
+	http://dx.doi.org/10.1007/s40495-020-00229-2
+
+
+Title: 
+	Characteristics of scientific articles on COVID-19 published during the initial 3 months of the pandemic
+Publisher and Journal: 
+	Springer; Scientometrics
+Publication Date: 
+	2020-10-01
+Authors:
+	Di Girolamo, Nicola
+	Meursinge Reynders, Reint
+Abstract:
+	The COVID-19 pandemic has been characterized by an unprecedented amount of published scientific articles. The aim of this study is to assess the type of articles published during the first 3 months of the COVID-19 pandemic and to compare them with articles published during 2009 H1N1 swine influenza pandemic. Two operators independently extracted and assessed all articles on COVID-19 and on H1N1 swine influenza that had an abstract and were indexed in PubMed during the first 3 months of these pandemics. Of the 2482 articles retrieved on COVID-19, 1165 were included. Over half of them were secondary articles (590, 50.6%). Common primary articles were: human medical research (340, 59.1%), in silico studies (182, 31.7%) and in vitro studies (26, 4.5%). Of the human medical research, the vast majority were observational studies and cases series, followed by single case reports and one randomized controlled trial. Secondary articles were mainly reviews, viewpoints and editorials (373, 63.2%). Limitations were reported in 42 out of 1165 abstracts (3.6%), with 10 abstracts reporting actual methodological limitations. In a similar timeframe, there were 223 articles published on the H1N1 pandemic in 2009. During the COVID-19 pandemic there was a higher prevalence of reviews and guidance articles and a lower prevalence of in vitro and animal research studies compared with the H1N1 pandemic. In conclusions, compared to the H1N1 pandemic, the majority of early publications on COVID-19 does not provide new information, possibly diluting the original data published on this disease and consequently slowing down the development of a valid knowledge base on this disease. Also, only a negligible number of published articles reports limitations in the abstracts, hindering a rapid interpretation of their shortcomings. Researchers, peer reviewers, and editors should take action to flatten the curve of secondary articles.
+DOI: 
+	10.1007/s11192-020-03632-0
+URL: 
+	http://dx.doi.org/10.1007/s11192-020-03632-0
+
+
+Title: 
+	Rapid decline of Zika virus NS1 antigen-specific antibody responses, northeastern Brazil
+Publisher and Journal: 
+	Springer; Virus Genes
+Publication Date: 
+	2020-10-01
+Authors:
+	Moreira-Soto, Andres
+	Souza Sampaio, Gilmara
+	Pedroso, Célia
+	Postigo-Hidalgo, Ignacio
+	Berneck, Beatrice Sarah
+	Ulbert, Sebastian
+	Brites, Carlos
+	Netto, Eduardo Martins
+	Drexler, Jan Felix
+Abstract:
+	Zika virus (ZIKV) is a positive-stranded RNA virus within the Flaviviridae family. After decades of circulation in Asia, ZIKV was introduced to Brazil in 2014–2015, associated with a rise in congenital malformations. Unlike the genetically related dengue virus (DENV), ZIKV constitutes only one serotype. Although assumed that ZIKV infection may engender lifelong immunity, the long-term kinetics of ZIKV antibody responses are unclear. We assessed long-term kinetics of ZIKV NS1-IgG response in 144 individuals from 3 different subpopulations: HIV patients, tuberculosis patients and healthy individuals first tested in 2016 and retested 1.5–2 years after the 2015–2016 ZIKV epidemic in Salvador de Bahia, Brazil, using a widely distributed NS1-based commercial ELISA. The seropositivity in 2016 reached 59.0% (85/144, 95% confidence interval (CI) 50.7–66.7%), and decreased to 38.6% (56/144, CI 31.3–47.0%) 1.5–2 years later. In addition, the median ZIKV NS1-ELISA reactivity for individuals that remained positive in both timepoints significantly decreased from a ratio of 4.4 (95% CI 3.8–5.0) to 1.6 (95% CI 1.6–1.9) over the 2-year interval ( Z : − 6.1; p  < 0.001) irrespective of the subpopulation analyzed. Initial 2016 DENV antibody response was non-significant between groups, suggesting comparable DENV background. The high 20.6% seroreversion suggest that widely used serologic tests may fail to account a considerable proportion of past ZIKV infections in flavivirus endemic countries. In addition, ZIKV immunity might be shorter-lived than previously thought, which may contribute to local ZIKV resurgence once individual immune responses wane sufficiently to reduce community protective immunity in addition to birth and migration.
+DOI: 
+	10.1007/s11262-020-01772-2
+URL: 
+	http://dx.doi.org/10.1007/s11262-020-01772-2
+
+
+Title: 
+	Pipeline Pharmacological Therapies in Clinical Trial for COVID-19 Pandemic: a Recent Update
+Publisher and Journal: 
+	Springer; Current Pharmacology Reports
+Publication Date: 
+	2020-10-01
+Authors:
+	Kumari, Puja
+	Rawat, Kajal
+	Saha, Lekha
+Abstract:
+	The emergence of the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), responsible for causing coronavirus disease 2019 (COVID-19), marked the third time in the twenty-first century when a new, highly pathogenic human coronavirus outbreak has led to an epidemic. The COVID-19 epidemic has emerged in late December 2019 in Wuhan city of China and spread rapidly to other parts of the world. This quick spread of SARS-CoV-2 infection to many states across the globe affecting many people has led WHO to declare it a pandemic on March 12, 2020. As of July 4, 2020, more than 523,011 people lost their lives worldwide because of this deadly SARS-CoV-2. The current situation becomes more frightening as no FDA-approved drugs or vaccines are available to treat or prevent SARS-CoV-2 infection. The current therapeutic options for COVID-19 are limited only to supportive measures and non-specific interventions. So, the need of the hour is to search for SARS-CoV-2-specific antiviral treatments and to develop vaccines for SARS-CoV-2. Also, it is equally important to maintain our immunity, and natural products and Ayurvedic medicines are indispensable in this regard. In this review, we discuss recent updates regarding various therapeutic approaches to combat COVID-19 pandemic and enlist the major pipeline drugs and traditional medicines that are under trial for COVID-19. Also, possible mechanisms involved in viral pathogenesis are discussed, which further allow us to understand various drug targets and helps in discovering novel therapeutic approaches for COVID-19. Altogether, the information provided in this review will work as an intellectual groundwork and provides an insight into the ongoing development of various therapeutic agents.
+DOI: 
+	10.1007/s40495-020-00226-5
+URL: 
+	http://dx.doi.org/10.1007/s40495-020-00226-5
+
+
+Title: 
+	Congenital Cytomegalovirus and Zika Infections
+Publisher and Journal: 
+	Springer; The Indian Journal of Pediatrics
+Publication Date: 
+	2020-10-01
+Authors:
+	Angueyra, Chantal
+	Abou Hatab, Hani
+	Pathak, Anil
+Abstract:
+	Congenital infections affecting newborn infants can have potentially devastating clinical outcomes. They are usually caused by viruses that infect mothers during pregnancy and are transmitted to the fetus or newborn during the prenatal, perinatal or postnatal periods. Congenital cytomegalovirus (cCMV) is the most common congenital infection affecting up to 2.5% of all live births. Even though most infected infants are asymptomatic at birth, cCMV is an important cause of neurodevelopmental impairment and represents the main cause of non-hereditary sensorineural hearing loss. Also, congenital Zika infection has emerged in recent years as a cause of microcephaly and neurodevelopmental delays. Currently, universal screening is not recommended for either infection in pregnant women or newborn infants. Therefore, screening for both conditions is based on multiple factors such as maternal immune status, exposure, and clinical manifestations of the infant. Use of antiviral medications on symptomatic cCMV has shown improvement in outcomes, in contrast with congenital Zika for which there are no therapeutic options available. Even though both viruses can be present in breast milk, there are no recommendations against breastfeeding in full-term infants. Close follow-up for affected infants is necessary to monitor for developmental delays and sensory impairments to implement interventional therapies at the earliest time possible.
+DOI: 
+	10.1007/s12098-020-03260-9
+URL: 
+	http://dx.doi.org/10.1007/s12098-020-03260-9
+
+
+Title: 
+	Influenza
+Publisher and Journal: 
+	Springer; The Indian Journal of Pediatrics
+Publication Date: 
+	2020-10-01
+Authors:
+	Dharmapalan, Dhanya
+Abstract:
+	Influenza continues to baffle humans by its constantly changing nature. The twenty-first century has witnessed considerable advances in the understanding of the influenza viral pathogenesis, its synergy with bacterial infections and diagnostic methods. However, challenges continue: to find a less expensive and more reliable point-of-care test for use in developing countries, to produce more efficacious antiviral drugs, to explore ways to combat emerging antiviral resistance and to develop vaccines that can either be produced in a shorter production time or can overcome the need for annual matching with the circulating influenza strains. Most importantly for India, as a nation that suffered the highest mortality in the influenza pandemic 1918, there is an urgent need to gear up our existing preparedness for the next pandemic which is capable to hit at any moment in time.
+DOI: 
+	10.1007/s12098-020-03214-1
+URL: 
+	http://dx.doi.org/10.1007/s12098-020-03214-1
+
+
+Title: 
+	A palindromic RNA sequence as a common breakpoint contributor to copy-choice recombination in SARS-COV-2
+Publisher and Journal: 
+	Springer; Archives of Virology
+Publication Date: 
+	2020-10-01
+Authors:
+	Gallaher, William R.
+Abstract:
+	Much remains unknown concerning the origin of the novel pandemic coronavirus that has raged across the globe since emerging in Wuhan of Hubei province, near the center of the People’s Republic of China, in December of 2019. All current members of the family Coronaviridae have arisen by a combination of incremental adaptive mutations, against the backdrop of many recombinational events throughout the past, rendering each a unique mosaic of RNA sequences from diverse sources. The consensus among virologists is that the base sequence of the novel coronavirus, designated SARS-CoV-2, was derived from a common ancestor of a bat coronavirus, represented by the strain RaTG13, isolated in Yunnan province in 2013. Into that ancestral genetic background, several recombination events have since occurred from other divergent bat-derived coronaviruses, resulting in localized discordance between the two. One such event left SARS-CoV-2 with a receptor binding domain (RBD) capable of binding the human ACE-2 receptor lacking in RaTG13, and a second event uniquely added to SARS-CoV-2 a site specific for furin, capable of efficient endoproteolytic cleavage and activation of the spike glycoprotein responsible for virus entry and cell fusion. This paper demonstrates by bioinformatic analysis that such recombinational events are facilitated by short oligonucleotide “breakpoint sequences”, similar to CAGAC, that direct recombination naturally to certain positions in the genome at the boundaries between blocks of RNA code and potentially RNA structure. This “breakpoint sequence hypothesis” provides a natural explanation for the biogenesis of SARS-CoV-2 over time and in the wild.
+DOI: 
+	10.1007/s00705-020-04750-z
+URL: 
+	http://dx.doi.org/10.1007/s00705-020-04750-z
+
+
+Title: 
+	Impact of Gut Bacteria on the Infection and Transmission of Pathogenic Arboviruses by Biting Midges and Mosquitoes
+Publisher and Journal: 
+	Springer; Microbial Ecology
+Publication Date: 
+	2020-10-01
+Authors:
+	Möhlmann, Tim W. R.
+	Vogels, Chantal B. F.
+	Göertz, Giel P.
+	Pijlman, Gorben P.
+	Braak, Cajo J. F.
+	Beest, Dennis E.
+	Hendriks, Marc
+	Nijhuis, Els H.
+	Warris, Sven
+	Drolet, Barbara S.
+	Overbeek, Leo
+	Koenraadt, Constantianus J. M.
+Abstract:
+	Tripartite interactions among insect vectors, midgut bacteria, and viruses may determine the ability of insects to transmit pathogenic arboviruses. Here, we investigated the impact of gut bacteria on the susceptibility of Culicoides nubeculosus and Culicoides sonorensis biting midges for Schmallenberg virus, and of Aedes aegypti mosquitoes for Zika and chikungunya viruses. Gut bacteria were manipulated by treating the adult insects with antibiotics. The gut bacterial communities were investigated using Illumina MiSeq sequencing of 16S rRNA, and susceptibility to arbovirus infection was tested by feeding insects with an infectious blood meal. Antibiotic treatment led to changes in gut bacteria for all insects. Interestingly, the gut bacterial composition of untreated Ae. aegypti and C. nubeculosus showed Asaia as the dominant genus, which was drastically reduced after antibiotic treatment. Furthermore, antibiotic treatment resulted in relatively more Delftia bacteria in both biting midge species, but not in mosquitoes. Antibiotic treatment and subsequent changes in gut bacterial communities were associated with a significant, 1.8-fold increased infection rate of C. nubeculosus with Schmallenberg virus, but not for C. sonorensis . We did not find any changes in infection rates for Ae. aegypti mosquitoes with Zika or chikungunya virus. We conclude that resident gut bacteria may dampen arbovirus transmission in biting midges, but not so in mosquitoes. Use of antimicrobial compounds at livestock farms might therefore have an unexpected contradictory effect on the health of animals, by increasing the transmission of viral pathogens by biting midges.
+DOI: 
+	10.1007/s00248-020-01517-6
+URL: 
+	http://dx.doi.org/10.1007/s00248-020-01517-6
+
+
+Title: 
+	Role of probiotics to combat viral infections with emphasis on COVID-19
+Publisher and Journal: 
+	Springer; Applied Microbiology and Biotechnology
+Publication Date: 
+	2020-10-01
+Authors:
+	Sundararaman, Aravind
+	Ray, Mousumi
+	Ravindra, P. V.
+	Halami, Prakash M.
+Abstract:
+	Interspecies transmissions of viruses between animals and humans may result in unpredictable pathogenic potential and new transmissible diseases. This mechanism has recently been exemplified by the discovery of new pathogenic viruses, such as the novel severe acute respiratory syndrome corona virus-2 (SARS-CoV-2) pandemic, Middle-East respiratory syndrome-coronavirus epidemic in Saudi Arabia, and the deadly outbreak of Ebola in West Africa. The. SARS-CoV-2 causes coronavirus disease-19 (COVID-19), which is having a massive global impact in terms of economic disruption, and, above all, human health. The disease is characterized by dry cough, fever, fatigue, myalgia, and dyspnea. Other symptoms include headache, sore throat, rhinorrhea, and gastrointestinal disorders. Pneumonia appears to be the most common and severe manifestation of the infection. Currently, there is no vaccine or specific drug for COVID-19. Further, the development of new antiviral requires a considerable length of time and effort for drug design and validation. Therefore, repurposing the use of natural compounds can provide alternatives and can support therapy against COVID-19. In this review, we comprehensively discuss the prophylactic and supportive therapeutic role of probiotics for the management of COVID-19. In addition, the unique role of probiotics to modulate the gut microbe and assert gut homeostasis and production of interferon as an antiviral mechanism is described. Further, the regulatory role of probiotics on gut-lung axis and mucosal immune system for the potential antiviral mechanisms is reviewed and discussed. Key points • Gut microbiota role in antiviral diseases • Factors influencing the antiviral mechanism • Probiotics and Covid-19
+DOI: 
+	10.1007/s00253-020-10832-4
+URL: 
+	http://dx.doi.org/10.1007/s00253-020-10832-4
+
+
+Title: 
+	Neurological Manifestations of Influenza A (H1N1): Clinical Features, Intensive Care Needs, and Outcome
+Publisher and Journal: 
+	Springer; The Indian Journal of Pediatrics
+Publication Date: 
+	2020-10-01
+Authors:
+	Takia, Lalit
+	Saini, Lokesh
+	Keshavan, Shivan
+	Angurana, Suresh Kumar
+	Nallasamy, Karthi
+	Suthar, Renu
+	Verma, Sanjay
+	Singh, Paramjeet
+	Goyal, Kapil
+	Ratho, RK
+	Jayashree, Muralidharan
+Abstract:
+	Objectives To describe neurological manifestations in children with Influenza A (H1N1). Methods This retrospective study was conducted in the Pediatric intensive care unit (PICU) and Pediatric Neurology unit of a tertiary care teaching hospital in North India involving children with PCR confirmed Influenza A (H1N1) with neurological manifestations during 2019 outbreak. Results Six children (5 females, 1 male) were enrolled. All presented with neurological symptoms (seizures and altered sensorium) accompanied with fever and respiratory symptoms with duration of illness of 2–7 d. The admission Glasgow Coma Scale ranged from 4 to 12. Only 2 cases showed cerebrospinal fluid pleocytosis. Neuroimaging was suggestive of diffuse cerebral edema, acute necrotizing encephalopathy of childhood, and acute disseminated encephalomyelitis. All were treated with Oseltamivir. Four cases had clinical features of raised intracranial pressure (ICP) and were managed in PICU, 3 of them needed mechanical ventilation, 3 needed vasoactive drugs, 3 received 3% saline infusion, 1 underwent invasive ICP monitoring, and 3 (cases 4, 5 and 6) received intravenous methylprednisolone (30 mg/kg) for 5 d. Total duration of hospital stay was 10–30 d. Case 2 expired due to refractory raised ICP. Among survivors, 3 children had residual neurological deficits and the remaining 2 had achieved premorbid condition. Conclusions Influenza A (H1N1) can present with isolated or predominant neurological manifestations which can contribute to poor outcome. The authors suggest to rule out H1N1 in any child who presents with unexplained neurological manifestations during seasonal outbreaks of H1N1.
+DOI: 
+	10.1007/s12098-020-03297-w
+URL: 
+	http://dx.doi.org/10.1007/s12098-020-03297-w
+
+
+Title: 
+	Genomics insights of SARS-CoV-2 (COVID-19) into target-based drug discovery
+Publisher and Journal: 
+	Springer; Medicinal Chemistry Research
+Publication Date: 
+	2020-10-01
+Authors:
+	Chellapandi, P.
+	Saranya, S.
+Abstract:
+	Coronavirus disease (COVID-19) pandemic is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is a global health emergency and no clinically approved vaccines or antiviral drugs available to date. Intensive research on SARS-CoV-2 is urgently warranted to understand its pathogenesis and virulence mechanisms and to discover target-based antiviral therapeutics. Among various research logics, current bioinformatics highlights novel testable hypotheses for systematic drug repositioning and designing against COVID-19. A total of 121 articles related to bioinformatics facets of this virus were collected from the PubMed Central. The content of each investigation was comprehensively reviewed, manually curated, and included herein. Interestingly, 109 COVID-19-related literature published in 2020 (January–June) were included in this review. The present article emphasizes novel resource development on its genome structure, evolution, therapeutic targets, drug designing, and drug repurposing strategies. Genome organization, the function of coding genes, origin, and evolution of SARS-CoV-2 is described in detail. Genomic insights into understanding the structure–function relationships of drug targets including spike, main protease, and RNA-dependent RNA polymerase of SARS-CoV-2 are discussed intensively. Several molecular docking and systems pharmacology approaches have been investigated some promising antiviral drugs against SARS-CoV-2 based on its genomic characteristics, pathogenesis mechanism, and host specificity. Perhaps, the present genomic insights of this virus will provide a lead to the researchers to design or repurpose of antiviral drugs soon and future directions to control the spread of COVID-19.
+DOI: 
+	10.1007/s00044-020-02610-8
+URL: 
+	http://dx.doi.org/10.1007/s00044-020-02610-8
+
+
+Title: 
+	Standardization of ELISA for anti-chikungunya-IgG antibodies and age-stratified prevalence of anti-chikungunya-IgG antibodies in Pune, India
+Publisher and Journal: 
+	Springer; European Journal of Clinical Microbiology & Infectious Diseases
+Publication Date: 
+	2020-10-01
+Authors:
+	Patil, Harshad P.
+	Rane, Prajakta S.
+	Gosavi, Mrunal
+	Mishra, Akhilesh C.
+	Arankalle, Vidya A.
+Abstract:
+	Chikungunya (CHIKV) reemerged in India after a gap of 32 years, in 2005–2006 and has established endemicity in Pune. To assess the degree of CHIKV exposure, we estimated age-stratified prevalence of IgG antibodies to CHIKV in Pune population. This retrospective study utilized age-stratified serum samples collected from 15 wards of Pune in 2017 for dengue (DENV) virus study. Indirect anti-CHIKV-IgG ELISA was developed and used to test 1904 samples. Exposure to CHIKV and DENV was compared in the same population. CHIKV-specific plaque reduction neutralization test (PRNT) was employed to evaluate ELISA positivity and neutralizing potential of anti-CHIKV-IgG antibodies. Indirect ELISA showed 98.5% concordance with commercial ELISA. Seropositivity to CHIKV was 46.4%, one-third children < 15 years being antibody positive. A significant increase (45%, p = 0.026–0.038) was noted at 16-25 years and varied between 48 and 56% until the age 65. In elderly (65 + years), antibody positivity was reduced (41%, p = 0.01). In children, CHIKV-PRNT 50 titers increased with age and remained comparable from the age group 11-15 until > 65. Exposure to DENV was higher than CHIKV. Lower exposure of children and elderly could be due to lesser exposure to the vectors. High prevalence of IgG antibodies needs to be addressed while planning vaccine studies for CHIKV.
+DOI: 
+	10.1007/s10096-020-03933-5
+URL: 
+	http://dx.doi.org/10.1007/s10096-020-03933-5
+
+
+Title: 
+	Epigenetic and epitranscriptomic regulation of viral replication
+Publisher and Journal: 
+	Nature; Nature Reviews Microbiology
+Publication Date: 
+	2020-10-01
+Authors:
+	Tsai, Kevin
+	Cullen, Bryan R.
+Abstract:
+	Eukaryotic gene expression is regulated not only by genomic enhancers and promoters, but also by covalent modifications added to both chromatin and RNAs. Whereas cellular gene expression may be either enhanced or inhibited by specific epigenetic modifications deposited on histones (in particular, histone H3), these epigenetic modifications can also repress viral gene expression, potentially functioning as a potent antiviral innate immune response in DNA virus-infected cells. However, viruses have evolved countermeasures that prevent the epigenetic silencing of their genes during lytic replication, and they can also take advantage of epigenetic silencing to establish latent infections. By contrast, the various covalent modifications added to RNAs, termed epitranscriptomic modifications, can positively regulate mRNA translation and/or stability, and both DNA and RNA viruses have evolved to utilize epitranscriptomic modifications as a means to maximize viral gene expression. As a consequence, both chromatin and RNA modifications could serve as novel targets for the development of antivirals. In this Review, we discuss how host epigenetic and epitranscriptomic processes regulate viral gene expression at the levels of chromatin and RNA function, respectively, and explore how viruses modify, avoid or utilize these processes in order to regulate viral gene expression. In this Review, Tsai and Cullen discuss how host epigenetic and epitranscriptomic processes regulate viral gene expression at the levels of chromatin and RNA function, respectively, and explore how viruses modify, avoid or utilize these processes in order to promote their replication or persistence.
+DOI: 
+	10.1038/s41579-020-0382-3
+URL: 
+	http://dx.doi.org/10.1038/s41579-020-0382-3
+
+
+Title: 
+	Neuroinvasion, neurotropic, and neuroinflammatory events of SARS-CoV-2: understanding the neurological manifestations in COVID-19 patients
+Publisher and Journal: 
+	Springer; Neurological Sciences
+Publication Date: 
+	2020-10-01
+Authors:
+	Yachou, Yassine
+	El Idrissi, Abdeslem
+	Belapasov, Vladimir
+	Ait Benali, Said
+Abstract:
+	Respiratory viruses are opportunistic pathogens that infect the upper respiratory tract in humans and cause severe illnesses, especially in vulnerable populations. Some viruses have neuroinvasive properties and activate the immune response in the brain. These immune events may be neuroprotective or they may cause long-term damage similar to what is seen in some neurodegenerative diseases. The new “Severe Acute Respiratory Syndrome Coronavirus 2” (SARS-CoV-2) is one of the Respiratory viruses causing highly acute lethal pneumonia coronavirus disease 2019 (COVID-19) with clinical similarities to those reported in “Severe Acute Respiratory Syndrome Coronavirus”(SARS-CoV) and the “Middle East Respiratory Syndrome Coronavirus”(MERS-CoV) including neurological manifestation. To examine the possible neurological damage induced by SARS-CoV-2, it is necessary to understand the immune reactions to viral infection in the brain, and their short- and long-term consequences. Considering the similarities between SARS-CoV and SARS-CoV-2, which will be discussed, cooperative homological and phylogenetical studies lead us to question if SARS-CoV-2 can have similar neuroinvasive capacities and neuroinflammatiory events that may lead to the same short- and long-term neuropathologies that SARS-CoV had shown in human and animal models. To explain the neurological manifestation caused by SARS-CoV-2, we will present a literature review of 765 COVID-19 patients, in which 18% had neurological symptoms and complications, including encephalopathy, encephalitis and cerebrovascular pathologies, acute myelitis, and Guillain-Barré syndrome. Clinical studies describe anosmia or partial loss of the sense of smell as the most frequent symptom in COVID19 patients, suggesting that olfactory dysfunction and the initial ultrarapid immune responses could be a prognostic factor.
+DOI: 
+	10.1007/s10072-020-04575-3
+URL: 
+	http://dx.doi.org/10.1007/s10072-020-04575-3
+
+
+Title: 
+	Impact of human mobility on the transmission dynamics of infectious diseases
+Publisher and Journal: 
+	Springer; Energy, Ecology and Environment
+Publication Date: 
+	2020-10-01
+Authors:
+	Khatua, Anupam
+	Kar, Tapan Kumar
+	Nandi, Swapan Kumar
+	Jana, Soovoojeet
+	Kang, Yun
+Abstract:
+	Spatial heterogeneity is an important aspect to be studied in infectious disease models. It takes two forms: one is local, namely diffusion in space, and other is related to travel. With the advancement of transportation system, it is possible for diseases to move from one place to an entirely separate place very quickly. In a developing country like India, the mass movement of large numbers of individuals creates the possibility of spread of common infectious diseases. This has led to the study of infectious disease model to describe the infection during transport. An SIRS-type epidemic model is formulated to illustrate the dynamics of such infectious disease propagation between two cities due to population dispersal. The most important threshold parameter, namely the basic reproduction number, is derived, and the possibility of existence of backward bifurcation is examined, as the existence of backward bifurcation is very unsettling for disease control and it is vital to know from modeling analysis when it can occur. It is shown that dispersal of populations would make the disease control difficult in comparison with nondispersal case. Optimal vaccination and treatment controls are determined. Further to find the best cost-effective strategy, cost-effectiveness analysis is also performed. Though it is not a case study, simulation work suggests that the proposed model can also be used in studying the SARS epidemic in Hong Kong, 2003.
+DOI: 
+	10.1007/s40974-020-00164-4
+URL: 
+	http://dx.doi.org/10.1007/s40974-020-00164-4
+
+
+Title: 
+	Asymptomatic carriage and transmission of SARS-CoV-2: What do we know?
+Publisher and Journal: 
+	Springer; Canadian Journal of Anesthesia/Journal canadien d'anesthésie
+Publication Date: 
+	2020-10-01
+Authors:
+	Lee, Susan
+	Meyler, Paula
+	Mozel, Michelle
+	Tauh, Tonia
+	Merchant, Richard
+Abstract:
+	Purpose Risk to healthcare workers treating asymptomatic patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the operating room depends on multiple factors. This review examines the evidence for asymptomatic or pre-symptomatic carriage of SARS-CoV-2, the risk of transmission from asymptomatic patients, and the specific risks associated with aerosol-generating procedures. Protective measures, such as minimization of aerosols and use of personal protective equipment in the setting of treating asymptomatic patients, are also reviewed. Source We examined the published literature as well as Societal guidelines. Principal findings There is evidence that a proportion of those infected with SARS-CoV-2 have detectable viral loads prior to exhibiting symptoms, or without ever developing symptoms. The degree of risk of transmission from asymptomatic patients to healthcare providers will depend on the prevalence of disease in the population, which is difficult to assess without widespread population screening. Aerosol-generating procedures increase the odds of viral transmission from infected symptomatic patients to healthcare providers, but transmission from asymptomatic patients has not been reported. Techniques to minimize aerosolization and appropriate personal protective equipment may help reduce the risk to healthcare workers in the operating room. Some societal guidelines recommend the use of airborne precautions during aerosol-generating procedures on asymptomatic patients during the coronavirus disease pandemic, although evidence supporting this practice is limited. Conclusion Viral transmission from patients exhibiting no symptoms in the operating room is plausible and efforts to reduce risk to healthcare providers include reducing aerosolization and wearing appropriate personal protective equipment, the feasibility of which will vary based on geographic risk and equipment availability. Objectif Le risque encouru par les travailleurs de la santé traitant des patients asymptomatiques infectés par le syndrome respiratoire aigu sévère du coronavirus 2 (SARS-CoV-2) en salle d’opération dépend de plusieurs facteurs. Ce compte rendu examine les données probantes concernant la présence asymptomatique ou pré-symptomatique du SARS-CoV-2, le risque de transmission des patients asymptomatiques, et les risques spécifiques associés aux interventions générant des aérosols. Nous passons également en revue différentes mesures de protection, telles que la minimisation des aérosols et l’utilisation d’équipements de protection individuelle, dans un contexte de traitement de patients asymptomatiques. Source Nous avons examiné la littérature publiée ainsi que les directives sociétales. Constatations principales Selon certaines données probantes, une proportion des personnes infectées par le SARS-CoV-2 possèdent des charges virales détectables avant la présence de symptômes, voire même sans manifestation de symptômes. Le degré de risque de transmission des patients asymptomatiques aux travailleurs de la santé dépendra de la prévalence de la maladie dans la population, une donnée difficile à évaluer sans dépistage généralisé. Les interventions générant des aérosols augmentent le risque de transmission virale des patients symptomatiques infectés aux travailleurs de la santé, mais la transmission de patients asymptomatiques n’a pas été rapportée. Les techniques visant à minimiser l’aérosolisation et les équipements de protection individuelle adaptés pourraient être utiles pour réduire le risque des travailleurs de la santé en salle d’opération. Certaines directives régionales et nationales recommandent le recours à des précautions contre la transmission par voie aérienne durant les interventions générant des aérosols pratiquées sur des patients asymptomatiques pendant la pandémie de coronavirus, bien que les données probantes appuyant cette pratique soient limitées. Conclusion La transmission virale des patients asymptomatiques en salle d’opération est plausible et les efforts visant à réduire le risque pour les travailleurs de la santé comprennent la réduction de l’aérosolisation et le port d’équipements de protection individuelle adaptés, deux mesures dont la faisabilité variera en fonction du risque géographique et de la disponibilité des équipements.
+DOI: 
+	10.1007/s12630-020-01729-x
+URL: 
+	http://dx.doi.org/10.1007/s12630-020-01729-x
+
+
+Title: 
+	Framework for assessing vertebrate invasive species damage: the case of feral swine in the United States
+Publisher and Journal: 
+	Springer; Biological Invasions
+Publication Date: 
+	2020-10-01
+Authors:
+	Shwiff, Stephanie
+	Pelham, Alex
+	Shwiff, Steven
+	Haden-Chomphosy, William
+	Brown, Vienna R.
+	Ernst, Karina
+	Anderson, Aaron
+Abstract:
+	The aim of this study is to provide a general overview of the economic impacts associated with vertebrate invasive species (VIS) in the United States and suggests a methodology for differentiating types of damage. We identify a general framework for categorizing VIS damage that separates this damage into three main categories: destruction, depredation, and disease. We then examine how this framework fits into current published estimates of damage and management costs. Economic impacts associated with feral swine damage and management are plentiful enough to warrant separate treatment from other VIS and are observed in all three categories. For all VIS examined in this study, damage estimates associated with destruction provide the most evaluations of VIS impacts, especially destruction of crops. Evaluations of the losses associated with depredation are largely absent from the literature. We find that while published studies have estimated substantial economic impact associated with VIS, the current state of the literature focusing on VIS frequently fails to address all of the categories of damage, is difficult to compare or replicate, and is unsuited for extrapolation to nation-wide estimates of damage.
+DOI: 
+	10.1007/s10530-020-02311-8
+URL: 
+	http://dx.doi.org/10.1007/s10530-020-02311-8
+
+
+Title: 
+	Does immunosuppressive treatment entail an additional risk for children with rheumatic diseases? A survey-based study in the era of COVID-19
+Publisher and Journal: 
+	Springer; Rheumatology International
+Publication Date: 
+	2020-10-01
+Authors:
+	Koker, Oya
+	Demirkan, Fatma Gul
+	Kayaalp, Gulsah
+	Cakmak, Figen
+	Tanatar, Ayse
+	Karadag, Serife Gul
+	Sonmez, Hafize Emine
+	Omeroglu, Rukiye
+	Aktay Ayaz, Nuray
+Abstract:
+	The aim of the research was to further extend current knowledge of whether severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) disease 2019 (COVID-19) entails a risk for children with various rheumatic diseases under immunosuppressive treatment. Telephone survey was administered by conducting interviews with the parents from May 1, 2020 to May 20, 2020. A message containing a link to the actual questionnaire was sent to their phones simultaneously. The medical records of the patients were reviewed for gathering information about demographic data, clinical follow-up, and treatments. Patients who were followed-up under immunosuppressive treatment ( n  = 439) were attempted to be contacted. The diagnostic distribution of patients ( n  = 414) eligible for the study was as follows: juvenile idiopathic arthritis (JIA) ( n  = 243, 58.7%), autoinflammatory diseases ( n  = 109, 26.3%), connective tissue diseases ( n  = 51, 12.3%), and vasculitis ( n  = 11, 2.7%). In the entire cohort, the mean age was 12 ± 4.7 years, and 54.1% ( n  = 224) were female. Nine patients have attended the hospital for COVID-19 evaluation, 6 of whom were in close contact with confirmed cases. One patient with seronegative polyarticular JIA, previously prescribed methotrexate and receiving leflunomide during pandemic was identified to be diagnosed with COVID-19. None, including the confirmed case, had any severe symptoms. More than half of the patients with household exposure did not require hospitalization as they were asymptomatic. Although circumstances such as compliance in social distancing policy, transmission patterns, attitude following contact may have influenced the results, immunosuppressive treatment does not seem to pose an additional risk in terms of COVID-19.
+DOI: 
+	10.1007/s00296-020-04663-9
+URL: 
+	http://dx.doi.org/10.1007/s00296-020-04663-9
+
+
+Title: 
+	Vaccine Against Covid-19 Disease – Present Status of Development
+Publisher and Journal: 
+	Springer; The Indian Journal of Pediatrics
+Publication Date: 
+	2020-10-01
+Authors:
+	Dutta, Ashok Kumar
+Abstract:
+	The pandemic declaration of Covid-19 disease by World Health Organization (WHO) and subsequent widespread morbidities and mortalities in almost all countries of the world led to the research and development to find out a vaccine against SARS-CoV2 virus. Normally any new vaccine development takes 10–15 y time but the search for vaccine against SARS-CoV2 is going on at a very fast pace resulting in almost breakthrough in vaccine development by several research institutions and vaccine manufacturers. In pandemic situation, however, the entire process of vaccine development including clinical trials gets shortened and may be fast tracked to 15–18 mo time. It is expected that there shall be simultaneous marketing of several vaccines by the beginning of 2021. There are more than 164 candidate vaccines which are in the process of development and among them 24 vaccines are in advanced stages of development. This review aims at highlighting the present stages of development of vaccines and discussing the challenges that may be faced with these novel vaccines.
+DOI: 
+	10.1007/s12098-020-03475-w
+URL: 
+	http://dx.doi.org/10.1007/s12098-020-03475-w
+
+
+Title: 
+	A sporadic case of acute Q fever and identification of the animal source of the infection
+Publisher and Journal: 
+	Springer; Folia Microbiologica
+Publication Date: 
+	2020-10-01
+Authors:
+	Medkour, Hacène
+	Davoust, Bernard
+	Angelakis, Manolis
+	Thiéry, Richard
+	Raoult, Didier
+	Rousset, Elodie
+	Parola, Philippe
+	Eldin, Carole
+Abstract:
+	Q fever is a zoonosis. Humans are infected through the inhalation of Coxiella burnetii particles that are dispersed into the air from the birth products or faeces of ruminants. Major outbreaks can occur in association with farming activities. C. burnetii can be disseminated by wind up to several tens of kilometres and infect humans far from its zoonotic source. As a result, the sources of sporadic cases are rarely identified. We report a sporadic case of acute Q fever in a French farmer returning from a cruise in the Caribbean. Careful examination found that the infection was not associated with travel, and a veterinary investigation identified C. burnetii DNA (MST genotype 8) in the faeces, nasal and vaginal swabs of several ewes from her herd of sheep. As a consequence, the herd was slaughtered to avoid dissemination of the infection.
+DOI: 
+	10.1007/s12223-020-00788-3
+URL: 
+	http://dx.doi.org/10.1007/s12223-020-00788-3
+
+
+Title: 
+	Association of serum C-reactive protein level and polymorphisms with susceptibility to dengue infection and severe clinical outcome among eastern Indian patients
+Publisher and Journal: 
+	Springer; Medical Microbiology and Immunology
+Publication Date: 
+	2020-10-01
+Authors:
+	Mukherjee, Saikat
+	Tripathi, Anusri
+Abstract:
+	Dengue virus (DENV) infection is a major public health concern in India ranging from simple febrile illness to severe outcome. This study aimed to investigate association of serum CRP level and CRP gene polymorphisms towards development of dengue disease susceptibility and severity among eastern Indian patients. Blood was collected from 348 symptomatic patients. Sera was subjected to serological diagnosis for the presence of anti-dengue IgM, anti-dengue IgG antibodies and dengue NS1 antigen by ELISA. Viral RNA was extracted and the presence of DENV genome, viral load, serotypes was determined by qRT-PCR. CRP level and polymorphisms were determined by immunoturbidimetry and polymerase chain reaction–restriction fragment length polymorphism, respectively. Statistical analysis was performed by GraphPad-Prism. Among 206 dengue patients, CRP level increased significantly among patients within acute phase, and patients with qRT-PCR/NS1 antigen positivity, high viral load (HVL), secondary infection, and DENV4 and DENV2 infections. rs3091244, TT genotype positively associated with dengue susceptibility ( p  = 0.03). CT genotype of rs3093059 and TT genotype of rs3091244 were found to correlate with elevated CRP level and development of WHO-defined warning signs. TT genotype of rs3091244 was more prevalent among HVL patients. Thus, these CRP polymorphic variants and CRP concentration might act as potential prognostic biomarkers for predicting disease severity among acute-stage dengue patients.
+DOI: 
+	10.1007/s00430-020-00690-2
+URL: 
+	http://dx.doi.org/10.1007/s00430-020-00690-2
+
+
+Title: 
+	Phosphatidylinositol-3-kinase-Akt pathway in negative-stranded RNA virus infection: a minireview
+Publisher and Journal: 
+	Springer; Archives of Virology
+Publication Date: 
+	2020-10-01
+Authors:
+	Blanco, Javier
+	Cameirao, Cristina
+	López, María Carmen
+	Muñoz-Barroso, Isabel
+Abstract:
+	The PI3K/Akt signalling pathway is a crucial signalling cascade that regulates transcription, protein translation, cell growth, proliferation, cell survival, and metabolism. During viral infection, viruses exploit a variety of cellular pathways, including the well-known PI3K/Akt signalling pathway. Conversely, cells rely on this pathway to stimulate an antiviral response. The PI3K/Akt pathway is manipulated by a number of viruses, including DNA and RNA viruses and retroviruses. The aim of this review is to provide up-to-date information about the role of the PI3K-Akt pathway in infection with members of five different families of negative-sense ssRNA viruses. This pathway is hijacked for viral entry, regulation of endocytosis, suppression of premature apoptosis, viral protein expression, and replication. Although less common, the PI3K/Akt pathway can be downregulated as an immunomodulatory strategy or as a mechanism for inducing autophagy. Moreover, the cell activates this pathway as an antiviral strategy for interferon and cytokine production, among other strategies. Here, we present new data concerning the role of this pathway in infection with the paramyxovirus Newcastle disease virus (NDV). Our data seem to indicate that NDV uses the PI3K/Akt pathway to delay cell death and increase cell survival as a means of improving its replication. The interference of negative-sense ssRNA viruses with this essential pathway might have implications for the development of antiviral therapies.
+DOI: 
+	10.1007/s00705-020-04740-1
+URL: 
+	http://dx.doi.org/10.1007/s00705-020-04740-1
+
+
+Title: 
+	Influenza-associated aspergillosis in critically-ill patients—a retrospective bicentric cohort study
+Publisher and Journal: 
+	Springer; European Journal of Clinical Microbiology & Infectious Diseases
+Publication Date: 
+	2020-10-01
+Authors:
+	Waldeck, Frederike
+	Boroli, Filippo
+	Suh, Noémie
+	Wendel Garcia, Pedro David
+	Flury, Domenica
+	Notter, Julia
+	Iten, Anne
+	Kaiser, Laurent
+	Schrenzel, Jacques
+	Boggian, Katia
+	Maggiorini, Marco
+	Pugin, Jérôme
+	Kleger, Gian-Reto
+	Albrich, Werner Christian
+Abstract:
+	Influenza was recently reported as a risk factor for invasive aspergillosis (IA). We aimed to describe prognostic factors for influenza-associated IA (IAA) and poor outcome and mortality in critically ill patients in Switzerland. All adults with confirmed influenza admitted to the ICU at two Swiss tertiary care centres during the 2017/2018 influenza season were retrospectively evaluated. IAA was defined by clinical, mycological and radiological criteria: a positive galactomannan in bronchoalveolar lavage or histopathological or cultural evidence in respiratory specimens of Aspergillus spp., any radiological infiltrate and a compatible clinical presentation. Poor outcome was defined as a composite of in-hospital mortality, ICU length of stay (LOS), invasive ventilation for > 7 days or extracorporeal membrane oxygenation. Of 81 patients with influenza in the ICU, 9 (11%) were diagnosed with IAA. All patients with IAA had poor outcome compared to 26 (36%) patients without IAA ( p < 0.001). Median ICU-LOS and mortality were 17 vs. 3 days ( p < 0.01) and 3/9 (33%) vs. 13/72 (18%; p = 0.37) in patients with vs. without IAA, respectively. Patients with IAA had significantly longer durations of antibiotic therapy, vasoactive support and mechanical ventilation. Aspergillus was the most common respiratory co-pathogen (9/40, 22%) followed by classical bacterial co-pathogens. IAA was not associated with classical risk factors. Aspergillus is a common superinfection in critically ill influenza patients associated with poor outcome and longer duration of organ supportive therapies. Given the absence of classical risk factors for aspergillosis, greater awareness is necessary, particularly in those requiring organ supportive therapies.
+DOI: 
+	10.1007/s10096-020-03923-7
+URL: 
+	http://dx.doi.org/10.1007/s10096-020-03923-7
+
+
+Title: 
+	Integrated silica membrane–based nucleic acid purification, amplification, and visualization platform for low-cost, rapid detection of foodborne pathogens
+Publisher and Journal: 
+	Springer; Analytical and Bioanalytical Chemistry
+Publication Date: 
+	2020-10-01
+Authors:
+	Wang, Xiudan
+	Yan, Chunyu
+	Wang, Xiaokun
+	Zhao, Xiaoli
+	Shi, Chao
+	Ma, Cuiping
+Abstract:
+	Real-time fluorescence detection of nucleic acid exhibit excellent performance in analytical and diagnostic applications. However, the requirement of laboratory-based instrument and complex nucleic acid extraction greatly limits their application in point-of-care testing (POCT). Herein, a novel integrated silica membrane–based platform incorporating nucleic acid purification, amplification, and detection steps was developed. A universal and portable visualization platform was fabricated by incorporating denaturation bubble-mediated strand exchange amplification (SEA) reaction with silica membrane. The fluorescence signal of SYBR Green I with amplification products was visualized by the naked eye using a simple ultraviolet light on the silica membrane, and significant discrimination between the positive and negative samples could be easily and visually obtained. Besides, chitooligosaccharide-modified silica membrane allows the purification of nucleic acid in a totally aqueous system and enables in situ SEA. With the proposed integrated platform, 10 2 –10 8  cfu/mL Vibrio parahaemolyticus could be successfully detected and excellent performance was also revealed for gram-positive pathogens. The detection limit of the method for artificially spiked oysters was 10 3  cfu/g and reached 10 0  cfu/g after 12 h enrichment. This proof-of-concept method could also be applied to a variety of nucleic acid amplification methods. We believe that the proposed silica membrane–based platform has great potential for the rapid and low-cost detection of nucleic acids especially in low-resource settings. Graphical abstract
+DOI: 
+	10.1007/s00216-020-02823-1
+URL: 
+	http://dx.doi.org/10.1007/s00216-020-02823-1
+
+
+Title: 
+	Clinical evaluation of an in-house-developed real-time RT-PCR assay for serotyping of dengue virus
+Publisher and Journal: 
+	Springer; Archives of Virology
+Publication Date: 
+	2020-10-01
+Authors:
+	Kakade, M. B.
+	Shrivastava, N.
+	Patil, J. A.
+	Parashar, D.
+	Shah, P. S.
+	Alagarasu, K.
+Abstract:
+	In the present study, an in-house-developed real-time RT-PCR (rRT-PCR) for serotyping of dengue virus (DENV) was evaluated for its performance, using 612 clinical samples. Compared to the composite reference standard, the in-house-developed rRT-PCR had an overall sensitivity of 97.5% and a specificity of 100%. The assay had a sensitivity of 100%, 95.6%. 96.9% and 100% for detecting DENV-1, DENV-2, DENV-3 and DENV-4, respectively. We recommend periodic evaluation of real-time RT-PCR assays for detecting DENV serotypes with a large number of samples and the use of at least two assays that target different regions of DENV genomes.
+DOI: 
+	10.1007/s00705-020-04725-0
+URL: 
+	http://dx.doi.org/10.1007/s00705-020-04725-0
+
+
+Title: 
+	Black and Minority Ethnic (BAME) Alliance Against COVID-19: One Step Forward
+Publisher and Journal: 
+	Springer; Journal of Racial and Ethnic Health Disparities
+Publication Date: 
+	2020-10-01
+Authors:
+	Ahmed, Mohamed H.
+Abstract:
+	During the COVID-19 pandemic, the data of Department of Health in United Kingdom (UK) showed an increase mortality and morbidity among the Black and Minority Ethnic (BAME) population. This high mortality can be due to social factors, genetic and immunological factors. Metabolic factors like high prevalence of diabetes, obesity, metabolic syndrome and hypertension were also found to contribute to the increased risk of COVID-19 infection in BAME population. In addition, a large number of BAME population are working in jobs that involve regular and daily contact with public, and this may increase risk of encountering COVID-19 infection. Therefore, future research should address all these factors and generate the correct health policy that will allow us to combat the danger of COVID-19. We recommend the establishment of BAME alliance against COVID-19 in order to improve occupational risks and hazards, adequate income protection, culturally and linguistically appropriate public health communications and decreasing barriers in accessing healthcare. The BAME alliance will initially focus on (i) development of central system to record data about COVID-19 patients from BAME population (ii) involvement of healthcare professionals and researchers from ethnic minorities and (iii) multidisciplinary and inter-institution collaboration; for example, civil engineers and architects need to think about house design and ventilation that decrease risk of COVID-19 especially in BAME populations.
+DOI: 
+	10.1007/s40615-020-00837-0
+URL: 
+	http://dx.doi.org/10.1007/s40615-020-00837-0
+
+
+Title: 
+	Insights into the inhibitory potential of selective phytochemicals against Mpro of 2019-nCoV: a computer-aided study
+Publisher and Journal: 
+	Springer; Structural Chemistry
+Publication Date: 
+	2020-10-01
+Authors:
+	Rasool, Nouman
+	Akhtar, Ammara
+	Hussain, Waqar
+Abstract:
+	At the end of December 2019, a novel strain of coronavirus, given the name of 2019-nCoV, emerged for exhibiting symptoms of severe acute respiratory syndrome. The virus is spreading rapidly in China and around the globe, affecting thousands of people leading to a pandemic. To control the mortality rate associated with the 2019-nCoV, prompt steps are needed. Until now there is no effective treatment or drug present to control its life-threatening effects in the humans. The scientist is struggling to find new inhibitors of this deadly virus. In this study, to identify the effective inhibitor candidates against the main protease (Mpro) of 2019-nCoV, computational approaches were adopted. Phytochemicals having immense medicinal properties as ligands were docked against the Mpro of 2019-nCoV to study their binding properties. ADMET and DFT analyses were also further carried out to analyze the potential of these phytochemicals as an effective inhibitor against Mpro of 2019-nCoV.
+DOI: 
+	10.1007/s11224-020-01536-6
+URL: 
+	http://dx.doi.org/10.1007/s11224-020-01536-6
+
+
+Title: 
+	Etiologic Agents of Fever of Unknown Origin Among Patients Attending Mnazi Mmoja Hospital, Zanzibar
+Publisher and Journal: 
+	Springer; Journal of Community Health
+Publication Date: 
+	2020-10-01
+Authors:
+	Ali, Mohamed Ali
+	James, Okafor Chukwuma
+	Mohamed, Ahmed Abade
+	Joachim, Agricola
+	Mubi, Marcelina
+	Omodior, Oghenekaro
+Abstract:
+	Background Fever of unknown origin (FUO) remains an important public health problem. With malaria transmission declining in some parts of Africa, the evidence suggests other infectious agents now account for most FUO. The purpose of this study was to identify the etiologic agents of FUO in a cross-section of patients at the Mnazi Mmoja hospital in Zanzibar, Tanzania. Methodology A multiplex TaqMan gene expression Array Card (TAC) and plates were used for detection and classification of different pathogens in blood samples obtained from patients with FUO. Logistic regression analyses was performed using pathogens detected and sociodemographic characteristics as outcome and exposure variables respectively. Odd ratios and 95% confidence interval were calculated and statistical significance was set at P  < .05. Result Thirty-three different pathogens were detected in 27 patient blood samples. The following pathogens were detected in decreasing order of prevalence; Dengue virus, Plasmodium species, Rickettsia , Brucella species , Salmonella typhi , and less than 1% for each of Bartonella, Coxiella burnetii, Salmonella species, and Leptospira . Co-infections of Plasmodium with Dengue and S. typhi were also detected, including one case with three different pathogens— Plasmodium , Rickettsia and Brucella . There was no association between the etiologic agents of FUO and demographic or clinical characteristics. Conclusions Zoonotic and arboviral etiological agents of fever of unknown origin are present among patients at the Mnazi Mmoja hospital in Zanzibar, Tanzania. There is a need to develop a baseline of standardized diagnostic approaches particularly within the hospital setting. In areas with low malaria prevalence like Zanzibar, Dengue, Rickettsia, Coxiella burnetii, Brucellosis should be considered by clinicians in the differential diagnoses of FUO.
+DOI: 
+	10.1007/s10900-020-00832-w
+URL: 
+	http://dx.doi.org/10.1007/s10900-020-00832-w
+
+
+Title: 
+	Gene expression pattern differences in primary human pulmonary epithelial cells infected with MERS-CoV or SARS-CoV-2
+Publisher and Journal: 
+	Springer; Archives of Virology
+Publication Date: 
+	2020-10-01
+Authors:
+	Jang, Yunyueng
+	Seo, Sang Heui
+Abstract:
+	Coronaviruses such as MERS-CoV and SARS-CoV-2 infect the human respiratory tract and can cause severe pneumonia. Disease severity and outcomes are different for these two infections: the human mortality rate for MERS-CoV and SARS-CoV-2 is over 30% and less than 10%, respectively. Here, using microarray assay, we analyzed the global alterations in gene expression induced by MERS-CoV or SARS-CoV-2 infections in primary human pulmonary epithelial cells. Overall, the number of differentially expressed genes was higher in human lung cells infected with MERS-CoV than in cells with SARS-CoV-2. Out of 44,556 genes analyzed, 127 and 50 were differentially expressed in cells infected with MERS-CoV and SARS-CoV-2, respectively (> 2-fold increase, compared to uninfected cells). Of these, only eight genes, including the one coding for CXCL8, were similarly modulated (upregulated or downregulated) by the two coronaviruses. Importantly, these results were virus-specific and not conditioned by differences in viral load, and viral growth curves were similar in human lung cells infected with both viruses. Our results suggest that these distinct gene expression profiles, detected early after infection by these two coronaviruses, may help us understand the differences in clinical outcomes of MERS-CoV and SARS-CoV-2 infections.
+DOI: 
+	10.1007/s00705-020-04730-3
+URL: 
+	http://dx.doi.org/10.1007/s00705-020-04730-3
+
+
+Title: 
+	Preparedness of pharmacists to respond to the emergency of the COVID-19 pandemic in Brazil: a comprehensive overview
+Publisher and Journal: 
+	Springer; Drugs & Therapy Perspectives
+Publication Date: 
+	2020-10-01
+Authors:
+	Parreiras Martins, Maria Auxiliadora
+	Fonseca de Medeiros, Amanda
+	Dias Carneiro de Almeida, Claudmeire
+	Moreira Reis, Adriano Max
+Abstract:
+	The outbreak of COVID-19 in low- and middle-income countries is worrisome due to the social inequalities in these countries, their limited health budgets and the significant burden of other acute and chronic diseases. The leap in the number of cases in Brazil has imposed a huge strain on the healthcare system. We sought to provide a comprehensive overview of the challenges encountered by pharmacy services in responding to the COVID-19 pandemic emergency in Brazil and discuss the role of clinical pharmacists in this context. Pharmaceutical services play a key role in the emergency response to the pandemic. The pharmacy workforce has been actively working to manage drug shortages, redesign workflow, and review drug formularies/protocols to improve safety for patients and healthcare professionals (HCPs). COVID-19 patients may present high risk in the use of medications and clinical pharmacists can contribute substantially as part of a multidisciplinary team to improve outcomes in drug therapy in severe and critical illness. The participation of pharmacists as members of antimicrobial stewardship programs should be enhanced to ensure appropriate and safe use of antibiotics in this context. HCPs should be encouraged to seek improvements in the performance of pharmaceutical services and innovative practices to respond to the pandemic. Further studies are needed to generate knowledge on COVID-19 to improve patient care in vulnerable populations.
+DOI: 
+	10.1007/s40267-020-00761-7
+URL: 
+	http://dx.doi.org/10.1007/s40267-020-00761-7
+
+
+Title: 
+	COVID-19: A Concern for Cardiovascular Disease Patients
+Publisher and Journal: 
+	Springer; Cardiovascular Toxicology
+Publication Date: 
+	2020-10-01
+Authors:
+	Sharma, Shruti
+Abstract:
+	Coronavirus disease 2019 (COVID-19) is declared as a pandemic that has spread worldwide, affecting 205 countries. The disease affected 1, 40, 43, 176 individuals and caused 5, 97, 583 deaths around the globe. The organism responsible for the cause of disease is Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2). SARS-CoV-2 enters into the cell via receptors present on the cell surface named angiotensin-converting enzyme 2 (ACE2) receptor. Notwithstanding ACE2 receptors acts as a gateway for infection, and most of the cardiovascular patients are treated with the ACE inhibitors. Thus, the role of ACE inhibitors or angiotensin receptor blockers may play a critical role in the severity or outcome of disease. Also, the effect of ACE inhibitors varies with the polymorphism in ACE2 receptors present in the individuals. Hence, it is the need of the hour to investigate the mechanisms which could better aid in the treatment of COVID-19-infected cardiovascular disease (CVD) patients.
+DOI: 
+	10.1007/s12012-020-09596-0
+URL: 
+	http://dx.doi.org/10.1007/s12012-020-09596-0
+
+
+Title: 
+	Role of HLA-DRB1*04 in the susceptibility and HLA-DRB1*08 in the protection for development of rheumatoid arthritis in a population of Southern Mexico: brief report
+Publisher and Journal: 
+	Springer; Clinical Rheumatology
+Publication Date: 
+	2020-10-01
+Authors:
+	Sepúlveda-Delgado, J.
+	Rizo-Pinto, A.
+	Granados-Arriola, J.
+	Mena-Vela, B. A.
+	Cetina-Díaz, J. H.
+	García-Silva, R.
+	Hernández-Doño, S.
+	Cruz-Salvatierra, M. A.
+	Pérez-Tirado, J. M.
+	Vázquez-Guzmán, C.
+	Dominguez-Arrevillaga, S.
+	Trujillo-Vizuet, M. G.
+	Sanchez-González, R. A.
+	Zamudio-Castellanos, F.
+	Vera-Lastra, O. L.
+	Jara-Quezada, L. J.
+Abstract:
+	Rheumatoid arthritis (RA) is an autoimmune inflammatory disease with an increased prevalence in Mexico. Although its etiology is unknown, its development can be influenced by environmental factors such as smoking and viral infections. But among the factors influencing susceptibility, it is the genetic factors that predominate, mainly the HLA-DRB1 genes, and specifically the alleles that have the shared epitope (SE). A transversal study was performed, in which 31 patients (28 women and 3 men) with RA, treated at the autoimmunity clinic of the High Specialty Hospital Ciudad Salud in Tapachula, Chiapas, southern México, were enrolled. Clinical, biochemical, and demographic data were analyzed; ESR (erythrocyte sedimentation rate), CRP (C-reactive protein), RF (rheumatoid factor), and ACPA (anticitrullinated peptide antibody) were recorded. All patients had at least one positive RA biological marker. For HLA alleles frequencies comparison, we enrolled ethnically matched healthy controls in a ratio of 3:1 for 25 cases and 4:1 for 6 cases in order to guarantee the balance between groups regarding the mean of age and proportion of gender (males vs females). HLA-DRB1*04 was found to be significantly increased in patients compared with ethnically matched healthy controls ( p 0.0007, OR: 2.8, 95% CI 1.5–5.1); contrarily, DRB1*08 showed a protective effect ( p 0.005, OR 0.1). This paper confirmed the involvement of HLA genes on risk determination for RA in a population of Mexican Mestizos from Tapachula, Chiapas. Key Points • HLA-DRB1*04 confirms the increased risk of rheumatoid arthritis. • HLA-DRB1*08 showed a more definite protective effect in southern Mexicans mestizos, a population with more Amerindian ancestry.
+DOI: 
+	10.1007/s10067-020-05060-0
+URL: 
+	http://dx.doi.org/10.1007/s10067-020-05060-0
+
+
+Title: 
+	Guidance for Healthcare Providers Managing COVID-19 in Rural and Underserved Areas
+Publisher and Journal: 
+	Springer; Journal of Racial and Ethnic Health Disparities
+Publication Date: 
+	2020-10-01
+Authors:
+	Sharma, Sunil
+	Cain, James
+	Sakhuja, Ankit
+	Schaefer, Gregory
+	Krupica, Troy
+	Sarwari, Arif
+Abstract:
+	Coronavirus disease 2019 (COVID-19), which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has ravaged many urban and high-density areas in the USA. However, rural areas (despite their low population density) may be especially vulnerable to poor outcomes from COVID-19, owing to limited healthcare infrastructure, long distances to advanced health care, and population characteristics (e.g., high tobacco use, hypertension, obesity, older age). A panel of experts who are actively engaged in treating and managing COVID-19 at a rural academic center was convened to address this topic. In this commentary, we provide readers with some specific issues faced by rural healthcare providers and offer guidance in overcoming these challenges. This guidance includes alternative ventilator strategies, personal protective equipment (PPE), and common therapeutic options.
+DOI: 
+	10.1007/s40615-020-00820-9
+URL: 
+	http://dx.doi.org/10.1007/s40615-020-00820-9
+
+
+Title: 
+	Long-read human genome sequencing and its applications
+Publisher and Journal: 
+	Nature; Nature Reviews Genetics
+Publication Date: 
+	2020-10-01
+Authors:
+	Logsdon, Glennis A.
+	Vollger, Mitchell R.
+	Eichler, Evan E.
+Abstract:
+	Over the past decade, long-read, single-molecule DNA sequencing technologies have emerged as powerful players in genomics. With the ability to generate reads tens to thousands of kilobases in length with an accuracy approaching that of short-read sequencing technologies, these platforms have proven their ability to resolve some of the most challenging regions of the human genome, detect previously inaccessible structural variants and generate some of the first telomere-to-telomere assemblies of whole chromosomes. Long-read sequencing technologies will soon permit the routine assembly of diploid genomes, which will revolutionize genomics by revealing the full spectrum of human genetic variation, resolving some of the missing heritability and leading to the discovery of novel mechanisms of disease. Long-read sequencing is becoming more accessible and more accurate. In this Review, Logsdon et al. discuss the currently available platforms, how the technologies are being applied to assemble and phase human genomes, and their impact on improving our understanding of human genetic variation.
+DOI: 
+	10.1038/s41576-020-0236-x
+URL: 
+	http://dx.doi.org/10.1038/s41576-020-0236-x
+
+
+Title: 
+	Knowledge, Perceptions, and Attitude of Egyptians Towards the Novel Coronavirus Disease (COVID-19)
+Publisher and Journal: 
+	Springer; Journal of Community Health
+Publication Date: 
+	2020-10-01
+Authors:
+	Abdelhafiz, Ahmed Samir
+	Mohammed, Zeinab
+	Ibrahim, Maha Emad
+	Ziady, Hany H.
+	Alorabi, Mohamed
+	Ayyad, Mohamed
+	Sultan, Eman A.
+Abstract:
+	Coronavirus disease 2019 (COVID-19) has been recognized as a pandemic by the World Health Organization. Global efforts have been exerted to prevent the spreading of the disease through political decisions together with personal behaviors, which depend on awareness of the public. The goal of this study is to assess the knowledge, perceptions and attitude of the Egyptian public towards the COVID-19 disease. We conducted a cross-sectional survey about these points, which was distributed among adult Egyptians. Five hundred and fifty nine persons completed the survey. The mean knowledge score was 16.39 out of 23, gained mainly though social media (66.9%), and the internet (58.3%). Knowledge was significantly lower among older, less educated, lower income participants, and rural residents. Most participants (86.9%) were concerned about the risk of infection. While 37.6% thought that their salary will be continued if they become isolated, 68.5% believed that it should be continued during this period. About 73.0% were looking forward to get the vaccine when available. In general, participants had a good knowledge about the disease and a positive attitude towards protective measures. This knowledge is gained mainly through novel media channels, which have pros and cons. Although the government has taken major steps to educate the public and limit the spread of the disease, more effort is needed to educate and support the lower economic strata. If a vaccine or a treatment is approved, we recommend a government control over its use to preserve the rights of the vulnerable and needy groups.
+DOI: 
+	10.1007/s10900-020-00827-7
+URL: 
+	http://dx.doi.org/10.1007/s10900-020-00827-7
+
+
+Title: 
+	Coronavirus disease 2019 (COVID-19) in a patient with ankylosing spondylitis treated with secukinumab: a case-based review
+Publisher and Journal: 
+	Springer; Rheumatology International
+Publication Date: 
+	2020-10-01
+Authors:
+	Coskun Benlidayi, Ilke
+	Kurtaran, Behice
+	Tirasci, Emre
+	Guzel, Rengin
+Abstract:
+	Severe acute respiratory syndrome coranovirus-2 (SARS-CoV-2) infection has become an important health-care issue worldwide. The coronavirus disease 2019 (COVID-19) has also raised concerns among patients with inflammatory rheumatic conditions and their treating physicians. There are emerging data regarding the potential risks of SARS-CoV-2 for this particular patient group. However, less is known with regard to the course of COVID-19 among patients receiving IL-17 inhibitors. The aim of the current article is to review the growing body of knowledge on the course/management of COVID-19 in patients with inflammatory rheumatic diseases by presenting a SARS-CoV-2 infected case with ankylosing spondylitis under secukinumab therapy. A 61-year old patient with ankylosing spondylitis who was on secukinumab therapy for 5 months admitted with newly onset fever and gastrointestinal complaints. After being hospitalized, she developed respiratory manifestations with focal pulmonary ground-glass opacities and multiple nodular densities in both lungs. The patient was tested positive for SARS-CoV-2 infection. Substantial clinical improvement was obtained following a management plan, which included tocilizumab, hydroxychloroquine, prednisolone and enoxaparin sodium. PubMed/MEDLINE and Scopus databases were searched by using relevant keywords and their combinations. The literature search revealed four articles reporting the clinical course of COVID-19 in seven rheumatic patients on secukinumab. The clinical course of SARS-CoV-2 infection was mild in most of these patients, while one of them experienced severe COVID-19. Interleukin-17 has been related to the hyperinflammatory state in COVID-19 and IL-17 inhibitors were presented as promising targets for the prevention of aberrant inflammation and acute respiratory distress in COVID-19. However, this hypothesis still remains to be proved. Further studies are warranted in order to test the benefits and risks of IL-inhibitors in SARS-CoV-2 infected individuals.
+DOI: 
+	10.1007/s00296-020-04635-z
+URL: 
+	http://dx.doi.org/10.1007/s00296-020-04635-z
+
+
+Title: 
+	Integrative analysis of microRNA and mRNA expression profiles in MARC-145 cells infected with PRRSV
+Publisher and Journal: 
+	Springer; Virus Genes
+Publication Date: 
+	2020-10-01
+Authors:
+	Liang, Zhenpu
+	Wang, Liang
+	Wu, Hui
+	Singh, Deepali
+	Zhang, Xiaoxia
+Abstract:
+	Porcine reproductive and respiratory syndrome virus (PRRSV) causes tremendous economic losses to the swine industry worldwide. miRNAs are crucial regulators of gene expression and a wide range of complex interactions of miRNAs–mRNAs is possible during virus infection. However, there is no comprehensive integrated study of miRNA and mRNA networks in MARC-145 cells after infection with PRRSV. We analyzed the differential expressions, co-relations, annotations, and putative functions of miRNA and mRNA networks in PRRSV-infected MARC-145 cells. Based on the filtering criterion, 22 differentially expressed miRNAs (DEmiRs) (15 up- and 7 downregulated) were filtered out. miRNA–mRNA interaction networks were constructed. For the 18 selected miRNAs, 390 potential target genes were predicted from the differentially expressed mRNAs (DEmRs). GO and KEGG pathway annotations predicted 34 KEGG pathways, 12 of which are known to be involved in virus infection. Real-time PCR validated the RNA-seq results. Our analysis showed that miR-27a-5p and miR-21-3p downregulate the expression of two of their potential target genes–SPARC, CLIC1, and cofilin-1, COX7A2, respectively. Further experiments proved that miR-21-3p and miR-27a-5p can promote PRRSV replication significantly. It is the first report that these two miRNAs participate in the interaction of host cells with PRRSV. Our results provide insights into the role of miRNAs in response to PRRSV infection, which will aid the research for developing novel therapies against PRRSV.
+DOI: 
+	10.1007/s11262-020-01786-w
+URL: 
+	http://dx.doi.org/10.1007/s11262-020-01786-w
+
+
+Title: 
+	Hydroxychloroquine in COVID-19: Potential Mechanism of Action Against SARS-CoV-2
+Publisher and Journal: 
+	Springer; Current Pharmacology Reports
+Publication Date: 
+	2020-10-01
+Authors:
+	Satarker, Sairaj
+	Ahuja, Tejas
+	Banerjee, Madhuparna
+	E, Vignesh Balaji
+	Dogra, Shagun
+	Agarwal, Tushar
+	Nampoothiri, Madhavan
+Abstract:
+	Purpose of Review The rapid spread of virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has turned out to be a global emergency. Symptoms of this viral infection, coronavirus disease 2019 (COVID-19), include mild infections of the upper respiratory tract, viral pneumonia, respiratory failure, multiple organ failure and death. Till date, no drugs have been discovered to treat COVID-19 patients, and therefore, a considerable amount of interest has been shown in repurposing the existing drugs. Recent Findings Out of these drugs, chloroquine (CQ) and hydroxychloroquine (HCQ) have demonstrated positive results indicating a potential antiviral role against SARS-CoV-2. Its mechanism of action (MOA) includes the interference in the endocytic pathway, blockade of sialic acid receptors, restriction of pH mediated spike (S) protein cleavage at the angiotensin-converting enzyme 2 (ACE2) binding site and prevention of cytokine storm. Unfortunately, its adverse effects like gastrointestinal complications, retinopathy and QT interval prolongation are evident in treated COVID-19 patients. Yet, multiple clinical trials have been employed in several countries to evaluate its ability in turning into a needed drug in this pandemic. Summary This review attempts to summarize the MOA of CQ/HCQ and its side effects. The existing literature hints that till date, the role of CQ/HCQ in COVID-19 may be sceptical, and further studies are warranted for obtaining a therapeutic option that could be effectively used across the world to rise out from this pandemic.
+DOI: 
+	10.1007/s40495-020-00231-8
+URL: 
+	http://dx.doi.org/10.1007/s40495-020-00231-8
+
+
+Title: 
+	Epidemic SIS model in air-polluted environment
+Publisher and Journal: 
+	Springer; Journal of Applied Mathematics and Computing
+Publication Date: 
+	2020-10-01
+Authors:
+	Tuong, Tran Dinh
+Abstract:
+	In this paper, the epidemic model SIS under polluted environment is investigated. Study of epidemic models often focuses on determining under what conditions the disease will disappear or it will persist. With new techniques developed for periodic stochastic differential equations, we are able to classify the longtime behavior of the epidemic model by introducing a threshold value $$\lambda $$ λ . To be more specific, we show that if $$\lambda <0$$ λ < 0 then the disease-free is globally asymptotic stable, i.e., the disease will eventually disappear while the epidemic is strongly stochastically permanent provided that $$\lambda >0$$ λ > 0 . We also give some of numerical examples to illustrate our results. Moreover, the approach in this paper can be used to more general models.
+DOI: 
+	10.1007/s12190-020-01343-6
+URL: 
+	http://dx.doi.org/10.1007/s12190-020-01343-6
+
+
+Title: 
+	Coronavirus in Hematologic Malignancies: Targeting Molecules Beyond the Angiotensin-Converting Enzyme 2 (ACE2) Wall in COVID-19
+Publisher and Journal: 
+	Springer; Pathology & Oncology Research
+Publication Date: 
+	2020-10-01
+Authors:
+	Tsiambas, Evangelos
+	Papanikolaou, Vasileios
+	Chrysovergis, Aristeidis
+	Mastronikolis, Nicholas
+	Ragos, Vasileios
+	Kavantzas, Nikolaos
+	Lazaris, Andreas C.
+	Kyrodimos, Efthymios
+Abstract:
+	N/A 
+DOI: 
+	10.1007/s12253-020-00810-6
+URL: 
+	http://dx.doi.org/10.1007/s12253-020-00810-6
+
+
+Title: 
+	Soluble Urokinase Plasminogen Activator Receptor: A Biomarker for Predicting Complications and Critical Care Admission of COVID-19 Patients
+Publisher and Journal: 
+	Springer; Molecular Diagnosis & Therapy
+Publication Date: 
+	2020-10-01
+Authors:
+	Chalkias, Athanasios
+	Mouzarou, Angeliki
+	Samara, Evangelia
+	Xanthos, Theodoros
+	Ischaki, Eleni
+	Pantazopoulos, Ioannis
+Abstract:
+	The novel coronavirus infection has spread worldwide, causing a wide spectrum of clinical manifestations. Most patients develop moderate clinical illness, but a substantial number will experience severe pneumonia, which may rapidly progress to acute respiratory distress syndrome and multiple organ failure. In this population, soluble urokinase plasminogen activator receptor (suPAR) could serve as a quick triage test and independent marker of clinical severity, hospital and intensive care unit admission, complications, and mortality.
+DOI: 
+	10.1007/s40291-020-00481-8
+URL: 
+	http://dx.doi.org/10.1007/s40291-020-00481-8
+
+
+Title: 
+	Clinical and radiological characteristics of e-cigarette or vaping product use associated lung injury
+Publisher and Journal: 
+	Springer; Emergency Radiology
+Publication Date: 
+	2020-10-01
+Authors:
+	Chidambaram, Ambika G.
+	Dennis, Rebecca A.
+	Biko, David M.
+	Hook, Marcus
+	Allen, Julian
+	Rapp, Jordan B.
+Abstract:
+	Purpose E-cigarette or vaping product use associated lung injury (EVALI) has received national attention as an epidemic resulting in cases of significant morbidity and mortality. We aim to present the clinical and imaging findings in adolescents with pulmonary symptoms from suspected EVALI. Methods Chest radiographs and CTs of adolescents (< 19 years) with acute pulmonary symptoms and history of vaping were reviewed by two radiologists in consensus. Clinical presentation and laboratory data were derived from the electronic medical records including pulmonary function tests (PFTs). Results Eleven patients were identified (9 male, mean 16.6 years). The most common presentation was progressive, subacute respiratory distress with abdominal pain. All but one of the patients tested positive for tetrahydrocannabinol. Chest radiograph features were notable for interstitial pattern of opacities (91%) and basilar abnormalities (82%). CT features were notable for ground-glass opacities (89%), interstitial opacities (78%), and subpleural sparing (67%). Eight patients underwent PFTs. Six had diffusing capacity measurement, which demonstrated impaired diffusion in 3 (50%). All patients received supportive treatment with supplemental oxygen and corticosteroids. Conclusion Adolescents with suspected EVALI commonly present with subacute respiratory distress with abdominal pain. Imaging findings include ground-glass opacities, subpleural sparing, and basilar opacities, most consistent with organizing pneumonia or hypersensitivity pneumonitis. Recognition of the common imaging findings may have significant patient management implications, especially if the diagnosis is not suspected clinically. The lung function effects of vaping are consistent with mildly reduced airflow, which improves on follow-up testing, and reduced diffusion capacity, which, concerningly, does not improve.
+DOI: 
+	10.1007/s10140-020-01796-z
+URL: 
+	http://dx.doi.org/10.1007/s10140-020-01796-z
+
+
