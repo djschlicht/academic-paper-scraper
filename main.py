@@ -19,8 +19,8 @@ keywords = ['pathogenesis', 'incubation period', 'latent period',
 pathogens = ['H1N1', 'Ebola', 'Zika', 'MERS', 'Chikungunya']
 
 # create a text file to list relevant papers
-paper_file = open("papers.txt", "w")
-json_file = open("json.txt", "w") ### debug use
+paper_file = open("papers.txt", "a")
+json_file = open("json.txt", "a") ### debug use
 
 # generate the query to use
 query = sp.generate_query(keywords, pathogens)
@@ -28,12 +28,13 @@ query = sp.generate_query(keywords, pathogens)
 # access Springer API to search for papers
 # 	usage: request_springer(query, API type, max results)
 # documentation to help form queries: https://dev.springernature.com/docs
-obj = sp.request_springer(query, 'meta', 500, config.springer_api_key)
+for page in range(1, 5):
+	obj = sp.request_springer(query, 'meta', 50, config.springer_api_key, page)
 
-pprint.pprint(obj, json_file) ### debug use
+	pprint.pprint(obj, json_file) ### debug use
 
-# strip irrelevant data, format and write to file
-sp.format_results(obj, paper_file)
+	# strip irrelevant data, format and write to file
+	sp.format_results(obj, paper_file)
 
 paper_file.close()
 json_file.close() ### debug use

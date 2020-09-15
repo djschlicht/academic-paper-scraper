@@ -8,11 +8,12 @@ import requests
 ''' request_springer
 	parameters: query 	- keywords that you are searching for
 				api	  	- API type (open or meta)
-				num 	- max number of results 
+				num 	- max number of results per page (maxes at 50)
 				key 	- your API key
+				page	- page to look at
 	output: json object (really a dict) with search results 
 '''
-def request_springer(query, api, num, key):
+def request_springer(query, api, num, key, page):
 	# set API url and error check
 	if api == 'meta':
 		url = 'http://api.springernature.com/metadata/json?'
@@ -28,7 +29,7 @@ def request_springer(query, api, num, key):
 	# set parameters, make the request, return results
 	parameters = {
 		'q': query,
-		#'s': '1',  	# index of first hit to return (optional)
+		's': '1',  	# index of first hit to return (optional)
 		'p': str(num),
 		'api_key': str(key)
 	}
