@@ -10,7 +10,7 @@ import requests
 				api	  	- API type (open or meta)
 				num 	- max number of results 
 				key 	- your API key
-	output: json object with search results 
+	output: json object (really a dict) with search results 
 '''
 def request_springer(query, api, num, key):
 	# set API url and error check
@@ -34,6 +34,32 @@ def request_springer(query, api, num, key):
 	}
 	response = requests.get(url, params=parameters)
 	return response.json()
+	
+''' format_results
+	parameters: obj	- a json object (really a dict) to format
+				f	- a text file to write to
+'''
+def format_results(obj, f):
+	# get total number of results
+	num_results = obj['result'][0]['recordsDisplayed']
+
+	# for each result, format it and write to file
+	for res in obj['records']:
+		f.write('Title: \n\t' + res['title'] + '\n')
+		f.write('Publisher and Journal: \n\t' + res['publisher'] + 
+			'; ' + res['publicationName'] + '\n')
+		f.write('Publication Date: \n\t' + res['publicationDate'] + '\n')
+		f.write('Authors:\n')
+		for auth in res['creators']:
+			f.write('\t' + auth['creator'] + '\n')
+		f.write('Abstract:\n\t')
+		if res['abstract'] == '':
+			f.write('N/A \n')
+		else:
+			f.write(res['abstract'] + '\n')
+		f.write('DOI: \n\t' + res['doi'] + '\n')
+		f.write('URL: \n\t' + res['url'][0]['value'] + '\n\n\n')
+	
 
 
 
