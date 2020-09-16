@@ -29,7 +29,7 @@ def request_springer(query, api, num, key, page):
 	# set parameters, make the request, return results
 	parameters = {
 		'q': query,
-		's': '1',  	# index of first hit to return (optional)
+		's': str(page),  	# index of first hit to return (optional)
 		'p': str(num),
 		'api_key': str(key)
 	}
@@ -77,8 +77,8 @@ def generate_query(key, path):
 	for k in key[:-1]:
 		query = query + k + r'" OR "'
 	query = query + key[-1] + r'")'
-	# AND -(year:2021)
-	query = query + r' AND -(year:2021)'
+	query = query + r' AND (onlinedatefrom:1990-01-01 onlinedateto:2010-01-01)' + \
+					r' AND type:Journal'
 	return query
 	
 	
