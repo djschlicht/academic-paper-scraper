@@ -21,9 +21,9 @@ to find books and articles based on our search criteria.
 [documentation](https://dev.springernature.com/docs) can help with that
 
 ## Technology
-This is written purely in Python3 and uses the requests library for API calls.
+This is written purely in Python3 and uses the `requests` library for API calls.
 
-## To Do:
+## To Do
 * expand lists of trait-keywords and emerging pathogens
 * refine query generation
 * add modules for other academic publishers
