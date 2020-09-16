@@ -64,7 +64,7 @@ def format_results(obj, f):
 		f.write('URL: \n\t' + res['url'][0]['value'] + '\n\n\n')
 		
 ''' generate_query
-	parameters: key - keywords/traits/etc
+	parameters: key - trait keywords
 				path- pathogens
 	output:		a well crafted search term
 '''
@@ -77,6 +77,7 @@ def generate_query(key, path):
 	for k in key[:-1]:
 		query = query + k + r'" OR "'
 	query = query + key[-1] + r'")'
+	# add in some more filters
 	query = query + r' AND (onlinedatefrom:1990-01-01 onlinedateto:2010-01-01)' + \
 					r' AND type:Journal'
 	return query
