@@ -4,7 +4,7 @@
 The purpose of academic-paper-scraper is to automate data collection from
 academic databases. Our use case is to gather sources of information regarding the traits
 of emerging infectious pathogens, such as SARS-CoV-2 and Zika, but it 
-can be easily adapted for other research goals. It uses the Springer API
+can be easily adapted for other research goals. It currently uses the Springer API
 to find books and articles based on our search criteria.
 
 ## How To
@@ -12,7 +12,7 @@ to find books and articles based on our search criteria.
 * Request an API key from [Springer](https://dev.springernature.com/)
 * Clone this repository
 * Create a config.py file and put your API key in it
-* To run it just type `python3 main.py` in your CLI
+* To run it type `python3 main.py` while in the folder of your cloned repository
 * Results will go into a folder called data/ in your current working directory
 ### Modify
 * Change the bounds of the for loop in main.py to get more or fewer results
