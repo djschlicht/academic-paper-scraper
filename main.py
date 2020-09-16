@@ -9,6 +9,9 @@
 import config
 import springer as sp
 import pprint
+import time
+
+start = time.time()
 
 # should be relevant to disease traits
 keywords = ['pathogenesis', 'incubation period', 'latent period', 
@@ -19,8 +22,8 @@ keywords = ['pathogenesis', 'incubation period', 'latent period',
 pathogens = ['H1N1', 'Ebola', 'Zika', 'MERS', 'Chikungunya']
 
 # create a text file to list relevant papers
-paper_file = open(r"./data/papers.txt", "a")
-raw_file = open(r"./data/raw.txt", "a") ### debug use
+paper_file = open(r"./data/papers.txt", "w")
+raw_file = open(r"./data/raw.txt", "w") ### debug use
 
 # generate the query to use
 query = sp.generate_query(keywords, pathogens)
@@ -28,7 +31,7 @@ query = sp.generate_query(keywords, pathogens)
 # access Springer API to search for papers
 # 	usage: request_springer(query, API type, max results)
 # documentation to help form queries: https://dev.springernature.com/docs
-for page in range(1, 500, 50):
+for page in range(1, 450, 50):
 	obj = sp.request_springer(query, 'meta', 50, config.springer_api_key, page)
 
 	pprint.pprint(obj, raw_file) ### debug use
@@ -38,3 +41,6 @@ for page in range(1, 500, 50):
 
 paper_file.close()
 raw_file.close() ### debug use
+
+end = time.time()
+print("Run time was %d seconds" % (end-start))
