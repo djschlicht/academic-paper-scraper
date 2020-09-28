@@ -1,4 +1,4 @@
-# academic-paper-scraper
+# PubMed
 
 ## Summary
 The purpose of academic-paper-scraper is to automate data collection from
@@ -10,21 +10,6 @@ APIs is in progress.
 
 ## How To
 ### Set Up
-* Request an API key from [Springer](https://dev.springernature.com/)
-* Clone this repository
-* Create a config.py file and put your API key in it
-* To run it type `python3 main.py` while in the folder of your cloned repository
-* Results will go into a folder called data/ in your current working directory
-### Modify
-* Change the bounds of the for loop in main.py to get more or fewer results
-* Add your own items to the lists `keywords` and `pathogens`
-* Modify the `query_generator` function in springer.py. Springer's API
-[documentation](https://dev.springernature.com/docs) can help with that
-
-## Technology
-This is written purely in Python3 and uses the `requests` library for API calls.
-
-## To Do
-* expand lists of trait-keywords and emerging pathogens
-* refine query generation
-* add modules for other academic publishers
+* Install pubmed_parser: https://titipata.github.io/pubmed_parser/install.html
+* Install pymed with: pip install pymed 
+* Follow instructions: https://kevinvecmanis.io/python/pyspark/install/2019/05/31/Installing-Apache-Spark.html
