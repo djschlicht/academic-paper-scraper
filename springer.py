@@ -17,7 +17,7 @@ def request_springer(query, api, num, key, page):
 	# set API url and error check
 	if api == 'meta':
 		url = 'http://api.springernature.com/metadata/json?'
-	elif api == 'open':
+	elif api == 'open': # use open for openaccess (full text)
 		url = 'http://api.springer.com/openaccess/json?'
 	else:
 		print("Invalid API param. Choose 'meta' or 'open'.")
