@@ -1,14 +1,19 @@
 *** Instructions:*********************************
 *** - Group synonyms using parentheses.
 *** - Group multi-word phrases in brackets
-* 
+*** - Lines starting with '*' will be ignored
 * How the query logic operates:
 * (a, b), c, d --> (a OR b) AND c AND d
 **************************************************
+
+*** Direct trait keywords:
 (proportion, ratio, rate), (asymptomatic, asymptomatic infection)
 
 
-
+*** Other keywords:
+virus
+bacteria
+helminth, parasite
 
 
 **************************************************
