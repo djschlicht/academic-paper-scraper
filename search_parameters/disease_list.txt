@@ -1,12 +1,14 @@
-***** Instructions: ******************************
+***** Instructions: ****************************************************
 *** - One disease per line
 *** - Separate alternate names with commas
 *** - Lines starting with '*' will be ignored
-**************************************************
-Ebola
-Nipah
-Chikungunya
-H1N1, swine flu
+*** - See trait_list.txt header for a more thorough explanation
+************************************************************************
+*** Disease List:
+Ebola, ebola virus, ebola hemorrhagic fever
+Nipah, nipah virus
+Chikungunya, Chikungunya virus, Chikungunya fever
+H1N1, swine flu, pig influenza
 MERS, middle east respiratory syndrome
-Zika
-COVID-19, Covid, SARS-COV-2
+Zika, zika fever, zika virus
+COVID-19, Covid, SARS-COV-2, coronavirus
