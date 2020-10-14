@@ -1,36 +1,26 @@
-*** Instructions:*******************************************************
-*** - Group using parentheses.
-*** - Lines starting with '*' will be ignored
-************************************************************************
-*** Explanation of queries: 
-* 	-> 'disease from disease_list' AND 'trait from trait_list'
-*		- Each represents one line from it's respective list
-* 	-> (For now) 1 disease and 1 trait will be paired and queried at a
-*	time (to narrow focus and get more accurate results). This will be 
-*	done iteratively based on the items found here and in disease_list.
-*		- This part is open to experimentation, but I found that using
-*		a big nest of logical groupings did not provide good results, so
-*		I'm going to try the opposite and see how it works (for science).
-* 	-> 'disease from disease_list' is a disjunction of comma-separated
-* 	items from one line (to handle multiple names for 1 thing)
-* 	-> 'trait from trait_list' includes comma-separated and parentheses- 
-*	grouped items from one line.
-* 		- Items INSIDE of parentheses will be a disjunction.
-* 		- Items OUTSIDE of parentheses (including the groups themselves)
-* 		will be a conjunction.
-*		- Nested parentheses don't work well. Try to use the properties
-		of boolean algebra to get around this if it's needed.
-*		- The idea is to provide a means to account for flexibility 
-*		of language (synonyms) while getting accurate/complete results.
-* 	-> Ex. (a, b), c, d --> (a OR b) AND c AND d
-**** Ideas for expansion and improvement:
-* -> Organize keywords into groupings (e.g. geographic, biological, etc)
-* -> Add in a 'NOT' function to negate things.
-* -> Allow 'mix-n-match' using indices(?) to share frequently used terms
-* -> (After Capstone,) make it available open-source. The foundation of
-*	this could be adapted for other research topics.
-************************************************************************
-*** TRAIT KEYWORDS START HERE:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ About: trait_list.txt is a repository of terms considered to be
++++		traits of infectious diseases. It is designed to work with
++++ 	software to quickly and accurately search for sources (articles,
++++		papers, etc) containing data on these traits as they relate to 
++++		emerging pathogens.
++++ 	
++++ Information:
++++ -> Lines starting with '+' are ignored
++++ -> Group synonyms using curly brackets: {proportion, ratio}
++++ -> Boolean operators are available: AND, OR, NOT
++++		-> Results with AND will be displayed higher than those with OR
++++ -> Wildcards characters are available:
++++	   '?' for single character replacement or '*' for any number
++++ -> Each line represents one trait
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Examples:
++ 
++	
++
++
++
+++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 (proportion, ratio, rate), (asymptomatic, asymptomatic infection)
 pathogen, vector
 
@@ -40,33 +30,17 @@ pathogen, vector
 
 
 
-************************************************************************
-* SUGGESTED TRAITS (to be added soon):
-* pathogen species
-* geographic location detected
-* geographic location of origin
-* transmission efficiency estimates
-* incubation period
-* latent period
-* infectious period
-* proportion of asymptomatic infections
-* rate of deaths
-* time to death post-infection
-* other host species infected
-* pathogen vectors
-* pathogen reservoirs
-* date first detected
-* date first detected in humans
-* date of first detection of transmission within human population
-* date of first known outbreak greater than 10 people
-* date of first known outbreak of greater than 100 people
-* date of first known outbreak of greater than 1000 people
-* date of largest outbreak recorded
-* number of cases of largest outbreak recorded
-* total number of countries with human infections due to pathogen
-* names of countries/ geographic entities where infections have been recorded
-**************************************************
-* Other keywords:
-* virus
-* bacteria
-* helminth, parasite
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ Ideas for expansion and improvement:
++ -> Organize keywords into groupings (e.g. geographic, biological)
++ -> Allow 'mix-n-match' using indices(?) to share frequently used terms,
++	 such as rate, proportion, etc
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
