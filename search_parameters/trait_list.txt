@@ -18,11 +18,14 @@
 * 		- Items INSIDE of parentheses will be a disjunction.
 * 		- Items OUTSIDE of parentheses (including the groups themselves)
 * 		will be a conjunction.
+*		- Nested parentheses don't work well. Try to use the properties
+		of boolean algebra to get around this if it's needed.
 *		- The idea is to provide a means to account for flexibility 
 *		of language (synonyms) while getting accurate/complete results.
 * 	-> Ex. (a, b), c, d --> (a OR b) AND c AND d
 **** Ideas for expansion and improvement:
 * -> Organize keywords into groupings (e.g. geographic, biological, etc)
+* -> Add in a 'NOT' function to negate things.
 * -> Allow 'mix-n-match' using indices(?) to share frequently used terms
 * -> (After Capstone,) make it available open-source. The foundation of
 *	this could be adapted for other research topics.
