@@ -3,3 +3,4 @@ config.py
 data
 tmp_files
 todo.txt
+backups
