@@ -65,9 +65,5 @@ def format_results(obj, f):
 			f.write('\n')
 		f.write('DOI: \n\t' + res['doi'] + '\n')
 		f.write('URL: \n\t' + res['url'][0]['value'] + '\n\n\n')
-	
-	
-
-
 
 

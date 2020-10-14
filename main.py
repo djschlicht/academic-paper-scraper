@@ -126,17 +126,11 @@ query = generate_query(diseases[3], traits[7])
 #call_springer(query)
 
 # Test of getting full text open access papers (roundaboutly)
-doi = '10.1007/s11908-013-0377-6'
-fpath = get_text(doi)
+doi1 = '10.1007/s11908-013-0377-6'
+doi2 = '10.1007/s41403-020-00166-y'
+print(get_text(doi1))
+print(get_text(doi2))
 
-print(fpath)
-
-'''
-start = time.time()
-
-end = time.time()
-print("Run time was %d seconds" % (end-start))
-'''
 ''' Uncomment to print 
 diseases and traits list to stdout
 

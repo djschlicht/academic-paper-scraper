@@ -42,7 +42,7 @@ death AND ("time to" OR speed OR time*)
 reservoir*
 vector*
 host AND species
-zoonosis
+zoonos*
 
 
 ++++++++++ Spread/transmissibility:
