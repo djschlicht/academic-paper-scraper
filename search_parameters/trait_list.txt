@@ -7,29 +7,31 @@
 +++ 	
 +++ Information:
 +++ -> Lines starting with '+' are ignored
-+++ -> Group synonyms using curly brackets: <proportion, ratio>
 +++ -> Boolean operators are available: AND, OR, NOT
 +++		-> Results with AND will be displayed higher than those with OR
 +++ -> Wildcards characters are available:
 +++	   '?' for single character replacement or '*' for any number
 +++ -> Each line represents one trait
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+	
++ Common synonyms:
++	(proportion OR ratio) 
++	(period OR timeframe)
++	(first OR original* OR initial*)
 +
 +
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 transmission efficiency
-<proportion, ratio> "asymptomatic infection*"
-latent <period, timeframe>
-infectious <period, timeframe>
-incubation <period, timeframe>
+"asymptomatic infection*" (proportion OR ratio) 
+latent (period OR timeframe)
+infectious (period OR timeframe)
+incubation (period OR timeframe)
 location AND (origin OR detect*)
 outbreak "1* people"
 reservoirs
 vectors
 "host species"
-death <speed, time*> 
-date <first, originally, initially> detect*
+death (rate OR speed OR time*) 
+date (first OR original* OR initial*) detect*
 
 
 
