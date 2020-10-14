@@ -7,6 +7,7 @@ import time
 import re
 import copy
 import springer as sp
+from doc_converter import get_text
 
 ''' Global variables '''
 # these store data from disease_list.txt and trait_list.txt
@@ -14,7 +15,7 @@ diseases = []
 traits = []
 
 
-''' call_springer()
+''' call_springer
 Puts API calls in to the Springer Database 
 Stores results in 'papers.txt' and 'raw.txt' in ./data/springer.
 
@@ -55,6 +56,9 @@ def generate_query(disease, trait):
 	
 	# trait terms should have internal grouping, just put parens outside
 	query += '(' + trait + ')'
+	
+	# adding (emerging infecti* disease* OR EID*) to query to narrow results
+	query += 'AND (emerging infecti* disease* OR EID*)'
 
 	'''
 	End result should look something like:
@@ -118,10 +122,14 @@ get_trait_data()
 # Build the search string
 query = generate_query(diseases[3], traits[7])
 
-# Test on the API
-call_springer(query)
+# Test on the API - works great now to refine searches
+#call_springer(query)
 
+# Test of getting full text open access papers (roundaboutly)
+doi = '10.1007/s11908-013-0377-6'
+fpath = get_text(doi)
 
+print(fpath)
 
 '''
 start = time.time()
@@ -129,7 +137,6 @@ start = time.time()
 end = time.time()
 print("Run time was %d seconds" % (end-start))
 '''
-
 ''' Uncomment to print 
 diseases and traits list to stdout
 
