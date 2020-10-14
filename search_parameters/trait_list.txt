@@ -1,52 +1,79 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++ About: trait_list.txt is a repository of terms considered to be
-+++		traits of infectious diseases. It is designed to work with
-+++ 	software to quickly and accurately search for sources (articles,
-+++		papers, etc) containing data on these traits as they relate to 
-+++		emerging pathogens.
-+++ 	
 +++ Information:
 +++ -> Lines starting with '+' are ignored
-+++ -> Boolean operators are available: AND, OR, NOT
-+++		-> Results with AND will be displayed higher than those with OR
-+++ -> Wildcards characters are available:
-+++	   '?' for single character replacement or '*' for any number
++++ -> Boolean operators available are: AND, OR, NOT
++++ -> Wildcards characters available are: ?, *
 +++ -> Each line represents one trait
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Tips: 
++	-> Wildcards to cover word forms: infecti* = infection, infectious
++	-> Group interchangable words together and 'OR' them
++	-> Use NOT to remove results you don't want e.g. bill NOT cosby
++	-> Keep organized (roughly by general type, just for sanity)
++	-> Put important words first, its easier to modify descriptors later
++	-> 'AND' results get shown higher than 'OR' results
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 + Common synonyms:
-+	(proportion OR ratio) 
-+	(period OR timeframe)
-+	(first OR original* OR initial*)
++	(proportion OR ratio OR percent*) 
++	(period OR time* OR duration)
++	(first OR origin* OR initial*)
++	(rate OR speed)
 +
-+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
-transmission efficiency
-"asymptomatic infection*" (proportion OR ratio) 
-latent (period OR timeframe)
-infectious (period OR timeframe)
-incubation (period OR timeframe)
-location AND (origin OR detect*)
-outbreak "1* people"
-reservoirs
-vectors
-"host species"
-death (rate OR speed OR time*) 
-date (first OR original* OR initial*) detect*
+
++++++++++ Origin location/date and outbreaks:
+(geograph* OR location OR origin*) AND (detect* OR discover*)
+(date OR year) AND (detect* OR discover*)
+outbreak AND (geograph* OR location OR origin*)
+outbreak AND (date OR year)
+transmiss* AND human AND (first OR origin* OR initial)
 
 
++++++++++ Human infection/effects:
+asymptomatic AND (proportion OR ratio OR percent*) 
+infecti* AND (period OR time* OR duration)
+incubation AND (period OR time* OR duration)
+latent AND (period OR time* OR duration)
+death AND ("time to" OR speed OR time*)
 
 
+++++++++++ Animals infected/reservoirs/hosts:
+reservoir*
+vector*
+host AND species
+zoonosis
 
 
-
-
-
-
+++++++++++ Spread/transmissibility:
+transmiss* AND (efficiency OR rate)
+infect* AND number AND (human* OR population)
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-++++ Ideas for expansion and improvement:
-+ -> Organize keywords into groupings (e.g. geographic, biological)
-+ -> Allow 'mix-n-match' using indices(?) to share frequently used terms,
-+	 such as rate, proportion, etc
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ Below is are some of the traits we are searching for, but it is not 
++++ all encompassing and is open to edits and additions.
+++++++++++++++++++++++++++ List of Traits: +++++++++++++++++++++++++++++
++ pathogen species
++ geographic location detected
++ geographic location of origin
++ transmission efficiency estimates
++ incubation period
++ latent period
++ infectious period
++ proportion of asymptomatic infections
++ rate of deaths
++ time to death post-infection
++ other host species infected
++ pathogen vectors
++ pathogen reservoirs
++ date first detected
++ date first detected in humans
++ date of first detection of transmission within human population
++ date of first known outbreak greater than 10 people
++ date of first known outbreak of greater than 100 people
++ date of first known outbreak of greater than 1000 people
++ date of largest outbreak recorded
++ number of cases of largest outbreak recorded
++ total number of countries with human infections due to pathogen
++ names of countries/entities where infections have been recorded

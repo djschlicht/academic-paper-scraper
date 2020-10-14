@@ -4,106 +4,122 @@
 import config
 import pprint
 import time
+import re
+import copy
 import springer as sp
 
 ''' Global variables '''
+# these store data from disease_list.txt and trait_list.txt
 diseases = []
 traits = []
 
-''' Functions ''' 
+
 ''' call_springer()
-This function will put API calls into the Springer Database and store
-the results in the files 'papers.txt' and 'raw.txt' in ./data/springer.
+Puts API calls in to the Springer Database 
+Stores results in 'papers.txt' and 'raw.txt' in ./data/springer.
+
+Params: query, the string to be entered in the search
 '''
-def call_springer():
+def call_springer(query):
 	# create text files to store the data
-	paper_file = open(r"./data/springer/papers.txt", "w")
-	raw_file = open(r"./data/springer/raw.txt", "w")
+	fp= "./data/springer/"
+	with open(fp+"papers.txt", "w") as papers, open(fp+"raw.txt", "w") as raw:
 
-	# generate the query to use
-	query = generate_query(keywords, pathogens)
+		# access Springer API to search for papers
+		# usage: request_springer(query, API type, results per page, starting position)
+		# documentation to help form queries: https://dev.springernature.com/docs
+		for page in range(1, 450, 50):
+			obj = sp.request_springer(query, 'open', 50, config.springer_api_key, page)
+			pprint.pprint(obj, raw)
 
-	# access Springer API to search for papers
-	# 	usage: request_springer(query, API type, results per page, starting position)
-	# documentation to help form queries: https://dev.springernature.com/docs
-	for page in range(1, 450, 50):
-		obj = sp.request_springer(query, 'open', 50, config.springer_api_key, page)
-		pprint.pprint(obj, raw_file)
-
-		# strip irrelevant data, format and write to file
-		sp.format_results(obj, paper_file)
-
-	paper_file.close()
-	raw_file.close()
+			# strip irrelevant data, format and write to file
+			sp.format_results(obj, papers)
 
 ''' generate_query()
-This will format the provided information into a search query.
+Formats strings from disease_list.txt and trait_list.txt into
+search queries (also strings). 
 
 params: disease - a list containing the name(s) of the disease
 		trait - a list containing the trait information
 output: returns a string containing the query
 '''
 def generate_query(disease, trait):
-	# add disease name(s). e.g. ("covid" OR "sars-cov-2")
-	query = r'("'	
-	query += r'" OR "'.join(disease)
-	query += r'")'
+	
+	# group alternate names using OR and parentheses
+	query = '('	
+	query += r' OR '.join(disease)
+	query += ')'
 	
 	# use logical AND to link disease + trait info
-	query += r' AND '
+	query += ' AND '
 	
-	# add trait information e.g.
-	# ("proportion" OR "ratio" OR "rate") AND ("asymptomatic" OR "asymptomatic infection")
-	
-	
-	print(query)	
+	# trait terms should have internal grouping, just put parens outside
+	query += '(' + trait + ')'
+
+	'''
+	End result should look something like:
+	(COVID-19 OR Sars-COV-2 OR "novel coronavirus") AND 
+		(asymptomatic AND (proportion OR ratio OR percent*))
+	'''
+
+	# TODO: add extra filters e.g. date restriction, journal, etc
 	
 	return query
 	
-	
-''' get_disease_trait_data()
-This function will read the files 'disease_list.txt' and 'trait_list.txt'
-and format them into lists that are stored as global variables.
+''' get_disease_data()
+Reads './search_parameters/disease_list.txt', extracts the list of 
+disease names and formats it into a list called 'diseases'.
 '''
-def get_disease_trait_data():
-	# Get the lists of diseases and traits
-	disease_file = open(r'./search_parameters/disease_list.txt', 'r')
-	trait_file = open(r'./search_parameters/trait_list.txt', 'r')
+def get_disease_data():
+	with open(r'./search_parameters/disease_list.txt', 'r') as disease_file:
 	
-	# create a 2d list from disease_file of disease names
-	# e.g. [[ebola],[covid-19,sars-cov-2,covid],[nipah]]
-	for line in disease_file:
-		# skip the instructions section in the header
-		if line[0] == '*':
-			continue
-			
-		# split by comma and add the names to diseases global var
-		tmp = [word.rstrip('\n') for word in line.split(', ')]
-		diseases.append(tmp)
+		# might use later to index disease info
+		line_counter = 0 
 		
-	# create a multi-dimensional list from trait_file
-	
-	
-	
-	
-	
-	# close the files
-	disease_file.close()
-	trait_file.close()
-	
+		# create a 2d list of diseases and alternate names for them
+		for line in disease_file:
+			# skip the header
+			if line[0] == '+' or line[0] == '\n':
+				line_counter += 1
+				continue
+				
+			# split by comma and add the names to 'diseases' top-level list
+			tmp = [word.rstrip('\n') for word in line.split(', ')]
+			diseases.append(tmp)
+			line_counter += 1
+
+''' get_trait_data()
+Reads './search_parameters/trait_list.txt', extracts the list of trait
+information and formats it into a list called 'traits'.
+'''
+def get_trait_data():
+	with open(r'./search_parameters/trait_list.txt', 'r') as trait_file:
+		
+		# might use later to index trait info
+		line_counter = 0 
+		
+		# parse the file
+		for line in trait_file:
+			# skip the header/instructions/etc
+			if line[0] == '+' or line[0] == '\n':
+				line_counter += 1
+				continue
+				
+			# add the whole line to the list
+			traits.append(line.rstrip('\n'))	
+			line_counter += 1
 
 
 ''' Main '''
-pp = pprint.PrettyPrinter(indent=1)
+# Load up most recent data from disease_list and trait_list
+get_disease_data()
+get_trait_data()
 
-get_disease_trait_data()
-print("Diseases:")
-pp.pprint(diseases)
-print()
+# Build the search string
+query = generate_query(diseases[3], traits[7])
 
-for d in diseases:
-	generate_query(d, [0])
-	
+# Test on the API
+call_springer(query)
 
 
 
@@ -114,4 +130,15 @@ end = time.time()
 print("Run time was %d seconds" % (end-start))
 '''
 
+''' Uncomment to print 
+diseases and traits list to stdout
+
+pp = pprint.PrettyPrinter(indent=1)
+print("Disease and Names:")
+pp.pprint(diseases)
+print()
+print("Trait Strings:")
+pp.pprint(traits)
+print()
+'''
 

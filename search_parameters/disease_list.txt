@@ -4,15 +4,12 @@
 +++ 	
 +++ Information:
 +++ -> Lines starting with '+' are ignored
-+++ -> Boolean operators are available: AND, OR, NOT
-+++		-> Results with AND will be displayed higher than those with OR
-+++ -> Wildcards characters are available:
-+++	   '?' for single character replacement or '*' for any number
 +++ -> Each line represents one disease
 +++ -> Comma-separate alternate names on the same line
++++		-> Comma-separate elements are OR'd together in formatting
++++ -> Boolean operators are available: AND, OR, NOT
++++ -> Wildcards characters are available: ?, *
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+
-+
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 
 
@@ -20,25 +17,25 @@
 COVID-19, Covid, SARS-COV-2, "novel coronavirus"
 Ebola, ebola virus, "ebola hemorrhagic fever"
 Zika, zika (fever OR virus)
-Nipah, nipah virus
-Chikungunya, Chikungunya virus, Chikungunya fever
-H1N1, (swine OR pig) (flu OR influenza)
+Nipah, "nipah virus"
+Chikungunya, Chikungunya (virus OR fever)
+H1N1, (swine OR pig) AND (flu OR influenza)
 MERS, middle east respiratory syndrome
-Avian (flu OR influenza)
+Avian AND (flu OR influenza)
 HIV, "human immunodeficiency virus"
 SARS, SARS-COV-1, "severe acute respiratory syndrome"
 Lyme disease
-"West nile virus"
+"West nile" virus
 "dengue fever"
 
 
 
 ++++++++++++++++++++ Re-Emerging: ++++++++++++++++++++ 
-malaria
-tuberculosis
-cholera
-pertussis
-gonorrhea
++ malaria
++ tuberculosis
++ cholera
++ pertussis
++ gonorrhea
 
 
 
