@@ -1,14 +1,29 @@
-***** Instructions: ****************************************************
-*** - One disease per line
-*** - Separate alternate names with commas
-*** - Lines starting with '*' will be ignored
-*** - See trait_list.txt header for a more thorough explanation
-************************************************************************
-*** Disease List:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ About: disease_list.txt is a list of infectious diseases that are
++++		currently emerging or have been considered one in the past. 
++++ 	
++++ Information:
++++ -> Lines starting with '+' are ignored
++++ -> Boolean operators are available: AND, OR, NOT
++++		-> Results with AND will be displayed higher than those with OR
++++ -> Wildcards characters are available:
++++	   '?' for single character replacement or '*' for any number
++++ -> Each line represents one disease
++++ -> Comma-separate alternate names on the same line
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++
++
+++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
+COVID-19, Covid, SARS-COV-2, "novel coronavirus"
 Ebola, ebola virus, ebola hemorrhagic fever
 Nipah, nipah virus
 Chikungunya, Chikungunya virus, Chikungunya fever
 H1N1, swine flu, pig influenza
 MERS, middle east respiratory syndrome
 Zika, zika fever, zika virus
-COVID-19, Covid, SARS-COV-2, coronavirus
+
+
+
+
+
+
