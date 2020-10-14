@@ -7,25 +7,29 @@
 +++ 	
 +++ Information:
 +++ -> Lines starting with '+' are ignored
-+++ -> Group synonyms using curly brackets: {proportion, ratio}
++++ -> Group synonyms using curly brackets: <proportion, ratio>
 +++ -> Boolean operators are available: AND, OR, NOT
 +++		-> Results with AND will be displayed higher than those with OR
 +++ -> Wildcards characters are available:
 +++	   '?' for single character replacement or '*' for any number
 +++ -> Each line represents one trait
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+ Examples:
-+ 
 +	
 +
 +
-+
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
-(proportion, ratio, rate), (asymptomatic, asymptomatic infection)
-pathogen, vector
-
-
-
+transmission efficiency
+<proportion, ratio> "asymptomatic infection*"
+latent <period, timeframe>
+infectious <period, timeframe>
+incubation <period, timeframe>
+location AND (origin OR detect*)
+outbreak "1* people"
+reservoirs
+vectors
+"host species"
+death <speed, time*> 
+date <first, originally, initially> detect*
 
 
 
