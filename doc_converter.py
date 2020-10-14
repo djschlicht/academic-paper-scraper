@@ -42,9 +42,7 @@ def pdf_to_text(pdf_path, doi):
 	# make directory with folder_name where you store full texts
 	# first check if the dir already exists
 	txt_path = './texts/'+folder_name+'/'
-	if os.path.exists(txt_path):
-		raise Exception("Error: That filepath already exists.")
-	else:
+	if not os.path.exists(txt_path):
 		os.mkdir(txt_path)
 	
 	# add file name to the path
@@ -53,7 +51,7 @@ def pdf_to_text(pdf_path, doi):
 	# open the pdf and write to the file you just named
 	with open(pdf_path, 'rb') as pdf_file, open(txt_path, 'w') as txt_file:
 		# spool up a reader
-		reader = PyPDF2.PdfFileReader(pdf_file)
+		reader = PyPDF2.PdfFileReader(pdf_file, strict = False)
 		# get number of pages
 		num_pages = reader.numPages
 		# loop to get text from all pages and write to txt file
