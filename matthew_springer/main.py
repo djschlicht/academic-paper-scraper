@@ -7,7 +7,6 @@ import time
 import springer as sp
 
 # Put your own API key
-springer_api_key = "e0b7d7365a763c1aa1a9cf2b518c2be4"
 
 # %%
 ''' Functions ''' 
