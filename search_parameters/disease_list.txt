@@ -14,14 +14,31 @@
 +
 +
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
+
+
+++++++++++++++++++++ Emerging: ++++++++++++++++++++ 
 COVID-19, Covid, SARS-COV-2, "novel coronavirus"
-Ebola, ebola virus, ebola hemorrhagic fever
+Ebola, ebola virus, "ebola hemorrhagic fever"
+Zika, zika (fever OR virus)
 Nipah, nipah virus
 Chikungunya, Chikungunya virus, Chikungunya fever
-H1N1, swine flu, pig influenza
+H1N1, (swine OR pig) (flu OR influenza)
 MERS, middle east respiratory syndrome
-Zika, zika fever, zika virus
+Avian (flu OR influenza)
+HIV, "human immunodeficiency virus"
+SARS, SARS-COV-1, "severe acute respiratory syndrome"
+Lyme disease
+"West nile virus"
+"dengue fever"
 
+
+
+++++++++++++++++++++ Re-Emerging: ++++++++++++++++++++ 
+malaria
+tuberculosis
+cholera
+pertussis
+gonorrhea
 
 
 
