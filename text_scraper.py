@@ -21,25 +21,30 @@ def filter_html(site):
 
 	# get article title
 	title = soup.find(class_='c-article-title')
-
-	# get html section containing the article
-	body = soup.find(class_='c-article-body')		
 			
 	# get abstract
-	abstract_title = body.find('h2', id=re.compile('^Abs[0-9]{1,2}$'))
-	abstract_content = body.find('div', id=re.compile('^Abs[0-9]{1,2}-content'))
+	abstract_title = soup.find('h2', id=re.compile('^Abs[0-9]{1,2}$'))
+	abstract_content = soup.find('div', id=re.compile('^Abs[0-9]{1,2}-content'))
 		
 	# get rest of section titles + contents
-	section_titles = body.find_all('h2', id=re.compile('^Sec[0-9]{1,2}$'))
-	section_contents = body.find_all('div', id=re.compile('^Sec[0-9]{1,2}-content$'))
+	section_titles = soup.find_all('h2', id=re.compile('^Sec[0-9]{1,2}$'))
+	section_contents = soup.find_all('div', id=re.compile('^Sec[0-9]{1,2}-content$'))
 
 	# add everything into a string
-	full_text = title.string + '\n\n' + abstract_title.string + '\n' + \
-		abstract_content.get_text() + '\n'
+	full_text = ''
+	if title != None:
+		full_text += title.get_text() + '\n\n' 
+	if abstract_title != None:
+		full_text += abstract_title.get_text() + '\n' 
+	if abstract_content != None:
+		full_text += abstract_content.get_text() + '\n'
+		
 	num_sections = len(section_titles)
 	for s in range(num_sections):
-		full_text += '\n' + section_titles[s].string + '\n' + \
-			section_contents[s].get_text() + '\n'		
+		if section_titles[s] != None:
+			full_text += '\n' + section_titles[s].get_text() + '\n' 
+		if section_contents[s] != None:
+			full_text += section_contents[s].get_text() + '\n'		
 					
 	return full_text
 
@@ -51,7 +56,5 @@ Returns: a string containing the text of the paper
 def get_fulltext(url):
 	r = requests.get(url)	
 	text = filter_html(r)
-	doi = url.lstrip('http://dx.doi.org/')
-	text += '\nDOI: ' + doi
 	
 	return text
