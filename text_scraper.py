@@ -55,4 +55,3 @@ def get_fulltext(url):
 	text += '\nDOI: ' + doi
 	
 	return text
-	return text

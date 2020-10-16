@@ -125,23 +125,6 @@ query = generate_query(diseases[3], traits[7])
 # Test on the API - works great now to refine searches
 #call_springer(query)
 
-# Test of getting full text open access papers (roundaboutly)
-get_text('./texts/tmp_pdf/lyons.pdf')
-'''
-with open('./useful_papers.txt', 'r') as up:
-	for line in up:
-		get_text(line)
-'''
+# Test of getting full text open access papers
 
-''' Uncomment to print 
-diseases and traits list to stdout
-
-pp = pprint.PrettyPrinter(indent=1)
-print("Disease and Names:")
-pp.pprint(diseases)
-print()
-print("Trait Strings:")
-pp.pprint(traits)
-print()
-'''
 
