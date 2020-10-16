@@ -25,7 +25,7 @@
 +++++++++ Origin location/date and outbreaks:
 (geograph* OR location OR origin*) AND (detect* OR discover*)
 (date OR year) AND (detect* OR discover*)
-outbreak AND (geograph* OR location OR origin*)
+outbreak AND (geograph* OR location OR origin* OR first)
 outbreak AND (date OR year)
 transmiss* AND human AND (first OR origin* OR initial)
 
@@ -39,15 +39,20 @@ death AND ("time to" OR speed OR time*)
 
 
 ++++++++++ Animals infected/reservoirs/hosts:
-reservoir*
+animal AND (reservoir* OR host)
 vector*
 host AND species
-zoonos*
-
+zoon* AND pathogen
+transmi* from animal* to human*
+interspecies AND transmi*
+host breadth
+Viral richness
 
 ++++++++++ Spread/transmissibility:
 transmiss* AND (efficiency OR rate)
 infect* AND number AND (human* OR population)
+pathogenicity
+virulence
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

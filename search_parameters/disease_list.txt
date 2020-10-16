@@ -18,7 +18,7 @@ emerging infectious diseas*, EID*
 
 ++++++++++++++++++++ Specific Emerging Diseases: ++++++++++++++++++++ 
 COVID-19, Covid, SARS-COV-2, "novel coronavirus"
-Ebola, ebola virus, "ebola hemorrhagic fever"
+Ebola, ebola virus, "ebola hemorrhagic fever", EVD
 Zika, zika (fever OR virus)
 Nipah, "nipah virus"
 Chikungunya, Chikungunya (virus OR fever)

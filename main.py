@@ -7,7 +7,7 @@ import time
 import re
 import copy
 import springer as sp
-from doc_converter import get_text
+from text_scraper import get_fulltext
 
 ''' Global variables '''
 # these store data from disease_list.txt and trait_list.txt
@@ -126,10 +126,12 @@ query = generate_query(diseases[3], traits[7])
 #call_springer(query)
 
 # Test of getting full text open access papers (roundaboutly)
-doi1 = '10.1007/s11908-013-0377-6'
-doi2 = '10.1007/s41403-020-00166-y'
-print(get_text(doi1))
-print(get_text(doi2))
+get_text('./texts/tmp_pdf/lyons.pdf')
+'''
+with open('./useful_papers.txt', 'r') as up:
+	for line in up:
+		get_text(line)
+'''
 
 ''' Uncomment to print 
 diseases and traits list to stdout

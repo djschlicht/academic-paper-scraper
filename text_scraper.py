@@ -5,6 +5,7 @@ import pprint
 import requests
 import re
 from bs4 import BeautifulSoup
+# beautifulsoup docs: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ''' filter_html
 Params: site, a response object that contains a websites information
