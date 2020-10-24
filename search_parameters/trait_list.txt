@@ -1,44 +1,84 @@
-*** Instructions:*********************************
-*** - Group synonyms using parentheses.
-*** - Group multi-word phrases in brackets
-*** - Lines starting with '*' will be ignored
-* How the query logic operates:
-* (a, b), c, d --> (a OR b) AND c AND d
-**************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ Information:
++++ -> Lines starting with '+' are ignored
++++ -> Boolean operators available are: AND, OR, NOT
++++ -> Wildcards characters available are: ?, *
++++ -> Each line represents one trait
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Tips: 
++	-> Wildcards to cover word forms: infecti* = infection, infectious
++	-> Group interchangable words together and 'OR' them
++	-> Use NOT to remove results you don't want e.g. bill NOT cosby
++	-> Keep organized (roughly by general type, just for sanity)
++	-> Put important words first, its easier to modify descriptors later
++	-> 'AND' results get shown higher than 'OR' results
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Common synonyms:
++	(proportion OR ratio OR percent*) 
++	(period OR time* OR duration)
++	(first OR origin* OR initial*)
++	(rate OR speed)
++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 
-*** Direct trait keywords:
-(proportion, ratio, rate), (asymptomatic, asymptomatic infection)
++++++++++ Origin location/date and outbreaks:
+(geograph* OR location OR origin*) AND (detect* OR discover*)
+(date OR year) AND (detect* OR discover*)
+outbreak AND (geograph* OR location OR origin* OR first)
+outbreak AND (date OR year)
+transmiss* AND human AND (first OR origin* OR initial)
 
 
-*** Other keywords:
-virus
-bacteria
-helminth, parasite
++++++++++ Human infection/effects:
+asymptomatic AND (proportion OR ratio OR percent*) 
+infecti* AND (period OR time* OR duration)
+incubation AND (period OR time* OR duration)
+latent AND (period OR time* OR duration)
+death AND ("time to" OR speed OR time*)
 
 
-**************************************************
-* SUGGESTED TRAITS:
-* pathogen species
-* geographic location detected
-* geographic location of origin
-* transmission efficiency estimates
-* incubation period
-* latent period
-* infectious period
-* proportion of asymptomatic infections
-* rate of deaths
-* time to death post-infection
-* other host species infected
-* pathogen vectors
-* pathogen reservoirs
-* date first detected
-* date first detected in humans
-* date of first detection of transmission within human population
-* date of first known outbreak greater than 10 people
-* date of first known outbreak of greater than 100 people
-* date of first known outbreak of greater than 1000 people
-* date of largest outbreak recorded
-* number of cases of largest outbreak recorded
-* total number of countries with human infections due to pathogen
-* names of countries/ geographic entities where infections have been recorded
-**************************************************
+++++++++++ Animals infected/reservoirs/hosts:
+animal AND (reservoir* OR host)
+vector*
+host AND species
+zoon* AND pathogen
+transmi* from animal* to human*
+interspecies AND transmi*
+host breadth
+Viral richness
+
+++++++++++ Spread/transmissibility:
+transmiss* AND (efficiency OR rate)
+infect* AND number AND (human* OR population)
+pathogenicity
+virulence
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ Below is are some of the traits we are searching for, but it is not 
++++ all encompassing and is open to edits and additions.
+++++++++++++++++++++++++++ List of Traits: +++++++++++++++++++++++++++++
++ pathogen species
++ geographic location detected
++ geographic location of origin
++ transmission efficiency estimates
++ incubation period
++ latent period
++ infectious period
++ proportion of asymptomatic infections
++ rate of deaths
++ time to death post-infection
++ other host species infected
++ pathogen vectors
++ pathogen reservoirs
++ date first detected
++ date first detected in humans
++ date of first detection of transmission within human population
++ date of first known outbreak greater than 10 people
++ date of first known outbreak of greater than 100 people
++ date of first known outbreak of greater than 1000 people
++ date of largest outbreak recorded
++ number of cases of largest outbreak recorded
++ total number of countries with human infections due to pathogen
++ names of countries/entities where infections have been recorded

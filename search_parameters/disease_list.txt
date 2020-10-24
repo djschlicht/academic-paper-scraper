@@ -1,12 +1,47 @@
-***** Instructions: ******************************
-*** - One disease per line
-*** - Separate alternate names with commas
-*** - Lines starting with '*' will be ignored
-**************************************************
-Ebola
-Nipah
-Chikungunya
-H1N1, swine flu
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ About: disease_list.txt is a list of infectious diseases that are
++++		currently emerging or have been considered one in the past. 
++++ 	
++++ Information:
++++ -> Lines starting with '+' are ignored
++++ -> Each line represents one disease
++++ -> Comma-separate alternate names on the same line
++++		-> Comma-separate elements are OR'd together in formatting
++++ -> Boolean operators are available: AND, OR, NOT
++++ -> Wildcards characters are available: ?, *
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
+
+++++++++++++++++++++ General Terms: ++++++++++++++++++++ 
+emerging infectious diseas*, EID*
+
+
+++++++++++++++++++++ Specific Emerging Diseases: ++++++++++++++++++++ 
+COVID-19, Covid, SARS-COV-2, "novel coronavirus"
+Ebola, ebola virus, "ebola hemorrhagic fever", EVD
+Zika, zika (fever OR virus)
+Nipah, "nipah virus"
+Chikungunya, Chikungunya (virus OR fever)
+H1N1, (swine OR pig) AND (flu OR influenza)
 MERS, middle east respiratory syndrome
-Zika
-COVID-19, Covid, SARS-COV-2
+Avian AND (flu OR influenza)
+HIV, "human immunodeficiency virus"
+SARS, SARS-COV-1, "severe acute respiratory syndrome"
+Lyme disease
+"West nile" virus
+"dengue fever"
+Lassa (fever OR virus)
+Heartland virus
+
+
+++++++++++++++++++++ Re-Emerging: ++++++++++++++++++++ 
++ malaria
++ tuberculosis
++ cholera
++ pertussis
++ gonorrhea
+
+
+
+
+
