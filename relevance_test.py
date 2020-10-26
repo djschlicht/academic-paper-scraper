@@ -16,7 +16,7 @@ diseases = [ # diseases
 	"SARS", "SARS-COV", "severe acute respiratory syndrome", "Covid", "SARS-COV-2", "novel coronavirus",
 	]
 	
-traits=[	# traits
+traits = [	# traits
 	"first detected", "first recorded outbreak", "first outbreak", "outbreak",
 	"geographic", "location", "origin", "human transmission",
 	"asymptomatic", "incubation period", "infectious period", "latent period",
@@ -26,31 +26,47 @@ traits=[	# traits
 	]
 
 # deletes files that are empty or title only
-def cleanup_files():
-	print("Removing empty files")
-	for dirname in os.listdir(r"./data/springer/texts/"):
-		for filename in os.listdir(r"./data/springer/texts/"+dirname):
-			f = r"./data/springer/texts/"+dirname+"/"+filename
-			size = os.path.getsize(f)
-			
-			# delete small files
-			if size < 1000:
-				print(f+' removed.')
-				os.remove(f)
+def delete_if_empty(filename):
+	size = os.path.getsize(f)
+	
+	# delete small files
+	if size < 1000:
+		print(f+' removed.')
+		os.remove(f)
 				
 
 # returns hit count of words as a rough relevance test
 def relevance_check(filename):
-	count = 0
-	
-	
-	
-	for elem in bag:
-		if elem in line:
-			count += 1
-	
-	return count
+	count = 0	
+	with open(filename, "r") as f:
+		title = f.readline()
+		for line in f:
+			for elem in traits:
+				if elem in line:
+					count += 1
+		
+	return (title, count)
 
 
+''' Main '''
+# open a txt file to list relevance scores
+rel_list = open(r"./relevance_list.txt", "w+")
+relevances = {}
+# iterate through the files and cleanup/run relevance test
+for dirname in os.listdir(r"./data/springer/texts/"):
+		for filename in os.listdir(r"./data/springer/texts/"+dirname):
+			f = r"./data/springer/texts/"+dirname+"/"+filename
+			delete_if_empty(f)
+			title, rev = relevance_check(f)
+			if rev in relevances:
+				relevances[rev].append(title)
+			else:
+				relevances[rev] = [title]
 
-cleanup_files()
+# sort by hit count and write to file			
+for k in sorted(relevances):
+	rel_list.write((str(k)+": \n"))
+	for t in relevances[k]:
+		rel_list.write("\t" + t)
+			
+rel_list.close()
