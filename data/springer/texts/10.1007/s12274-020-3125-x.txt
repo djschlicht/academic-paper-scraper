@@ -1,0 +1,8 @@
+Large-area flexible nanostripe electrodes featuring plasmon hybridization engineering
+
+Abstract
+Multifunctional flexible Au electrodes based on one-dimensional (1D) arrays of plasmonic gratings are nanofabricated over large areas with an engineered variant of laser interference lithography optimized for low-cost transparent templates. Au nanostripe (NS) arrays achieve sheet resistance in the order of 20 Ohm/square on large areas (∼ cm2) and are characterized by a strong and dichroic plasmonic response which can be easily tuned across the visible (VIS) to near-infrared (NIR) spectral range by tailoring their cross-sectional morphology. Stacking vertically a second nanostripe, separated by a nanometer scale dielectric gap, we form near-field coupled Au/SiO2/Au dimers which feature hybridization of their localized plasmon resonances, strong local field-enhancements and a redshift of the resonance towards the NIR range. The possibility to combine excellent transport properties and optical transparency on the same plasmonic metasurface template is appealing in applications where low-energy photon management is mandatory like e.g., in plasmon enhanced spectroscopies or in photon harvesting for ultrathin photovoltaic devices. The remarkable lateral order of the plasmonic NS gratings provides an additional degree of freedom for tailoring the optical response of the multifunctional electrodes via the excitation of surface lattice resonances, a Fano-like coupling between the broad localised plasmonic resonances and the collective sharp Rayleigh modes.
+
+Electronic Supplementary Material
+
+Large-area flexible nanostripe electrodes featuring plasmon hybridization engineering

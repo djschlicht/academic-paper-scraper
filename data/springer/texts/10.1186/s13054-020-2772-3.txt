@@ -1,0 +1,477 @@
+40th International Symposium on Intensive Care & Emergency Medicine
+
+
+P001 Physiological emergence of amyloid-β1-40 with mechanical ventilation-induced cerebral immunochallenge
+S Lahiri1, N Sparrow2, L Mangiacotti2, PS Rajput2, M Koronyo2
+
+1Cedars-Sinai Medical Center, Neurocritical Care, Los Angeles, United States; 2Cedars-Sinai Medical Center, Departments of Neurology, Neurosurgery, and Biomedical Sciences, Los Angeles, United States
+Introduction:
+A long-term cognitive impairment that resembles Alzheimer’s disease (AD) is a known complication of acute critical illnesses that affects up to 2 million individuals annually in the US. Mechanical ventilation (MV) is a hallmark critical care intervention that is strongly associated with cognitive decline.
+Methods:
+We subjected double transgenic Alzheimer’s disease (Adtg) (APP/PSEN1) and wild-type (WT) mice to MV for 4 hours and compared to spontaneously breathing (SB) controls. Cerebral soluble/insoluble amyloid-β (Aβ) and neurological and systemic markers of inflammation were quantified. Hippocampal blood-brain barrier permeability was quantified using a novel methodology that enabled assessment of small and large molecule permeability across the blood-brain barrier. Immunohistochemistry was used to assess the regional relationship between amyloid-β1–40 and acute vascular disruption and neuronal injury.
+Results:
+See image
+Conclusions:
+Short-term MV resulted in increased cerebral soluble Aβ1-40 and increased cerebral TNF-α and IL-6 concentrations. BBB permeability and neuronal injury were decreased in mechanically ventilated ADtg mice, whereas BBB permeability and neuronal injury were increased in mechanically ventilated WT mice compared to their respective SB controls. There was increased distribution of Aβ1-40 in regions of acute vascular disruption, resulting in lower BBB permeability. Overall, these results support a possible physiological role for Aβ1-40 to decrease BBB permeability and neuronal injury during the acute stress of MV, however it is expected that long-term sustained of this putative protective pathway will contribute to neurodegeneration and cognitive impairment.
+Fig. 1 (abstract P001).(1) Representative images from ADtg mouse showing markedly increased distribution of Aβ1-40 in a “banding” pattern within a region of acute vascular disruption. Graph showing significant increase in Aβ1-40 bands/% area of FITC in ADtg mice subjected to MV compared to SB ADtg mice. (2) Increased cleaved caspase-3 in the entorhinal cortices of WT mice subjected to MV compared to SB controls. (3) Significantly decreased activation of cleaved caspase-3 in the entorhinal cortices of ADtg mice subjected to MV compared to SB ADtg controlsFull size image
+
+
+P002
+
+Withdrawn
+
+
+P003 Molecular mechanisms of xenon neuroprotection (experimental data)
+A Kuzovlev1, O Grebenchikov1, A Shabanov2, I Kasatkina1, L Nikolaev3, I Molchanov4
+
+1Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, Moscow, Russia; 2Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology; N.V. Sklifosofsky Research Institute of Emergency Medicine, Moscow, Russia; 3Russian Academy of Postgraduate Education, Moscow, Russia; 4Federal Research and Clinical Center of Intensive Care Medicine and Rehabilitology; Russian Academy of Postgraduate Education, Moscow, Russia
+Introduction:
+The aim of the study was to investigate into the molecular mechanisms of neuroprotection with 50 vol% xenon in an in vivo model experiments.
+Methods:
+Eight rats were anesthestized (Combi-Vet machine; induction chloralhydrate 300 mg/kg intraabdominally; then 30 mins of 50 vol% xenon inhalation (95% O2 0.5 l/min, 100% xenon 0.5 l/min; O2 50%, Xe 50%); 8 rats were in the control group (Combi-Vet anesthesia machine; induction chloralhydrate 300 mg/kg intraabdominally; then 30 mins of 95% O2 0.5 l/min). Rats were euthanized and brain homogenates were made. Content of the phosphorylated (inactivated form) of the GSK-3 beta enzyme and key antioxidant enzymes (hemoxygenase, superoxide dismutase, catalase) in rat brain homogenates was assessed by western - immunoblotting. Statistica 6.0, parametric methods were used for data analysis.
+Results:
+The research results showed that xenon inhalation anesthesia resulted in a 2-fold increase of the phosphorylated (inactivated form) of the GSK-3 beta enzyme (р<0.05); increased the content of the key antioxidant enzymes (hemoxygenase (by 50%, р<0.05), superoxide dismutase (by 60%, р<0.05), catalase (by 20%, р>0.05) in rat brain homogenates compared to the controls.
+Conclusions:
+An increase of the phosphorylated GSK-3 beta enzyme and pool of antioxidant enzymes (hemoxigenase, superoxide dismutase, catalase) in the brain under the xenon anesthesia was proved which suggests a new molecular mechanism for the realization of its neuroprotective properties and has a great clinical outlook.
+
+P004 Procalcitonin and C-reactive protein are not increased in ventriculostomy-related infections in patients with hemorrhagic stroke
+S Wang, E Pietrzko, E Keller, G BrandiUniversity Hospital Zurich, Neurocritical Care Unit, Dept. of Neurosurgery and Institute of Intensive Care Medicine, Zurich, Switzerland
+Introduction:
+Ventriculostomy-related infection (VRI) is a serious complication in patients with hemorrhagic stroke. In such patients, diagnosis of VRIs is complicated by blood contamination of CSF following ventricular hemorrhage. We aimed to evaluate the diagnostic potential of white blood cells count (WBC), C-reactive protein (CRP), and procalcitonin (PCT) to identify VRIs in patients with hemorrhagic stroke during the time of external ventricular drain (EDV) in situ.
+Methods:
+This retrospective study was conducted at the Neurosurgical-ICU, University Hospital of Zurich. A total of 347 patients with hemorrhagic stroke and an external ventricular drain (EVD) were admitted over a 6 years period at the ICU. Of those, 14 patients with VRIs (“VRI”), defined by positive CSF bacterial culture and increased WBC in CSF (>250/ul), and 115 patients without VRIs and with serial CSF sampling (“no-VRI”) were analyzed. Patients with CSF-contamination or suspected VRI (negative CSF cultures but antibiotic treatments) were excluded. WBC, CRP, and PCT were measured daily. CSF was sampled routinely twice a week or by T>38°C. For the analysis, mean peak values of WBC, CRP, PCT during the time of EVD in situ were compared between groups (t test). Data are expressed as mean with CI 95%.
+Results:
+Between groups, WBC and CRP were similar (WBC: 15.13 G/L and 14.55 G/L, p=0.68 and CRP: 115.93 mg/l and 129.44 mg/l, p=0.56 in the group VRI and no-VRI, respectively) (Figure 1, panel A and B). In the group VRI, PCT was low and significantly lower than in the group no-VRI (0.16 ug/l and 2.61ug/l, p=0.03 in the group VRI and no-VRI, respectively) (panel C). WBC in CSF were similar between groups (710.14/ul and 675.16/ul p=0.93 in the group VRI and no-VRI, respectively).
+Conclusions:
+In this study, serum-inflammatory markers were not able to screen patients with VRIs. Their routine measurement should be carefully evaluated.
+Fig. 1 (abstract P004).Box-plots of WBC (panel A), CRP (panel B), and PCT (panel C) in the groupsFull size image
+
+
+P005 Central nervous system infections in an intensive care unit: a retrospective study
+A Martinho, E Trigo, M Miranda, P MartinsCentro Hospitalar e Universitário de Coimbra - CHUC, Medicina Intensiva, Coimbra, Portugal
+Introduction:
+Central nervous system (CNS) infections constitute a potentially life-threatening neurological emergency. Patients admitted to the intensive care unit (ICU) usually present with a severe disease and organ failure, leading to high mortality and morbidity.
+Methods:
+We have performed a retrospective analysis during a 5-year period of patients admitted to a polyvalent ICU. Clinical, demographic and outcome data were collected to evaluate its clinical impact on the outcome of patients with CNS infections.
+Results:
+We identified 30 patients with the diagnosis of meningitis, meningoencephalitis and ventriculitis, where the median age was 57,6 years (range 24-80). Upon clinical presentation, their most frequent signs were fever (70%), meningeal signs (40%), seizures (30%), and a Glasgow Coma Scale score <8 (66%). All needed ventilation support and 66% needed cardiovascular support. A definitive microbiological diagnosis was achieved on 22 patients and antibiotic therapy was adjusted on 18 of them. Most common microorganisms were Streptococcus pneumoniae (n=7), Listeria (n=5) and Pseudomonas aeruginosa (n=4) (Figure 1). Other gram negative microorganisms were detected and lead to more adverse outcomes. Meningitis was the cause of admission on 26 patients and on a minority (n=4) meningitis was considered to be a secondary diagnosis on patients admitted for other causes (traumatic brain injury, subarachnoid or intraparenchymal hemorrhage, postoperatively of neurosurgical tumor). Patients that eventually died had at least one risk factor (age>65, immunocompromised due to diabetes, corticotherapy, HIV or heart transplantation).
+Conclusions:
+Patients admitted to the ICU were not so aged, but had some comorbidities and risk factors leading to more uncommon microorganisms, increasing the risk of adverse outcomes. This lead to an increase of mortality: 23% in the ICU and an overall of 43%.
+Fig. 1 (abstract P005).Isolated microorganismsFull size image
+
+
+P006 Study of selenium levels in unresponsive wakefullness (UWS) patients with systemic inflammatory response syndrome (SIRS)
+E Kondratyeva1, S Kondratyev2, N Dryagina2
+
+1Almazov National Medical Reseach Centre, Minimally Conscious Research Group, St Petersburg, Russia; 2Almazov National Medical Reseach Centre, Minimally Conscious Science Group, St Petersburg, Russia
+Introduction:
+Patients in UWS  are characterized by a persistent systemic inflammatory response syndrome that can lead to selenium deficiency
+Methods:
+Ànalysis of selenium level was investigated in  54 UWS patients with signs of SIRS:  31patients with TBI and 23 patients with hypoxia. Duration of UWS was 2-4 month.  Selenium blood level was performed once every 10 days for 30 days (three times on the whole). After first blood level measurement, 46 patients (27 TBI and 19 hypoxia) received sodium selenite pentahydrate (Selenase) at a dose of 6 mkg / kg / day for 7 days; In 8 patients (4 TBI and% hypoxia, selenase was not administrated (control group).
+Results:
+In patients who were treated with selenase, maximum concentration of selenium was observed on the 20th day and was on 34.74% higher on average than in the initial study. In the initial study, the average value in patients with  hypoxia was 24.24 ± 10.90 mkg/l, the maximum value was 61.30 mkg/l, between 2-9 days 28.83 ± 15.46 mkg/l (max 70.00 mkg/l), from 10-19 day - 30.22 ± 8.54 mkg/l (max 50.70 mkg/l), from 20-30 days 34.76 ± 16.75 mkg/ l (57.10 mkg/l). At the first measurement the average value in patients with a consequence of TBI was 24.81 ± 8.83 mkg/l, maximum value was 53.00 mkg/l, between 2-9 days 39.26 ± 12.39 mkg/l (max 64.50 mkg/l), from 10-19 day - 37.41 ± 12.88 mkg/l (max 59.50 mcg/l), from 20-30 days 37.35 ± 12.75 mcg/l (max 64.30 mcg/l). Original selenium blood level are 23-190 mkg/l. The average value of the initial values in the control group was 21.4 ± 1.6, mkg/l on day 30 in the control group 17.8 ± 3.8 mkg/l.
+Conclusions:
+Therapy with selenase showed a statistically significant increase of selenium blood concentration (p = 0.00) compared with the control group. Selenase administration did not show a statistically significant value on severity of SIRS process. Average values of selenium levels did not depend on the etiology of brain damage in UWS patients.
+Funding :
+The study was funded by RFBR project number 19-29-01066/2019
+
+P007 Pharmacokinetics of levetiracetam in critically ill patients with normal and augmented renal clearance
+H Barrasa1, I Bilbao-Meseguer2, M Solinís3, A Rodríguez-Gascón3, J Maynar4, E Uson5, G Balziskueta4, F Fonseca4, A Martín4, A Isla6
+
+1University Hospital of Alava, Intensive Care, Vitoria, Spain; 2Cruces University Hospital, Department of Pharmacy, Cruces University Hospital, Barakaldo, Spain; 3Faculty of Pharmacy, PharmaNanoGene Group, Vitoria, Spain; 4University Hospital of Alava, intensive Care, Vitoria, Spain; 5Can Misses Hospital, intensive Care, Ibiza, Spain; 6Faculty of Pharmacy, pharmaNanoGene Group, Vitoria, Spain
+Introduction:
+The objective of this study was to evaluate the pharmacokinetics (PK) of levetiracetam (LEV) in critically ill patients with normal and augmented renal clearance (ARC), and determine if the recommended dosage regimen provides concentrations in the therapeutic range (12-46 mg/L) [1].
+Methods:
+A prospective observational study was conducted in a tertiary hospital. Six blood samples were taken during a dose interval at steady state and LEV was quantified by HPLC. A population PK study was carried out. Statistical analysis was conducted to evaluate the differences in PK between patients with and without ARC. The suitability of drug concentrations was also assessed.
+Results:
+Seventeen patients were included, 13 with normal creatinine clearance (CrCL) (80-129 mL/min) and 4 with CrCl≥130 mL/min (ARC). Ten patients received 500mg q12h, one 1000mg q12h and two 1500mg q12h. The data were best fitted to a two-compartment model. Figure 1 shows LEV concentrations during the dosing interval. Mean clearance (CL) was 4 L/h and mean volume of distribution of central compartment (V) was 44 L. Interindividual variability was 38 and 61% for CL and V, respectively. No differences were identified between both groups (p>0.05) in PK parameters. No correlation was found between LEV CL and CrCL. Trough levels were below the minimum concentration (Cmin) 12 mg/L of the therapeutic range in all patients except 1. Furthermore, between 3-5 h 50% of samples were below the Cmin.
+Conclusions:
+Administered doses were not able to maintain LEV concentrations in the recommended therapeutic range. Other dosage strategies, such the extension of infusion time with higher doses, could be evaluated in order to obtain a more favourable profile. No correlation between LEV CL and CrCL was found.
+Acknowledgements
+We thank the Department of Education of the Basque Government (PIBA 2019-57) and the University of the Basque Country UPV/EHU (PPG17/65, GIU 17/32) for their financial support.
+References:
+1. Reimers A et al. Drug Des Devel Ther. 12: 271–280, 2018.
+Fig. 1 (abstract P007).LEV concentrations during the dosing intervalFull size image
+
+
+P008 Feasibility of quantitative assessment of mechanical properties of muscles in chronic critically ill patients
+N Beloborodova, M Petrova, I Buyakova, E ChernevskayaFederal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, Moscow, Russia
+Introduction:
+The mechanical properties of muscles such as tone, elasticity, and stiffness are often affected in chronic critical ill (CCI) patients. A hand-held device known as the MyotonPRO demonstrated acceptable relative and absolute reliability in a ward setting for patients with acute stroke [1]. The technology works on the principle of applying multiple short impulses over the muscle bulk via the testing probe. The aim of our study is to assess the feasibility of objective measurement of muscle tone in CCI patients with neurological dynamics and serum biomarkers.
+Methods:
+The study included 23 CCI patients with neurological disorders (stroke, traumatic brain injury, neurosurgical intervention for brain tumors) with more than a 3-weeks stay in ICU. Dynamic measurements of the muscle properties were taken on the deltoideus, brachioradialis, quadriceps femoris, gastrocnemius using the MyotonPRO. To identify the leading factor in impaired muscle tone also were measured neurological (S100, NSE), inflammatory (IL-6), bacterial load (PCT) biomarkers using Elecsys immunoassay and the serum level of microbial metabolites using GC-MS (Thermo Scientific).
+Results:
+All patients were divided into groups depending on positive and negative clinical dynamics. Significant differences were obtained in parameters characterizing changes in muscle tone of lower limbs - Fgastrocnemius(tone) -15.5 vs 18.5 Hz, Rquadriceps femoris(the mechanical stress relaxation time) - 16.5 vs 13.6 ms (p < 0.01, respectively). Some significant correlations between five parameters of muscle tone biomarkers and microbial metabolites were revealed.
+Conclusions:
+The results of a quantitative measurement of muscle tone objectively reflect the dynamics of neurological status, which in the future may be promising technique for the personalized approach CCI in patients.
+References:
+1. Lo WLA et al Biomed Res Int. 2017: 4294028, 2017
+
+P009 Prognosis of unresponsive wakefulness syndrome outcome based on the determination of certain hormones and natriuretic peptide
+E Kondratyeva, N Dryagina, S KondratyevAlmazov National Medical Reseach Centre, Minimally Conscious Research Group, St Petersburg, Russia
+Introduction:
+Changes in hormonal status in patients with unresponsive wakefulness syndrome (UWS) remains poorly understood.
+Methods:
+275 patients in UWS were examined at the period from 2007 to 2017. 152 patients (115 men) with TBI and 123 patients (63 men) after hypoxia. ACTH, cortisol, TSH, free T3 and T4, STH, prolactin and natriuretic peptide were studied in the period from 2 to 4 months UWS. In men, the level of total testosterone, LH and FSH was additionally studied. The obtained data was compared with the UWS outcome in 6-12 months (CRS-R scale assessment).
+Results:
+None of the studied hormones of the hypothalamic-pituitary-adrenal axis were a reliable criterion for predicting the outcome of UWS. Most often and consistently was revealed a tendency of disrupt the rhythm of cortisol secretion, with higher rates in the evening hours. The average value of STH was higher in men with the consequences of head injury who had recovered consciousness than in those who remained in UWS. Significant decrease in testosterone levels, regardless of age, was found in patients with a consequence of TBI. Mean levels of LH were higher in patients with TBI and hypoxia who remained unconscious than in patients who later restored consciousness. The average level of FSH was higher in patients who had recovered consciousness . The increase of natriuretic peptide level was observed both in patients who remained in chronic UWS and in those who restored consciousness.
+Conclusions:
+No certain endocrine background, characterising this category of patients was found.  Violations of some hormones secretion rhythms, in particular, cortisol can be considered usual for UWS patients, especially in patients with TBI.Acknowledgement: The study was funded by the Russian Foundation For Basic Research (RFBR) project number 19-29-01066/2019
+
+P010 Craniocerebral hypothermia as a neuromodulation method in chronically critically ill patients
+M PetrovaFederal Research and Clinical Center of Intensive Care Medicine and Rehabilitology, Moscow, Russia
+Introduction:
+Therapeutic hypothermia has not been used before our research in chronically critically ill (CCI) patients. Temperature decrease in neuronal cells is a strong signal that triggers endogenic cytoprotection programs using early response genes expression. Our goal is to determine influences of craniocerebral hypothermia (CCH) on level of consciousness in CCI patients.
+Methods:
+We examined 98 patients with different types of brain injuries. 54 males and 44 females, mean age 45.56 ±16.03. Patients were divided into 2 groups: main group - 47 patients (Vegetative State (VS) – 28, minimally conscious state (MCS) – 19), comparison group – 51 patient (VS – 32, MCS –19), groups were equal on main parameters (severity, functional state, comorbidity). Patients from main group received courses of CCH, duration -180 minutes, scalp temperature 5-8 °С, cerebral cortex cooling up to 32-34 oC, session end was without slow reheating period, and session’s amount was set - until signs of consciousness recovery. Cortex temperature check done noninvasively by using detection of brain tissue EMI in SHF- range. Consciousness recovery in VS and MCS patients controlled using CRS-R scale.
+Results:
+CCH sessions significantly increased level of consciousness in VS and MCS patient groups. In VS patients vegetative state increased until minimally conscious state and MCS +, and in MCS group until lucid consciousness (p <0.05) (Figure 1).
+Conclusions:
+Craniocerebral Hypothermia is used in chronically critically ill patients for the first time. Our research results demonstrated effectiveness of CCH as an additive treatment tool in such patients. This let us optimistically determine the perspective of inclusion of CCH method in chronically critically ill patient’s rehabilitation to increase level of consciousness.
+Fig. 1 (abstract P010).Consciousness change after CCH sessions using CRS-R scaleFull size image
+
+
+P011 Transcranial Doppler assessment of cerebral perfusion in pediatric severe sepsis and septic shock
+A Mostafa1, A Elbeleidy2, S Awad2, R Hamdi2, H Elgebaly2
+
+1Children Cancer Hospital, Pediatric ICU, Giza, Egypt; 2Cairo University Hospital, Cairo, Egypt
+Introduction:
+Sepsis associated encephalopathy (SAE) may manifest in up to 70% of adult septic patients. [1]  Transcranial Doppler (TCD) may provide important information about cerebral hemodynamics in various disorders. [2] Two indices reflecting cerebro-vascular resistance (CVR) can be calculated; the pulsatility index (PI), and the resistive index (RI). [3] In this study, we aimed to assess the cerebrovascular resistance in septic shock paediatric cases with encephalopathy admitted to the PICU and compare them to a group of critically ill conscious non septic patients.
+Methods:
+This case-control study included 45 critically ill children with sepsis associated encephalopathy and 30 critically ill non-septic and non-encephalopathic children admitted to a tertiary care paediatric hospital. PRISM III score and neurological assessment, including level of consciousness assessed using the Full Outline of Unresponsiveness (FOUR) score were determined. PI and RI of the middle meningeal artery were done on both sides using TCD to all included patients.
+Results:
+The study showed that mean PI and RI values of the septic critical cases were significantly higher than those of the control group, CVR increases with the more deepening of coma (the decline in FOUR score). Cerebral CO2 reactivity in septic patients were found disturbed. There were positive correlations between both PI and RI and PaCO2 with high significance.
+Conclusions:
+Cerebrovascular resistance is increased in cases of sepsis - associated encephalopathy. Carbon Dioxide vasoreactivity is impaired in cases of septic shock.
+References:
+1. Pytel P et al. Curr Opin Neurol 22: 283-287, 2009.2. Purkayastha S et al. Semin Neurol 32:411-20, 20133. Iyer VN et al. Mayo Clin Proc 84:694-701, 2009.
+
+P012 Pupillometry in the follow up of patients undergoing EVT. Could it replace repetitive CT-control
+J Koehn, A Giede-Jeppe, M Hagen, JB Kuramatsu, S Schwab, HB HuttnerUniversity of Erlangen-Nuremberg, Department of Neurology, Erlangen, Germany
+Introduction:
+Despite the clinical benefit of endovascular treatment (EVT) for large vessel occlusion (LVO) in ischemic stroke, space-occupying brain edema (BE) represents a common complication during the course of disease. Routinely, CT imaging is used for monitoring of these patients, notably in the critical care setting, yet novel and easy bed-side techniques with the potential to reliably predict BE without repetitive imaging would be valuable for a time and cost effective patient care. We assessed the significance of automated pupillometry for the identification of BE patients after LVO-EVT.
+Methods:
+We enrolled 40 patients admitted to our neurocritical-care unit who received EVT after anterior circulation large vessel occlusion. We monitored parameters of pupillary reactivity [light-reflex latency (Lat; s), constriction and re-dilation velocities (CV, DV; mm/s), and percentage change of apertures (per-change; %)] using a portable pupilometer (NeurOptics®) up to every 60 minutes during the first 72 hours of ICU stay. BE was defined as midline-shift ≥5mm on follow-up imaging within 3-5 days after EVT. We assessed differences in pupillary reactivity between patients with and without BE (U-test) and evaluated prognostic performance of pupillometry for development of BE (ROC analysis).
+Results:
+In 32 patients (19 women, 74.3±12.0 years) without BE, 1,224 assessments were compared to 207 assessments in 6 patients (3 women, 71.7±11.8 years) with BE. On day 1, day 2, and day 3 after EVT, patients with BE had significantly lower CVs and DVs, and smaller per-changes than patients without BE, whereas Lat did not differ between both groups. ROC-analyses revealed a significant negative association of CV, DV, and per-change with development of BE.
+Conclusions:
+Automated pupillometry seems to identify patients at risk for BE after EVT. A prospective study should validate whether automated pupillometry harbors the potential to reduce unnecessary follow-up CT imaging.
+
+P013 Automated infrared pupillometry: possible hypotheses of extended application in intensive care unit
+F Marturano, F Socci, F Marchi, F Disalvo, G Branchetti, M Bonizzoli, M Ciapetti, A PerisCareggi Teaching Hospital, Intensive Care Unit and ECMO Referral Center, Florence, Italy
+Introduction:
+The aim of this preliminary analysis is to detect differences between the qualitative and quantitative evaluation of the pupillary function carried out by doctors and nurses of an intensive care unit (ICU) of a tertiary level hospital. Secondary purpose is to investigate new indications for the use of pupillometry in a population admitted in ICU
+Methods:
+The study has been conducted (currently in progress) at the intensive care unit and ECMO Referral Center at Careggi Teaching Hospital (Florence; Italy). The enrolled patients are adult subjects (> 18 years) with alteration of consciousness defined by a Glasgow Coma Scale (GCS) < 9, following a primary brain injury and/or the use of sedative drugs. The studied parameters, obtained with NeuroLight pupillometer ® (ID-Med, Marseille, France) are analyzed, integrated and matched with clinical evaluations, biochemical laboratory test and neurophysiological investigations according to internal protocols.
+Results:
+Visual/qualitative evaluation of the pupil function shows a lower reliability if compared to automated pupillometry. The estimated error in the proper determination of photomotor reflex is 34.9% (p< 0.01). No significant difference is reported between quantitative and qualitative pupillometry in the detection of anisocoria.
+Conclusions:
+Our preliminary results are compatible with previously reported data [1-3], even if there was no difference in anisocoria determination. Interestingly, a longer latency period among patients treated with opioids has been observed. Other results are still in progress.
+References:
+1. Morelli P et al. Minerva Anestesiol 85:995-1002, 20192. Oddo M et al. Intensive Care Med 44:2102-2111, 20183. Couret D et al. Crit Care 13;20:99, 2016
+
+P014 Use of color-coded duplex sonography in neuromonitoring of critical care patients. Experience at Pirovano Hospital in Buenos Aires
+DN Gauna, L MacchiavelloHospital Pirovano, Critical Care, City of Buenos Aires, Argentina
+Introduction:
+Due to the dynamic of critical care disease, a rapid bedside, non-invasive and highly sensitive and specific method is required for diagnosis. In this study we set out our experience with trancranial color-coded duplex ultrasound (DXT) [1]. The DXT study identifies cerebral arteries as well as hemorrhagic phenomenon, hydrocephalus, mass-occupying lesions and midline shift. This is the main difference between DXT and conventional Transcranial Doppler (DTC) which is a blind study and do not provide any image.
+Methods:
+Descriptive, cross-sectional and observational study from December 2018 to June 2019. 21 patients were included. Inclusion criteria: Neurocritical patients. Exclusion criteria: No acoustic window, presence of ultrasound artifacts. Data collection was performed. It was used a low-frequency transducer from 1.5-3.5 MHz with trancranial duplex preset (Figure). The patterns were defined as normal, vasospasm, high resistance, hypermedia and cerebral circulatory arrest, depending on the cerebral flow velocity, Lindegaard Ratio (LR) and Pulsatility Index (IP).
+Results:
+12 men (57.1%) and 9 women (42.9%). Average age 55.6(20-79). Patients diseases: Subarachnoid hemorrhage 6, traumatic brain injury 5, AV malformation 4, stroke 2, hemorrhagic cerebrovascular accident 2 and mass occupying lesions 2. Normal Pattern: 10 patients (rel. freq 0.47). Vasospasm: 5 patients (rel. freq 0.23). High resistance: 4 patients (rel. freq 0.19). Hyperemia: 1 patient (real. freq 0.04). Cerebral circulatory arrest: 1 patient (rel. freq 0.04)
+Conclusions:
+DXT should be part of the routine of neuromonitoring, it allows real time images especially useful in unstable conditions. Although it will be needed a large amount of patients to be statistical significant, DXT is useful considering a non invasive study, bedside and it allows early identification of different clinic conditions.
+References:
+1. Lau VI. Crit Ultrasound J 9:21, 2017
+Fig. 1 (abstract P014).Circle of Willis and Pulsed-wave Doppler mode of middle cerebral arteryFull size image
+
+
+P015
+
+Withdrawn
+
+
+P016
+
+Withdrawn
+
+
+P017 Use of adenosine-induced cardioplegia in anesthesia during endovascular treatment of arteriovenous malformation of the brain
+N Lesteva, A. Kondratyev, M Aibazova, D Vasilyev, G Ryibakov, S LesinaPolenov Neurosurgical Institute - Almazov National Medical Research Centre, Anesthesiology and Intensive Care, Saint-Petersburg, Russia
+Introduction:
+Embolization of the draining vein during endovascular treatment of arteriovenous malformation (AVM) may result in venous outflow obstruction and hemorrhage. Anaesthesiologist can use deliberate hypotension to reduce blood flow through AVM which may be somehow helpful to prevent this scenario. Adenosine-induced cardiac arrest may facilitate the embolization too. The goal of our study was to improve the results of endovascular treatment of AVM using adenosine-induced cardiac arrest.
+Methods:
+After obtaining informed consent 13 patients (8 male, 5 female) were selected for adenosine-induced cardiac arrest during endovascular AVM embolization. Main age was 40,8±6 years old. 9 of them were evaluated as III class ASA, 4 as IV. Endovascular treatment in all cases was performed under general anaesthesia. Propofol, fentanyl, rocuronium were used to induce anaesthesia, then all the patients were intubated and ventilated with parameters to keep EtCO2 32-35 mm Hg. Sevoflurane 2,1-2,6 vol% (12 cases) or desflurane 6 vol% (1 case) were used to maintain anaesthesia. Hemodynamic monitoring consisted of ECG, pulsoximetry, non-invasive blood pressure measurement. Onyx or/and Squid were used as embolic agents. CT was performed to every patient just after procedure as well as neurological examination.
+Results:
+Adenosine dosage was 0.875-1.26 mg/kg. Time of consequent cardiac arrest was 10-40 sec. There were 10 cases we administered adenosine for 1 time, in one case we had to administer it twice, in one - 3 times and 4 times in one more case as well. Hemodynamic parameters recovered without any particular treatment in all the patients. Embolization has been performed in all the cases uneventfully. Postoperative CT showed no hemorrhage. Nobody from investigated group had neurological deterioration in postoperative period.
+Conclusions:
+Our study shows that adenosine-indused cardiac arrest is not very difficult to perform method and it can be useful during AVM embolization.
+
+P018 Incidence of postoperative major adverse cardiac events in patients undergoing carotid endarterectomy: a single-center retrospective study
+A Suphathamwit, C LeewatchararoongjaroenFaculty of Medicine Siriraj Hospital, Mahidol University, Department of Anesthesiology, Bangkok, Thailand
+Introduction:
+Major adverse cardiac events (MACE) is an important causes of morbidity and mortality after carotid endarterctomy (CEA)[1,2,3]. The investigators aim to determine the incidence of MACE in patients undergoing CEA in the tertiary university hospital.
+Methods:
+This retrospective study recruited 175 patients between January 1999 – June 2018. The patients received CEA with coronary artery bypass graft surgery were excluded. Primary outcome was the incidence of MACE at 7 days, 30 days and 1 year postoperatively. MACE was defined as myocardial infarction, congestive heart failure, significant arrythmia and cardiac arrest. Secondary outcome was the incidence of postoperative stroke. The patients’ chart was reviewed and direct contact was performed for patient’s information.
+Results:
+The incidences of MACE were 7.5%, 1.1% and 1.1% at 7 days, 30 days and 1 year, respectively. MACE at 7 days were 1.1% of myocardial infarction, 2.9% arrhythmia, 1.1% congestive heart failure and 2.3% cardiac arrest. There were no significant differences in age, BMI, baseline hemoglobin level, creatinine level and severity of carotid artery stenosis between those with and without MACE. The incidence of stroke at 7 days postoperatively was 4.6%. There was no new stroke occurred at 30 days and 1 year after surgery.
+Conclusions:
+The patients with carotid artery stenosis were at high risk from major cardiac disease. The overall incidence was 7.5% within 7 days after surgery. Significant arrythmia was the most common adverse cardiac event.
+References:
+1. Mutirangura P et al. J Med Assoc Thai 99:785-93, 2016.2. Go C et al. Ann Vasc Surg 29:1265-71, 2015.3. Boulanger M et al. Stroke 46:2843-8, 2015
+
+P019 The antithrombotic effects of different oral anticoagulants in the monitoring of acute stroke
+M Lawrence1, V Evans2, J Whitley2, S Pillai2, P Slade3, M Krishnan3, K Power4, PA Evans2
+
+1Welsh Center of Emergency Medicine, HBRU, Swansea, United Kingdom; 2Welsh Center of Emergency Medicine, Swansea, United Kingdom; 3Swansea Bay UHB, Stroke Department, Swansea, United Kingdom; 4Swansea Bay UHB, Pharmarcy, Swansea, United Kingdom
+Introduction:
+A major risk factor for stroke is atrial fibrillation (AF). To treat AF anticoagulation is needed. There are now several anticoagulants available. However, a lack of head to head data as well as the absence of accurate techniques makes it difficult to compare them and measure determine there efficacy. Stroke is known to produce an abnormal clot microstructure which is a common factor in many thrombotic diseases. This pilot study aims to use a functional biomarker of clot microstructure (df) and clotting time (TGP) to investigate the therapeutic effects of different anticoagulants in stroke and AF.
+Methods:
+We recruited 114 patients (59 AF and 55 stroke & AF). Two samples of blood were taken: before anticoagulation (baseline) and post anticoagulation (6-10weeks). Patients were either given warfarin (31%) or axipaban (69%). df and TGP were measured and compared before and after anticoagulation.
+Results:
+Warfarin increased TGP (267±56 secs to 332±78 secs (p<0.05)), and decreased df (1.71±0.05 to 1.65±0.06 (p<0.05)). Apixaban increased TGP (235±66 sec to 410±105 sec (p<0.05)) but did not change df (1.72±0.04 & 1.72±0.05). Interestingly we found that in the apixaban group TGP significantly correlated (p=0.05) with blood drug concentration levels.
+Conclusions:
+In this study we show that df and TGP can quantify and differentiate between the therapeutic effects of two different oral anticoagulants. Showing that warfarin prolongs clotting and weakens the ability of the blood to form stable clots. Conversely apixaban prolongs clotting time but does not affect the bloods ability to form stable clots. This shows the utility of the df and TGP biomarkers in comparing two different treatment options, something no other current marker has proven able to do. Where df and TGP may prove useful tools in a personalized approach to anticoagulation treatment and monitoring in an acute setting.
+
+P020 HAIR-score optimalisation in subarachnoidal bleeding
+L Capiau1, H Vanoverschelde1, A Decruyenaere2, J Decruyenaere1, K Colpaert1
+
+1Ghent University Hospital, Intensive Care Unit, Ghent, Belgium; 2Ghent University Hospital, Internal Medicine, Ghent, Belgium
+Introduction:
+The HAIR-score stratifies the risk for in-hospital mortality after spontaneous subarachnoid hemorrhage (SAH) [1]. Maximal early lactate is associated with increased risk for poor outcome [2]. We investigated whether the combination of both HAIR-score and early abnormal lactate (<24h), gives a better association with mortality after spontaneous SAH.
+Methods:
+In this retrospective cohort study at a tertiary university hospital, data was collected for all patients with spontaneous SAH during a period of eleven years (2007-2017). Multiple binary logistic regression models were fitted for each outcome (ICU mortality and hospital mortality). The first one included the individual components of the HAIR-score, the second model also included an indicator for abnormal (>18 mg/dl) lactate within the first 24h (La-HAIR-score). In addition, two simple binary logistic regression models were fitted as continuous covariates: The HAIR-score (theoretical range 0-8) and the La-HAIR-score, with one extra point to patients with abnormal lactate concentration (theoretical range 0-9). These models were compared with a likelihood ratio test and Nagelkerke’s R² test.
+Results:
+A total of 470 patients were included. In our sample, not all original HAIR components were associated with ICU or hospital mortality. The multiple logistic regression model of the La-HAIR-score had a significantly better fit to the data, compared to the original HAIR-score. The p-value of the likelihood ratio test was 0.01 for ICU mortality and 0.025 for hospital mortality. A score of 8 on the La-HAIR-score had a 100% specificity for both ICU and in-hospital mortality.
+Conclusions:
+Combination of HAIR-score and abnormal lactate within the first 24h, the La-HAIR-score, significantly improved the model fit for ICU and hospital mortality compared to the model with the original HAIR-score.
+References:
+1. Lee VH et al. Neurocrit Care 21:14, 20142. Imo P et al. Am J Emerg Med 34:708-712, 2016
+
+P021 South American experience with urapidil in neurocritical care patients
+M Canitrot1, J Ramirez2, J Serra3, L Brunetto3, Y Santos3, R Villa4, I Previgliano4, S Ugarte3
+
+1INDISA Clinic, Critical Care, Santiago, Chile; 2Andres Bello University, NeuroICU, Santiago, Chile; 3INDISA Clinic, NeuroICU, Santiago, Chile; 4Hospital General J. A. Fernandez, NeuroICU, Buenos Aires, Argentina
+Introduction:
+Urapidil is an antihypertensive, vasodilatory drug with no tachycardia or increased ICP effect.  Recommended for neurocritical patients in European and Asian guidelines. OBJECTIVE: To evaluate the efficacy and tolerance of injectable urapidil for the treatment of hypertensive emergencies in neurocritical patients.
+Methods:
+We carried out a prospective study of 175 cases in 2 South American Neuro ICU (Chile and Argentina), with clinical and biological monitoring. Treatment was initiated if the blood pressure was higher than 180/110mmHg with organ disfunction. Efficacy was defined as a lowering of blood pressure to 150/100 mmHg or below. The drug was administered according to protocol by IV bolus (by PVC) followed by continuous infusion. Sex, age, SAP, MAP, DAP and CR were evaluated at the beginning and end of bolus therapy, as well as  response to the drug at 5, 10, 15 minutes, and maintenance dose.  Statistical analysis: Wilcoxon test for paired samples.
+Results:
+175 patients (average age : 63). Ischemic stroke (86), ICH (59), SAH (16), HELLP / PEE (5), ACS (3), HE (2). Changes in SAP (198 to 130), DAP (116 to 78) and MAP (155 to 94) (p two tails <0.001) (Figure 1). No significant changes in CR (median 76 to 72). 9 deaths, none attributable to administration of urapidil. 124 (71%) responded to 1st dose at 5 min, 50 (28%) to 2nd dose at 10 min and 1 (1%) required a 3rd dose at 15 min. All responded favourably. Urapidil was effective in all cases, with a significant decrease in BP. 99% within 10 minutes. There was no lack of response or complications.
+Conclusions:
+Injectable urapidil seems to be an antihypertensive agent that is easy to use and effective in all the cases of this first South-American experience. Further comparative studies are required.
+Fig. 1 (abstract P021).Hemodynamic effects of urapidilFull size image
+
+
+P022 Poor-grade aneurysm subarachnoid hemorrhage in neuro ICU: how poor is their prognosis?
+M Canitrot1, J Ramirez2, J Serra3, Y Santos3, V Munoz3, JL Sufan3, J Contreras3, F Paravic4, C Droguett4, S Ugarte2
+
+1INDISA Clinic, Critical Care, Santiago, Chile; 2Andres Bello University, NeuroICU, Santiago, Chile; 3INDISA Clinic, NeuroICU, Santiago, Chile; 4INDISA Clinic, Neurorehabilitation, Santiago, Chile
+Introduction:
+Patients with poor-grade aneurysm subarachnoid hemorrhage (aSAH) World Federation of Neurological Surgeons (WFNS) Grades IV and V, have commonly been considered to have a poor prognosis (70-100% mortality). Though early intervention and aggressive treatment in NeuroICU has improved outcome in the past years, it is controversial because most of the patients left hospital severely disabled. The objective of this study was to investigate the clinical and social outcomes in intracranial aneurysm patients with poor-grade aSAH underwent different intervention therapies.
+Methods:
+A single center observational registry of 25 poor-grade aSAH consecutive patients, defined as WFNS Grades IV and V, treated at tertiary chilean referral center from December 2013 to March 2019 were enrolled in this study. The clinical data including patient characteristics on admission and during treatment course, treatment modality, aneurysm size and location, radiologic features, signs of cerebral herniation (dilated pupils), and functional neurologic outcome were collected. Clinical outcomes were assessed via GOSE and and socio-occupational outcome, both at discharge and at 6 months.
+Results:
+883 admissions, 190 were SAH. 84 patients Fisher III and IV. 25 patients WFNS 4 or 5: 20% mortality (5/25). Every death was declared out of therapeutic reach during admission by neurosurgeons. Mortality per year (3/3 2014, 0/4 2015, 1/3 2016, 0/4 2017, 0/6 2018, 1/5 2019), suggesting reduction of mortality rates while expertise increased. Of the 20 survivors, 3 were released in poor neurological conditions (GOSE ≥4) at the neuro ICU discharge. After 6 months, all patients (20/20) achieved GOSE ≤ 3, with adequate family, social and labor reintegration (Figure 1). 20% mortality is less than previously reported, and survivors had a favorable recovery, confirmed with neuro psychological test.
+Conclusions:
+Poor-grade aSAH patients in our study shows a more positive outcome than previously considered.
+Fig. 1 (abstract P022).GOSE WFNS 4 - 5 SAH patientsFull size image
+
+
+P023 Success in intravenous thrombolysis with alteplase for acute ischemic stroke: a matter of distance?
+P Papamichalis1, AL Skoura1, P Katsiafylloudis1, E Neou1, S Karagiannis1, E Dardiotis2, M Karvouniaris1, D Papadopoulos1, T Zafeiridis1, A Komnos1
+
+1General Hospital of Larissa, Department of Intensive Care, Larissa, Greece; 2University Hospital of Larissa, Department of Neurology, Larissa, Greece
+Introduction:
+Pre-hospital management of acute ischemic strokes focuses on factors associated with success in intravenous thorombolysis (IVT)with alteplase [1]. Distance of patient’s residence from stroke ready hospitals could be one such factor.
+Methods:
+Retrospective study from our department’s thrombolysis database with 157 patients (mean age 66 years). Demographic data, thrombolysis time (from symptoms onset to drug administration, thombolysis within 3 hours or between 3-4.5 hours), complications during hospital stay (symptomatic intracranial hemorrhage or death or new embolic episode or other major hemorrhage), functional outcome at 3 months (modified Rankin Scale-mRS), mortality at 3 months were retrieved and analyzed in association with distance of patient’s home from our hospital. Distance was calculated with the use of an international web mapping service. Those factors were also compared at patients according to residence in a rural, medium urban or large urban area.
+Results:
+Shorter distance was associated with less time spent for thrombolysis, fewer in-hospital complications and better functional outcome (mRS ≤ 2) at 3 months time (Table 1). Living in a rural area was associated with worse functional and neurologic outcome (p< 0.05, Mann-Whitney U test for both comparisons).
+Conclusions:
+Unlike previous studies [2] our study showed association of thrombolysis time with distance from stoke centre and furthermore better results with less complications when distance is short. Long distance from stroke centres and residence in rural areas probably play a negative role in thrombolysis outcome and should be taken into consideration when national health systems organize pre-hospital and hospital network for strokes.
+References:
+1) Kobayashi A et al. Eur J Neurol 25:425-433, 20182) Acharya AB et al. J Stroke Cerebrovasc Dis 20:295-301, 2011
+Table 1 (abstract P023). Correlation of safety and efficacy markers of thrombolysis and thrombolysis time with distance from stroke centreFull size table
+
+
+P024 Influence of pneumonia on delayed cerebral infarction after subarachnoid hemorrhage: a retrospective study
+T Gargadennec1, V Vermeersch1, J Ognard2, M Geslain1, P Ariès1, J Le Roy1, H Floch1, A De Tinténiac3, X Chapalain1, O Huet1
+
+1Brest University Hospital, Département d´Anesthésie et Réanimation Chirurgicale, Brest, France; 2Brest University Hospital, Service de Radiologie et Imagerie Médicale, Brest, France; 3Brest University Hospital, Brest, France
+Introduction:
+Prognosis of subarachnoid hemorrhage (SAH) is scarce, indeed almost half patients die or become severely disable after SAH. Outcome is related to the severity of the initial bleeding and delayed cerebral infarction (DCI). Infection and more precisely pneumonia have been associated with poor outcome in SAH. However, the interaction between the two pathologic events remains unclear. Therefore, we hypothesized that DCI may be associated to pneumonia in SAH patients. Thus the aim of our study was to analyze the association between delayed cerebral infarction and pneumonia in patients with SAH.
+Methods:
+In this retrospective, observational, monocentric cohort study, patients included in the analysis were admitted in Neurosurgical Intensive Care Unit or Surgical Intensive Care Unit in the University Hospital of Brest (France) for non-traumatic SAH. Primary outcome was diagnosis of DCI on CT scan or MRI 3 months after SAH. Multivariate analysis was used to identify factors independently associated with DCI.
+Results:
+A total of 224 patients were included in the analysis (female male ratio 141/83, median age 57 [47-65] years). Multivariate analysis was adjusted on sedation, intracranial surgery, Fisher classification of SAH severity, pneumonia occurrence and non-pneumonia infectious event occurrence (Figure 1). Pneumonia occurred in 66 patients (29.5%) and other causes of infections in 45 patients (20.1%). DCI was found in 108 patients (48.2%). Factors independently associated with DCI were pneumonia (OR 3.10 [1.41-7.06]; p=0.006) and non-pneumonia infectious events (OR 2.50 [1.20-5.39]; p=0.016). Interestingly severity of initial bleeding evaluated by Fisher scale was not independently associated with DCI.
+Conclusions:
+DCI is independently associated with the occurrence of pneumonia or other cause of sepsis. Those results may highlight the need for rigorous approach for prevention protocol, early diagnosis and treatment of hospital acquired infectious diseases in SAH patients.
+Fig. 1 (abstract P024).Forest plot representation of results of multivariate analysis for occurrence of delayed cerebral infarction. Results expressed as odds ratio with 95% confidence intervalFull size image
+
+
+P025 Association of prehospital hypocarbia and hypercarbia with outcomes with severe traumatic brain injury patients
+Z Weisner1, D Salcido1, F Guyette1, H Siddiqui1, J Salerno1, J Elmer2
+
+1UPMC Presbyterian, Emergency Medicine, Pittsburgh, United States; 2UPMC Presbyterian, Emergency Medicine and Critical Care, Pittsburgh, United States
+Introduction:
+Hypocarbia and hypercarbia alter cerebral blood flow and intracranial pressure. Both might cause secondary brain injury after traumatic brain injury (TBI).
+Methods:
+We performed a retrospective observational study from Jan 2012 to Dec 2017 including adult blunt trauma patients with initial Glasgow Coma Scale (GCS) ≤ 14, clinical suspicion for TBI, endotracheal intubation and continuous capnography. We excluded interfacility transfers, penetrating TBI and cases treated for herniation (management includes hyperventilation). All patients were treated by a single air medical transport service in southwest Pennsylvania. Our primary exposure was depth-duration of EtCO2 <35mmHg (hypocarbia). Secondary outcomes were depth-duration of hypercarbia >45mmHg, and maximum depths of hypocarbia and hypercarbia. Our primary outcome was survival to discharge. Covariates were age, sex, initial GCS, shock index and first prehospital serum lactate. We performed unadjusted and adjusted logistic regression testing relationships between EtCO2 and outcome.
+Results:
+Overall, 148 patients were included and 113 (76%) survived. Overall, 104 (70%) were hypocarbic at least once. Median hypocarbia depth was 26 [IQR 18-30] mmHg, median hypocarbia duration was 15 [4 – 28] min, and median depth-duration was 60 [14 – 141] mmHg*min. Hypercarbia occurred in 56 (38%) patients. Median duration of hypercarbia short (0.5 [0 – 5] min) and median depth duration was only 2 [IQR 0 – 18] mmHg*min. Neither hypocarbia nor hypercarbia (maximum, duration or depth-duration) were associated with outcome in unadjusted or adjusted models. Age [OR; 0.96, 95% CI 0.94-0.98], initial GCS scores [OR; 1.12, 95% CI 1.01 to 1.25] and shock index [OR; 0.41 95% CI 0.19 to 0.88] were independent predictors of mortality.
+Conclusions:
+Among intubated blunt TBI patients, prehospital hyper- and hypoventilation do not appear to worsen outcomes.
+
+P026 Psychiatric drug burden after intensive care unit treated pediatric traumatic brain injury
+E Mikkonen1, M Skrifvars2, R Raj 2
+
+1Helsinki University Hospital & University of Helsinki, Department of Anesthesiology, Intensive Care and Pain Medicine and Department of Emergency Care and Services, Helsinki, Finland; 2Helsinki University Hospital & University of Helsinki, Helsinki, Finland
+Introduction:
+Traumatic brain injury (TBI) can have devastating neurological, psychological and social sequelae. Increased psychiatric morbidity after TBI has been shown in both adult and the pediatric population. Also, critical illness as such is a risk factor for psychiatric problems in youth. Our aim was to assess risk factors for later being prescribed psychiatric medication in survivors of intensive care unit (ICU)-treated pediatric TBI.
+Methods:
+We used the Finnish Intensive Care Consortium (FICC) database to identify patients 5-17 years of age, treated for TBI in four ICU in Finland during the years 2003-2013. We examined electronic health records and CT scans and collected data on drug prescription after discharge. We used multivariable logistic regression models to find statistically significant risk factors for psychiatric drug reimbursement.
+Results:
+We identified 248 patients of which 46 patients received psychiatric drug prescription (19%) during follow up. The median time to prescription was 14 months after TBI (interquartile range [IQR] 5-31 months). 33 patients received antidepressants, 9 received stimulants and 18 received antipsychotics. Increasing age showed a positive association with all drug prescriptions except for stimulants, where an inverse relationship was observed (Table 1). Using multivariable analyses, we could not find any admission or treatment related factors that significantly associated with being prescribed psychiatric medications. Teenage survivors with moderate disability (Glasgow outcome scale [GOS] 4) showed high numbers of psychotropic drug utilization (45% received any medication, 36% received antidepressants, 24% received antipsychotics).
+Conclusions:
+Our data suggests, that the risk of psychotropic drug prescription after TBI depends on factors other than those related to injury severity or treatment measures. The incidence of drug prescription is especially high in patients with moderate disability.
+Table 1 (abstract P026). Prescription frequencies in patients categorized by GOS score and age groupFull size table
+
+
+P027 The effects of 1-adamantylethyloxy-3-morpholino-2-propanol hydrochloride on the formation of steroid neurotoxicity in rats with brain injury
+A. Semenenko1, S. Semenenko2, A. Solomonchuk3, N. Semenenko3
+
+1National Pirogov Memorial Medical University, Department of Anesthesiology, Intensive Care and Emergency Medicine, Vinnytsya, Ukraine; 2National Pirogov Memorial Medical University, Departament of Clinical Pharmacy and Clinical Pharmacology, Vinnytsya, Ukraine; 3National Pirogov Memorial Medical University, Vinnytsya, Ukraine
+Introduction:
+Depending on the nature of the brain injury and the severity of the victims, mortality in traumatic brain injury (TBI) ranges from 5 to 65% [1]. One of the targets for pathogenetic influence on the course of TBI is the use of pharmacological agents that are able to counteract the negative effects of excess concentrations of glucocorticoids on brain.
+Methods:
+The therapeutic effect of new pharmacological derivative 1-adamantylethyloxy-3-morpholino-2-propanol hydrochloride (ademol) in rats with TBI was evaluated for 8 days. The pseudoperated animals and control group received 0.9% NaCl solution and the comparison group received amantadine sulfate. Cortisol levels were used to determine the efficacy of the test drugs in TBI.
+Results:
+In rats treated with ademol, the level of cortisol in the blood ranged from 179 to 188 ng/ml (P5-P95) and was 2.58-fold lower (p<0.05) compared to control pathology group on the 8 day of therapy. Instead, the effect of amantadine sulfate on the level of cortisol in the blood was significantly less than that of ademol. The concentration of cortisol in rats with amantadine sulfate in the blood ranged from 271-280 ng/ml (P5-P95), was 1.73 times lower (p<0.05), compared with the control pathology group, and by 49.2% (p<0.05) exceeded the corresponding value in animals treated with ademol.
+Conclusions:
+Therapeutic treatment of rats with severe TBI with a solution of ademol, preferably better than rats in the group with 0.9% NaCl and amantadine sulfate protect the brain from the formation of steroid neurotoxicity by cortisol (p<0.05).
+References:
+1. Rickels E. Eur J Trauma Emerg Surg 43:729–730, 2017.
+
+P028 YKL-40 and neuron-specific enolase as prognostic biomarkers in traumatic brain injury
+G Pavlov1, M Kazakova2, V Dichev2, D Vasilev3, K Simitchiev4, C Stefanov3, V Sarafian2
+
+1Medical University of Plovdiv, Department of Anesthesiology, Emergency and Intensive Care Medicine *University Hospital “St. George” Plovdiv, Bulgaria, Plovdiv, Bulgaria; 2Medical University of Plovdiv, Department of Medical Biology, Medical Faculty, Medical University- Plovdiv, Bulgaria, Plovdiv, Bulgaria; 3Medical University of Plovdiv, Department of Anesthesiology, Emergency and Intensive Care Medicine, Medical Faculty, Medical University- Plovdiv, Bulgaria, Plovdiv, Bulgaria; 4University of Plovdiv, Department of Analytical Chemistry and Computer Chemistry, Faculty of Chemistry, University of Plovdiv, Bulgaria, Plovdiv, Bulgaria
+Introduction:
+Severe traumatic brain injury (TBI) is the leading cause of morbidity and mortality among young people [1]. The aim of the study is to assess how plasma and cerebrospinal levels of YKL-40 [2], independently or in combination with NSE, IL-6, TNF-α and CRP affect the clinical models and the outcome in TBI.
+Methods:
+30 patients with isolated severe TBI admitted to the Intensive Care Unit at the University Hospital “St. George”- Plovdiv from 2017 to 2018 were included. Cerebrospinal fluid (CSF) and plasma were collected on the 24th and 96th hour after the injury. CSF samples were also collected from 15 adult cadavers and served as an age-matched and gender-matched control group. Levels of YKL-40, NSE, IL-6 and TNF-α were analyzed with ELISA. GCS, APACHE III and Marshall Classification were determined prior to randomization and at the 96th hour after admission. Outcome was assessed as in-hospital mortality and at six months mortality.
+Results:
+The CSF level of YKL-40 in the TBI group was significantly higher compared to the control group (p=0.005). CSF levels of NSE are significantly higher compared to plasma concentrations on 24-th hour in TBI patients. Mean plasma levels of YKL-40 and TNF-α were higher compared to CSF, but the difference was feeble. We found statistically significant difference in plasma levels of YKL-40 (p<0.001) and NSE (p<0.001) in patients with short survival. A significant correlation between plasma concentrations of YKL-40, TNF-α and NSE was determined.
+Conclusions:
+Plasma NSE concentration is the major independent variable which influenced the survival of TBI patients. Plasma and CSF YKL-40 levels along with NSE, reflect the inflammatory process and would provide new information about its dynamics in TBI patients.Acknowledgements: The financial support by the National Science Fund of Bulgaria (Contract DM 03/2 12.12.2016) is gratefully acknowledged.
+References:
+1. Peeters W, et al. Acta Neurochir 157: 1683–1696, 2015.2. Bonneh-Barkay D, et al. J Neurotrauma 27:1215–1223, 2010.
+
+P029 Cerebro-vascular perfusion correlation index (CPC) predicts outcomes in severe traumatic brain injury
+D Colombo1, G Berdin2, A Scerrati3, G Golino4, E Bonaldi2, E Roman-Pognuz5, P Persona6, MA Martin2, S De Rosa7
+
+1SS. Trinità Hospital,Borgomanero, Borgomanero, Novara, Italy; 2San Bortolo Hospital, Department of Anesthesia and Intensive Care Medicine, Vicenza, Italy; 3San Bortolo Hospital, Department of Neurosurgery, Vicenza, Italy; 4San Bortolo Hospital, Department of Medicine – DIMED, Section of Anesthesiology and Intensive Care Medicine, Vicenza, Italy; 5Azienda Sanitaria Universitaria Integrata di Trieste, Hospital of Trieste, Department of Anesthesia and Intensive Care Medicine, Trieste, Italy; 6University of Padova, Department of Medicine – DIMED, Section of Anesthesiology and Intensive Care Medicine, Padova, Italy; 7San Bortolo Hospital, Department of Intensive Care, Vicenza, Italy
+Introduction:
+Although cerebrovascular pressure reactivity (PRx) well correlate to patient’s outcome [1], it requires continuous monitoring and mobile average calculation for its determination. We therefore hypothesized that a simplified model of variation between mean arterial pressure (MAP) and intracranial pressure ICP over the first three days of admission would have been able to predict patient outcome: we call this new parameter Cerebrovascular Pressure Correlation index (CPC).
+Methods:
+We performed a retrospective observational study of all adult patients with severe TBI admitted to ICU from January 2017 to April 2018 inclusive. All consecutive patients with a clinical need for ICP monitoring were included for analysis. Both for ICP and MAP data were mean value over 2-hours registration, for a total of 12 observations/day, CPC was therefore calculated as the Pearson Correlation Coefficient between ICP values (x axis) and MAP values (y axis), obtaining one single value every 24 hours. Variables included in the model (i.e. CPC, CPP, ICP, systemic glucose, arterial lactate, PaCO2, ICP, and internal body temperature) were collected for the first 3 days since trauma.
+Results:
+For the main outcome only the minimum value of CPC fit the regression analysis (P = 0.004). The correspondent ROC curve showed an AUC of 0.80. The associated Youden criterion was ≤0.26 (Sensitivity = 0.90; Specificity = 0.68). Of all the variables considered for the secondary outcome only CPCmin fit the regression model (P =0.03). Table 1 reports the median and IQR range for SG and NSG of all the variables considered in the model.
+Conclusions:
+This observational study suggests that CPC could be a simplified model of variation between MAP and intracranial pressure ICP over the first three days of admission predicting patient outcome.
+References:
+1. Donnelly J, et al. Neurocrit Care 22: 20–25, 2015
+Table 1 (abstract P029). Odds ratio and significance level for each variableFull size table
+
+
+P030 The brain heart interaction - dynamic relationship between variability of heart rate, interventions and outcome in traumatic brain injury
+BA Ianosi1, V Rass1, A Lindner1, P Smielewski2, A Ercole3, R Beer1, A Schiefecker1, B Pfausler1, N Stocchetti4, R Helbok1
+
+1Medical University of Innsbruck, Neurological Intensive Care Unit, Department of Neurology, Innsbruck, Austria; 2Cambridge University, Division of Neurosurgery, Cambridge, United Kingdom; 3Cambridge University, Division of Anaesthesia, Cambridge, United Kingdom; 4Ospedale Maggiore Policlinico, Department of Anesthesia and Critical Care, Milano, Italy
+Introduction:
+In severe traumatic brain injury (TBI) the heart rate variability (HRV) could inform about severity and predict outcome. In this study we depicted the dynamic response of HRV to iatrogenic interventions.
+Methods:
+Prospectively collected high resolution data of patients from multiple centers with severe TBI from the Intensive Care Unit (ICU) cohort of the CENTER-TBI study were analyzed. Bad outcome was defined as having a Glasgow-Outcome-Scale GOSE between 1-3 at 6 months. HRV parameters were calculated according to international guidelines using a 5-minute sliding window, updated every 10s. Hourly and daily medians were further analyzed
+Results:
+We included 273 patients (11403 h analyzed).80% were male, 46±19 years old and had an initial GCS of 6 (IQR 3-10). 72 had at least one unresponsive pupil. Outcome data was available for 90.1% of patients with 50.8% (N=125/246) having a bad outcome. The ratio of LF (low frequency) to HF (high frequency) power (LF/HF ratio) was lower in patients with at least one unreactive pupil (1.2±1.1 vs.1.5±1.3, p=0.03) and who had a bad outcome (1.1±0.9)vs. good outcome (1.8±1.4) (mean difference 0.69; 95%CI 0.38-0.99, p<0.001) suggesting parasympathetic dominance. During deep sedation we found a lower LF/HF Ratio (0.9±1.1 vs.1.6±1.7, p<0.001), a lower heart rate standard deviation(HR-SD)(p<0.001) and root mean square of successive differences heartbeats(RMSSD) (p=0.006), compared to patients that were not suppressed. During 151 sedation boli the HR-SD increased (mean diff.0.71 95%CI 0.9-0.4, p<0.002) compared to baseline (30min before bolus). During days with induced hypothermia (63d-mild hypothermia; 23d≤35°C, N=42) the LF/HF Ratio was lower (1.6±1.7 vs 1.1±1.1, p=0.02), as were the HR-SD(p=0.01)&RMSSD (p=0.01).Patients with a good outcome but not those with poor outcome showed increased RMSSD during suctioning(reflecting better vagal response) (Figure 1).
+Conclusions:
+HRV reflects severity and ICU interventions. A dynamic analysis during interventions may offer prognostic information.
+Fig. 1 (abstract P030).The patients with a good 6-month outcome (GOSE>3) after severe traumatic brain injury showed an increase in root mean square of successive differences between normal heartbeats (RMSSD) (compared to baseline 30 -minutes before tracheal succtioning)Full size image
+
+
+P031 Temperature and cerebral autoregulation in severe TBI patients
+BA Ianosi1, V Rass1, A Lindner1, M Kofler1, A Schiefecker1, R Beer1, B Pfausler1, N Stocchetti2, A Ercole3, R Helbok1
+
+1Medical University of Innsbruck, Neurological Intensive Care Unit, Department of Neurology, Innsbruck, Austria; 2Ospedale Maggiore Policlinico, Department of Anesthesia and Critical Care, Milano, Italy; 3Cambridge University, Division of Anaesthesia, Cambridge, United Kingdom
+Introduction:
+Impaired cerebrovascular reactivity (CAR) after traumatic brain injury (TBI) is a marker for disease severity and poor outcome. It is unclear how dynamic changes in body temperature and fever impact CAR and outcome.
+Methods:
+We calculated the pressure reactivity index (PRx) using the CENTER-TBI high-resolution intensive care unit cohort, as a moving correlation coefficient between intracranial pressure (ICP) and mean arterial pressure (MAP). Minute and hourly values of PRx and temperature were averaged in patients with simultaneous recording of ICP and ABP. Demographic data was based the Core Registry (V2.0). Linear mixed models were calculated based on minute-by-minute data using R with lme4 V1.1-21 and ggeffects V0.9.0. Generalized estimating equation models were used to analyze changes during effervescence (increase of temperature of >1°C within 3 hours).
+Results:
+We assessed high frequency physiological data during 567 days of 102 patients admitted to the ICU with predominantly a closed injury type (N=94/102). Median age was 46 years (IQR 29-62), baseline GCS was 6 (IQR 3-9), and 27% had at least one unreactive pupil. The main measurement site for temperature was the urinary bladder 55/102(54%). Half of the patients (49/102) developed fever(>1h with mean T ≥ 38.3°C) with a total of 834h fever and a median of 9h fever(IQR 4-24) per patient. Of 110 effervescence episodes 30(27%) reached the febrile threshold of 38.3°C which was associated with an increase in PRx from 0.09 (±SD 0.25) at baseline (2h before) to 0.26 (±SD 0.3) during the febrile peak (p=0.014) (Figure 1-A). Linear mixed models showed a quadratic relationship between PRx and temperature (p<0.001) with an increase in predicted PRx with febrile and hypothermic temperatures (Figure 1B).
+Conclusions:
+The association of increasing body temperature with worsening of CAR supports prevention of fever in severe TBI. Prospective studies are needed to further differentiate between mechanisms involved (i.e. inflammation) and central autonomic dysregulation.
+Fig. 1 (abstract P031).A) Changes in mean PRx during episodes of effervescence (1°C within 3 hours); B) Predicted relationship between PRx and temperature based on mixed linear modelsFull size image
+
+
+P032 Brain temperature after traumatic injury: a center-TBI study
+T Birg1, F Ortolano1, M Carbonara1, T Zoerle1, R Helbok2, Y Savchenko3, BA Ianosi2, N Stocchetti1
+
+1Fondazione IRCCSC a’Granda Ospedale Maggiore Policlinico, Neurointensive care unit, Milan, Italy; 2University of Innsbruck, Department of Neurology, Innsbruck, Austria; 3Burdenko Neurosurgical Center, Neurointensive care unit, Moscow, Russia
+Introduction:
+After traumatic brain injury (TBI) fever is common and may cause secondary brain damage. In this study we investigated the association between changes in brain temperature (BT), intracranial pressure (ICP), and cerebral perfusion pressure (CPP).
+Methods:
+CENTER-TBI is a co-operative effort of several neurotrauma centers in Europe and includes a repository of monitored data sampled at high-frequency (from 200 Hz to 500 Hz). Simultaneous BT, ICP and CPP recordings were studied, focusing on episodes of BT changes (delta BT ≥0.5 °C, lasting 15 minutes - 3 hours) up or down-ward. Using the linear correlation coefficient episodes were coded as responding (R), when there was a clear association between ICP and BT (Pearson’s R value ≥0.5) or non-responding (NR) when the correlation coefficient was <0.5.
+Results:
+Twenty-one patients were selected for the study for a total of 2435 monitoring hours. The mean duration of monitoring was 86 hours. All patients reached a BT above 38° and experienced at least one episode of ICP above 20 mmHg. A CPP lower than 60 mmHg (often of very short duration) has been recorded in all patients. 149 episodes (79 for BT elevation and 70 for BT reduction) were identified. During BT elevations, the increase in temperature was accompanied by ICP increases in slightly more than half episodes (43 R (54%) vs 37 NR (46%)). During BT reduction there were 32 R (46%) and 38 NR (54%) episodes.
+Conclusions:
+Patients after TBI usually develop BT> 38° soon after the injury. The BT may influence brain physiology, as reflected by ICP, through vascular responses (respectively vasodilation/vasoconstriction). Our analysis identified potential ICP and CPP variations connected to BT changes in approximately half of episodes. However, it has to be noted that both ICP and CPP have been actively manipulated in the ICU, potentially blunting the biological responses due to BT.
+
+P033 Subclinical AKI in severe traumatic brain injury
+S De Rosa1, G Golino2, G Villa3, S Samoni4, M De Cal4, MA Martin5, G Berdin5, P Persona2, P Navalesi2, C Ronco6
+
+1San Bortolo Hospital, Department of Intensive Care, Vicenza, Italy; 2University of Padova, Department of Medicine – DIMED, Section of Anesthesiology and Intensive Care Medicine, Padova, Italy; 3University of Florence, Department of Anesthesia and Intensive Care Medicine, Florence, Italy; 4San Bortolo Hospital, Department of Nephrology, Vicenza, Italy; 5San Bortolo Hospital, Department of Anesthesia and Intensive Care Medicine, Vicenza, Italy; 6San Bortolo Hospital, Department of Medicine, University of Padova, Padova-Italy, Vicenza, Italy
+Introduction:
+Acute kidney injury (AKI) is relatively common in patients with severe traumatic brain injury (sTBI) and it can contribute to morbidity and mortality [1]. NephroCheck is a point-of-care urine test that flags two biomarkers that indicate if a critically ill patient is at risk for AKI. We investigated the incidence of subclinical AKI in patients with sTBI.
+Methods:
+We performed a prospective observational study of all adult patients with severe TBI admitted to ICU from January 2017 to April 2018 inclusive. All consecutive patients with a clinical need for ICP monitoring were included for analysis. Urine samples of severe TBI patients was collected at ICU admission from 33 patients to measure NephroCheck (NC) test [IGFBP7]x[TIMP-2] was performed using the NephroCheck® Astute1 40 ™ meter. Serum creatinine was collected at admission, during the first three days, at ICU dismission and 60-days follow up to assess renal recovery. The diagnosis of AKI was based on KDIGO criteria. Hemodynamics, electrolytes, PEEP, P/F, kind of fluid administered, Fluid Balance, % Fluid overload, length of stay, The Sequential Organ Failure Assessment score, injury severity scores and mortality were collected.
+Results:
+A total of 15 patients (45%) presented a median NC higher values at ICU admission. One patient with positive NC value experienced AKI at 24 hrs. The positive NC group had more plasma transfusion (p-value 0.03) and a lower median hematocrit at 24 hrs (p-value 0.013), but similar hospital length of stay (p=0.17) and mortality rate (p=0.80)
+Conclusions:
+NC at ICU admission identifies subclinical AKI in TBI patients and it maight be used to predictclinical AKI. Hemodilution (but not fluid overload) seems to be associated with development of subclinical AKI. Higher NC at ICU admission is not associated with worst long-term outcome in TBI patients.
+References:
+1. Moore EM et al. Ren Fail 32:1060-5, 2010
+
+P034 Benchmarking outcomes after severe traumatic brain injury with the CRASH and IMPACT prediction models: a single center analysis in the Netherlands
+WR Van de Peppel1, HF Lingsma2, I Haitsma3, M Van der Jagt4
+
+1Erasmus MC - University Medical Center, Departments of Intensive Care Adults, Rotterdam, Netherlands; 2Erasmus MC - University Medical Center, Department of Public Health, Rotterdam, Netherlands; 3Erasmus MC - University Medical Center, Department of neurosurgery, Rotterdam, Netherlands; 4Erasmus MC - University Medical Center, Department of Intensive Care Adults, Rotterdam, Netherlands
+Introduction:
+Severe traumatic brain injury (TBI) is considered a serious public health problem in Europe. Partly because of the heterogeneity of TBI, considerable uncertainty may exist in the expected outcome of patients. The International Mission for Prognosis and Analysis of Clinical Trials in TBI (IMPACT) and the Corticosteroid Randomization After Significant Head Injury (CRASH) prediction models are considered the most widely validated prognostic models [1,2]. However, studies using these prediction models for benchmarking of outcomes have been scarce. We aimed to compare actual outcomes in a TBI cohort of critically ill TBI patients with predicted outcomes in a quality of care initiative in an Academic Hospital.
+Methods:
+In this retrospective cohort study, we included consecutively admitted TBI patients to the ICU Adults of Erasmus MC, University Medical Center, Rotterdam, The Netherlands between January 2018 and February 2019.
+Results:
+We included 87 patients with TBI. 14-day mortality was 25%, six-month mortality was 36% and six-month unfavourable outcome was 50%. The IMPACT core+CT+lab model predicted 34% 6-month mortality (vs 35% actual, p=0.89) and 51% unfavourable outcome (vs 50% actual, p=0.9). The 14-day mortality prediction by CRASH prognosis calculator was 43% versus actual 14-day mortality of only 25% (p=0.01), whereas 6-month unfavourable outcome prediction by CRASH was 67% (vs. 50% actual, p=0.02) (Figure 1).
+Conclusions:
+The IMPACT model, although developed more than a decade ago, seemed appropriate for benchmarking purposes in this single center cohort in the Netherlands, while CRASH predictions were less applicable to our setting.
+References:
+1. Perel P et al. BMJ 23 :425-429, 20032. Steyerberg EW et al. PLoS Med 5:e165, 2008
+Fig. 1 (abstract P034).Actual and predicted outcome according to CRASH and IMPACTFull size image
+
+
+P035 Neuroprognostication following out of hospital cardiac arrest
+R Davidson1, T Bagnall2, M Ahmed3
+
+1St George´s Hospital Cardiothoracic Intensive Care, Atkinson Morley Wing, London, United Kingdom; 2Kingston Hospital, Cardiology, London, United Kingdom; 3St George´s Hospital Cardiothoracic Intensive Care, London, United Kingdom
+Introduction:
+Out of hospital cardiac arrest (OHCA) continues to be associated with significant mortality and morbidity. Centralisation of care has considerably improved patient survival but has resulted in increased morbidity in the form of neurological deficit. Accurate neurological prognostication remains challenging incorporating repeated clinical examination and ancillary investigations [1, 2].
+Methods:
+Data was collected retrospectively and analysed for 96 patients admitted post OHCA from October 2018 to October 2019. Patient arrest demographics were collected in conjunction with extensive inpatient investigation findings including CT, traditional pupil assessment, pupillometry and EEG.
+Results:
+50% of patients survived to hospital discharge. Patients presenting in a shockable rhythm continue to have higher survival rates (Table 1). 53% of patients who received immediate CPR survived to hospital discharge in comparison to 41% of patients who did not receive immediate CPR. 73% of patients underwent non-contrast CT head. 74% of patients had traditional pupillary examination performed on arrival. Pupillometry was introduced in December 2018; 31 out of a possible 85 patients had pupillometry during their inpatient stay. EEG was undertaken in 11% of cases.
+Conclusions:
+Our data shows receiving immediate CPR and presenting with a shockable rhythm remain positive prognostic factors. CT head as a stand-alone prognostic modality is unreliable with 14% of patients who survived to discharge, with intact neurology, had an admission CT head reported as hypoxic brain injury. A new neuroprognostic strategy is required in our unit that adds further certainty to likely clinical outcome. This includes increased use of tests such as EEG and pupillometry and the introduction of biomarkers such as neuron specific enolase, somatosensory evoked potential testing and magnetic resonance imaging.
+References:
+1. Sandroni et al. Crit Care 22:150, 20182. Eertmans et al. Scand J Trauma Resusc Emerg Med 26:93, 2018
+Table 1 (abstract P035). Survival to discharge based on presenting rhythmFull size table
+
