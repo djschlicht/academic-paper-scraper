@@ -43,7 +43,8 @@ bag = [	# traits
 	"SARS", "SARS-COV", "severe acute respiratory syndrome", "Covid", "SARS-COV-2", "novel coronavirus",
 	]
 	
-# deletes files that are empty or title only
+# deletes files that are empty or title only and returns -1
+# returns 0 otherwise
 def delete_if_empty(filename):
 	size = os.path.getsize(f)
 	
@@ -51,6 +52,9 @@ def delete_if_empty(filename):
 	if size < 1000:
 		print(f+' removed.')
 		os.remove(f)
+		return -1
+		
+	return 0
 				
 
 # returns hit count of words as a rough relevance test
@@ -70,16 +74,18 @@ def relevance_check(filename):
 # open a txt file to list relevance scores
 rel_list = open(r"./relevance_list.txt", "w+")
 relevances = {}
-# iterate through the files and cleanup/run relevance test
-for dirname in os.listdir(r"./data/springer/texts/"):
-		for filename in os.listdir(r"./data/springer/texts/"+dirname):
-			f = r"./data/springer/texts/"+dirname+"/"+filename
-			delete_if_empty(f)
-			title, rev = relevance_check(f)
-			if rev in relevances:
-				relevances[rev].append((title, f))
+# iterate through the files and cleanup or run relevance test
+for dirname in os.listdir(r"./data/texts/"):
+		for filename in os.listdir(r"./data/texts/"+dirname):
+			f = r"./data/texts/"+dirname+"/"+filename
+			if delete_if_empty(f) == -1:
+				continue
 			else:
-				relevances[rev] = [(title, f)]
+				title, rev = relevance_check(f)
+				if rev in relevances:
+					relevances[rev].append((title, f))
+				else:
+					relevances[rev] = [(title, f)]
 
 # sort by hit count and write to file			
 for k in sorted(relevances):
