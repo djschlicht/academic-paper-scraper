@@ -59,14 +59,14 @@ for dirname in os.listdir(r"./data/springer/texts/"):
 			delete_if_empty(f)
 			title, rev = relevance_check(f)
 			if rev in relevances:
-				relevances[rev].append(title)
+				relevances[rev].append((title, f))
 			else:
-				relevances[rev] = [title]
+				relevances[rev] = [(title, f)]
 
 # sort by hit count and write to file			
 for k in sorted(relevances):
 	rel_list.write((str(k)+": \n"))
-	for t in relevances[k]:
-		rel_list.write("\t" + t)
+	for tup in relevances[k]:
+		rel_list.write("\t" + tup[0] + "\t\t" + tup[1] + "\n")
 			
 rel_list.close()
