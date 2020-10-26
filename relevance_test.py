@@ -39,7 +39,7 @@ def cleanup_files():
 				os.remove(f)
 				
 
-# runs bag-o-words and returns hit count
+# returns hit count of words as a rough relevance test
 def relevance_check(filename):
 	count = 0
 	
