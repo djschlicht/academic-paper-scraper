@@ -1,0 +1,69 @@
+Taxonomy of the order Bunyavirales: update 2019
+
+Abstract
+In February 2019, following the annual taxon ratification vote, the order Bunyavirales was amended by creation of two new families, four new subfamilies, 11 new genera and 77 new species, merging of two species, and deletion of one species. This article presents the updated taxonomy of the order Bunyavirales now accepted by the International Committee on Taxonomy of Viruses (ICTV).
+
+Introduction
+The virus order Bunyavirales was established in 2017 to accommodate related viruses with segmented, linear, single-stranded, negative-sense or ambisense RNA genomes classified into nine families [19]. An amended/emended order description was published in early 2019 [20]. Here, we present the changes that were proposed via official ICTV taxonomic proposals that were accepted by the ICTV Executive Committee (EC) in February 2019. Therefore, these changes are now part of the official ICTV taxonomy.
+
+Taxonomic changes at the order rank
+The order was expanded by addition of two new families. Family Leishbuviridae was created to accommodate one new genus, Shilevirus, including one new species, Leptomonas shilevirus, for Leptomonas moramango leishbunyavirus (LEPMV) discovered in a trypanosomatid protist (Leptomonas moramango) [2]. Family Tospoviridae was recreated for the already established genus Tospovirus (now renamed Orthotospovirus; TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen) and expanded by seven new species (TaxoProp 2018.025P.A.v1.Orthotospovirus_7sp):
+
+Bean necrotic mosaic orthotospovirus for bean necrotic mosaic virus (BeNMV) discovered in common beans (Phaseolus vulgaris) [8];
+
+
+Calla lily chlorotic spot orthotospovirus for calla lily chlorotic spot virus (CCSV) found in calla lilies (Zantedeschia sp.) [5, 18];
+
+
+Capsicum chlorosis orthotospovirus for capsicum chlorosis virus (CaCV) found in capsicums, chillies, and tomatoes [16, 23];
+
+
+Chrysanthemum stem necrosis orthotospovirus for chrysanthemum stem necrosis virus (CSNV) infecting chrysanthemums [3, 10];
+
+
+Melon severe mosaic orthotospovirus for melon severe mosaic virus (MSMV) infecting cucurbit crops [6, 7];
+
+
+Melon yellow spot orthotospovirus for melon yellow spot virus (MYSV) found in netted melon (Cucumis melo) [15]; and
+
+
+Soybean vein necrosis orthotospovirus for soybean vein necrosis virus (SVNV) discovered in soybeans (Glycine max) [36].
+
+A genus unassigned to any family, Coguvirus, was established to include species Citrus coguvirus for citrus concave gum-associated virus (CCGaV) found in citrus trees [26] (TaxoProp 2018.020P.A.v1.Coguvirus).
+
+Taxonomic changes at the family rank
+
+Arenaviridae
+The family Arenaviridae was expanded by one genus, Antennavirus, to include two new species, Hairy antennavirus and Striated antennavirus, for Wēnlǐng frogfish arenavirus 2 (WlFV-2) and Wēnlǐng frogfish arenavirus 1 (WlFV-1), both found in striated frogfish (Antennarius striatus) [33] (TaxoProp 2018.005M.A.v1.Antennavirus).
+Cruliviridae
+No changes were made at the family rank.
+Fimoviridae
+No changes were made at the family rank.
+Hantaviridae
+The family (TaxoProp 2018.010M.A.v2.Hantaviridae_4subfam) was reorganized into four subfamilies:
+
+subfamily Actantavirinae was created for the new genus Actinovirus to accommodate three novel species: Batfish actinovirus for Wēnlǐng minipizza batfish virus (WEMV) discovered in minipizza batfish (Halieutaea stellata); Goosefish actinovirus for Wēnlǐng yellow goosefish virus (WEYGV) found in yellow goosefish (Lophius litulon); and Spikefish actinovirus for Wēnlǐng red spikefish virus (WERSV) of red spikefish (Triacanthodes anomalus) [33];
+
+
+subfamily Agantavirinae was created for the new genus Agnathovirus to accommodate one new species, Hagfish agnathovirus, for Wēnlǐng hagfish virus (WEHV) of inshore hagfish (Eptatretus burgeri) [33];
+
+
+subfamily Mammantavirinae was created to accommodate the established genera Loanvirus, Mobatvirus, and Orthohantavirus. Two new orthohantavirus species, Seewis orhtohantavirus and Tigray orthohantavirus, were created for Seewis virus (SWSV) of Eurasian common shrews (Sorex araneus) [34] and Tigray virus (TIGV) of Ethiopian white-footed mice (Stenocephalemys albipes) [12, 25], respectively; and
+
+
+subfamily Repantavirinae was created for the new genus Reptillovirus to accommodate one new species, Gecko reptillovirus, for Hǎinán oriental leaf-toed gecko virus (HOLGV) discovered in oriental leaf-toed geckos (Hemidactylus bowringii) [33].
+
+
+Mypoviridae
+No changes were made at the family rank.
+Nairoviridae
+The species Estero Real orthonairovirus was created for Estero Real virus (ERV) (moved from genus Orthobunyavirus, family Peribunyaviridae) [1] (TaxoProp 2018.012M.A.v1.Bunyavirales_spmov).
+Peribunyaviridae
+The family was expanded by one new genus, Pacuvirus, to accommodate three new species: Pacui pacuvirus for Pacui virus (PACV) discovered in a rice rat (Oryzomys sp.); Rio Preto da Eva pacuvirus for Rio Preto da Eva virus discovered in a sewer gnat (Psychodidae sp.); and Tapirape pacuvirus for Tapirapé virus found in a hocicudo (Oxymycterus sp.) [27] (TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen). Genus Tospovirus was removed from the family and placed into the new family Tospoviridae as genus Orthotospovirus (TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen). The genus Orthobunyavirus was reorganized by moving previously classified viruses into a total of 38 new species (one resulting from a merger of two previously established species) (TaxoProp 2018.008M.A.v1.Orthobunyavirus_38sp). Five additional novel species were added: Bellavista orthobunyavirus for Bellavista virus isolated from mosquitoes (Culex portesi) [14]; Enseada orthobunyavirus for Enseada virus isolated from Culex mosquitoes [4, 9]; Maguari orthobunyavirus for Maguari virus (MAGV) isolated from mosquitoes [13]; Tataguine orthobunyavirus for Tataguine virus (TATV) found in a human sample, and Witwatersrand orthobunyavirus for Witwatersrand virus (WITV) from mosquitoes [29] (TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen). Species Estero Real orthobunyavirus was abolished, and its member, Estero Real virus (ERV), was moved into family Nairoviridae [1] (TaxoProp 2018.012M.A.v1.Bunyavirales_spmov).
+Phasmaviridae
+The family was expanded by addition of one new genus, Sawastrivirus, to include one new species, Sanxia sawastrivirus, for Sānxiá water strider virus 2 (SxWSV-2) (TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen) detected in gerrid water striders [31]. The genus Orthophasmavirus was expanded by the addition of five new species: Culex orthophasmavirus for Culex phasma-like virus (CPLV) detected in Culex mosquitoes [32]; Ganda orthophasmavirus for Ganda bee virus (GBEEV) of European orchard bees (Osmia cornuta) [28]; Odonate orthophasmavirus for Húběi odonate virus 8 (HbOV-8) [31]; Qingling orthophasmavirus for Húběi odonate virus 9 (HbOV-9) of odonates [31]; and Seattle orthophasmavirus for Seattle Prectang virus (SEPV) found in a moth (Pasiphila rectangulata) [21] (TaxoProp 2018.009M.A.v1.Phasmavirus_5sp).
+Phenuiviridae
+The family Phenuiviridae was expanded by addition of three new genera. Genus Kabutovirus was created to include two new species, Huangpi kabutovirus and Kabuto mountain kabutovirus, for Huángpí tick virus 1 (HpTV-1) of ticks (Haemaphysalis doenitzi) [17] and Kabuto mountain virus (KAMV) of ticks (Haemaphysalis flava) [11], respectively. Genus Laulavirus was created to include one species, Laurel Lake laulavirus, for Laurel Lake virus (LLV) of ticks (Ixodes scapularis) [35]. Genus Wenrivirus was created to include one species, Shrimp wenrivirus, for Wēnzhōu shrimp virus 1 (WzSV-1) [17] found in giant tiger prawns (Penaeus monodon) [17] (TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen). The established genus Banyangvirus was expanded by two species, Guertu banyangvirus and Heartland banyangvirus, for Guertu virus (GTV) found in Dermacentor nuttalli ticks [30] and Heartland virus (HRTV), a tick-borne virus originally discovered in human samples [24], respectively (TaxoProp 2018.013M.A.v1.Banyangvirus_sp; TaxoProp 2018.017M.A.v1.Bunyavirales_2fam5gen). Genus Phlebovirus was expanded by one species, Mukawa phlebovirus, for Mukawa virus (MKWV) of ticks (Ixodes persulcatus) [22] (TaxoProp 2018.014M.A.v1.Phlebovirus_sp). In genus Phasivirus, species Wuhan fly phasivirus was abolished (TaxoProp 2018.019M.A.v1.Phenuiviridae_Remsp).WupedeviridaeNo changes were made at the family rank.
+
+Summary
+A summary of the current, ICTV-accepted taxonomy of the order Bunyavirales is presented in Table 1.Table 1 ICTV-accepted taxonomy of the order Bunyavirales as of February 2019. Listed are all bunyaviruses that are classified into speciesFull size table

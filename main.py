@@ -15,7 +15,6 @@ from text_scraper import get_fulltext
 diseases = []
 traits = []
 
-
 ''' call_springer
 Puts API calls in to the Springer Database 
 Stores results in 'papers.txt' and 'raw.txt' in ./data/springer.
@@ -30,13 +29,20 @@ def call_springer(query):
 		# access Springer API to search for papers
 		# usage: request_springer(query, API type, results per page, starting position)
 		# documentation to help form queries: https://dev.springernature.com/docs
-		for page in range(1, 50, 20):
-			obj = sp.request_springer(query, 'open', 20, config.springer_api_key, page)
-			pprint.pprint(obj, raw)
+		'''for page in range(1, 20, 20):
+			obj = sp.request_springer(query, 'open', 10, config.springer_api_key, 1)
+			if obj == '':
+				continue
+			else:
+				pprint.pprint(obj, raw)
 
-			# strip irrelevant data, format and write to file
-			sp.format_results(obj, papers)
-
+				# strip irrelevant data, format and write to file
+				sp.format_results(obj, papers)
+		'''
+		obj = sp.request_springer(query, 'open', 5, config.springer_api_key, 1)
+		pprint.pprint(obj, raw)
+		sp.format_results(obj, papers)
+		
 ''' generate_query
 Formats strings from disease_list.txt and trait_list.txt into
 search queries (also strings). 
@@ -50,8 +56,6 @@ def generate_query(disease, trait):
 	
 	# TODO: add extra filters e.g. date restriction, journal, etc
 
-	# restrict to journal articles
-	query += 'type:Journal '
 	
 	# group alternate names using OR and parentheses
 	query += '('	
@@ -65,7 +69,7 @@ def generate_query(disease, trait):
 	query += '(' + trait + ')'
 	
 	# adding (emerging infecti* disease* OR EID*) to query to narrow results
-	query += ' AND (emerging infecti* disease* OR EID*)'
+	#query += ' AND (emerging infecti* disease* OR EID*)'
 
 	'''
 	End result should look something like:
@@ -141,7 +145,7 @@ def get_text(url):
 	
 	# make directory with folder_name where you store full texts
 	# first check if the dir already exists
-	txt_path = './texts/'+folder_name+'/'
+	txt_path = './data/texts/'+folder_name+'/'
 	if not os.path.exists(txt_path):
 		os.mkdir(txt_path)
 		
@@ -156,8 +160,12 @@ def get_text(url):
 	# get the full text 
 	text_as_string = get_fulltext(url)
 	
-	with open(txt_path, 'w') as text:
-		text.write(text_as_string)
+	# skip if it doesn't get the full text
+	if len(text_as_string) < 1000:
+		return -1
+	else:
+		with open(txt_path, 'w') as text:
+			text.write(text_as_string)
 	
 	return 0
 
@@ -166,11 +174,36 @@ def get_text(url):
 get_disease_data()
 get_trait_data()
 
-# Build the search string
-query = generate_query(diseases[5], traits[3])
+# iteratively search for each trait on each disease (5 results per trait)
+for disease in diseases:
+	time.sleep(1) # to not go over api limit
+	for trait in traits:
+		# create search string
+		query = generate_query(disease, trait)
 
-# Pass query to the API
+		print("current query: " + query)
+		
+		# Pass query to the API
+		call_springer(query)
+
+		# get full texts of papers in ./data/springer/papers.txt
+		with open('./data/springer/papers.txt', 'r') as papers:
+			print('Scraping papers:')
+			for line in papers:
+				if 'URL:' in line:
+					url = papers.readline()
+					url = url.strip('\n\t')
+					print(url)
+					time.sleep(0.01)
+					get_text(url)
+				else: 
+					continue
+
+'''
+# test getting one disease one trait
+query = 'marburg+AND+"incubation+period"+AND+"type:Journal"'
 call_springer(query)
+
 
 # get full texts of papers in ./data/springer/papers.txt
 with open('./data/springer/papers.txt', 'r') as papers:
@@ -180,6 +213,9 @@ with open('./data/springer/papers.txt', 'r') as papers:
 			url = papers.readline()
 			url = url.strip('\n\t')
 			print(url)
+			time.sleep(0.01)
 			get_text(url)
 		else: 
 			continue
+				
+'''

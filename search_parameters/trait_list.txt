@@ -23,6 +23,11 @@
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 
 +++++++++ Origin location/date and outbreaks:
+first detected
+"first recorded outbreak"
+first outbreak
+largest outbreak
+
 (geograph* OR location OR origin*) AND (detect* OR discover*)
 (date OR year) AND (detect* OR discover*)
 outbreak AND (geograph* OR location OR origin* OR first)
@@ -31,22 +36,23 @@ transmiss* AND human AND (first OR origin* OR initial)
 
 
 +++++++++ Human infection/effects:
-asymptomatic AND (proportion OR ratio OR percent*) 
-infecti* AND (period OR time* OR duration)
-incubation AND (period OR time* OR duration)
-latent AND (period OR time* OR duration)
-death AND ("time to" OR speed OR time*)
+asymptomatic
+incubation period
+infecti* period
+latent period
+(fatality OR mortality) rate
+"pre-symptomatic infection"
+human-to-human
 
 
 ++++++++++ Animals infected/reservoirs/hosts:
-animal AND (reservoir* OR host)
+animal-to-human
 vector*
-host AND species
-zoon* AND pathogen
-transmi* from animal* to human*
-interspecies AND transmi*
-host breadth
-Viral richness
+reservoir*
+host
+species
+"interspecies transmission"
+"transmitted by"
 
 ++++++++++ Spread/transmissibility:
 transmiss* AND (efficiency OR rate)

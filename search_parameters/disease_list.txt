@@ -11,37 +11,25 @@
 +++ -> Wildcards characters are available: ?, *
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
-
-++++++++++++++++++++ General Terms: ++++++++++++++++++++ 
-emerging infectious diseas*, EID*
-
-
-++++++++++++++++++++ Specific Emerging Diseases: ++++++++++++++++++++ 
-COVID-19, Covid, SARS-COV-2, "novel coronavirus"
-Ebola, ebola virus, "ebola hemorrhagic fever", EVD
-Zika, zika (fever OR virus)
-Nipah, "nipah virus"
-Chikungunya, Chikungunya (virus OR fever)
-H1N1, (swine OR pig) AND (flu OR influenza)
-MERS, middle east respiratory syndrome
-Avian AND (flu OR influenza)
+ebola, "ebola virus", "ebola hemorrhagic fever", EVD
+zika, "zika virus", ZIKV
+nipah, "nipah virus", NiV
+chikungunya, CHIKV
+hendra, "hendra henipavirus", "hendra virus"
+marburg, "marburg virus", MVD, MARV
+dengue, "dengue fever", "dengue virus", DENV
+lassa, "lassa fever", "lassa virus"
+Lujo, Lusaka/Johannesburg virus
+"Lyme disease", "Lyme borreliosis"
+"West nile", "West nile virus"
+"heartland virus", HRTV
+"Severe fever with thrombocytopenia syndrome", SFTS
+St. Louis virus
+"Powassan virus", POWV, "deer tick virus", DTV
+"Australian bat lyssavirus", ABLV 
+H1N1, "swine flu", "swine influenza", "pig flu", "pig influenza"
+MERS, "middle east respiratory syndrome"
+"avian flu", "bird flu", "avian influenza"
 HIV, "human immunodeficiency virus"
-SARS, SARS-COV-1, "severe acute respiratory syndrome"
-Lyme disease
-"West nile" virus
-"dengue fever"
-Lassa (fever OR virus)
-Heartland virus
-
-
-++++++++++++++++++++ Re-Emerging: ++++++++++++++++++++ 
-+ malaria
-+ tuberculosis
-+ cholera
-+ pertussis
-+ gonorrhea
-
-
-
-
-
+SARS, SARS-COV, "severe acute respiratory syndrome"
+COVID-19, Covid, SARS-COV-2, "novel coronavirus"
