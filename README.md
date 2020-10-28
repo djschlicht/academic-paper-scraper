@@ -20,11 +20,3 @@ APIs is in progress.
 * Add your own items to the lists `keywords` and `pathogens`
 * Modify the `query_generator` function in springer.py. Springer's API
 [documentation](https://dev.springernature.com/docs) can help with that
-
-## Technology
-This is written purely in Python3 and uses the `requests` library for API calls.
-
-## To Do
-* expand lists of trait-keywords and emerging pathogens
-* refine query generation
-* add modules for other academic publishers
