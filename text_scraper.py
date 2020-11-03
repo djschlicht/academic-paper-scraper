@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # text_scraper.py - scrapes websites for the full text of an article
 
-import pprint
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -51,10 +50,36 @@ def filter_html(site):
 ''' get_fulltext 
 Controller function for this script
 Params: url, the url to be scraped as a string
-Returns: a string containing the text of the paper
+Returns: a string containing the text of the paper or '' if an error occured
 '''
 def get_fulltext(url):
-	r = requests.get(url)	
+	try:
+		r = requests.get(url)	
+	except ConnectionError as err:
+		print("ConnectionError...")
+		return ""
+	except requests.exceptions.RequestException as err:
+		print("requests.exceptions.RequestException Error")
+		return ""
+		
 	text = filter_html(r)
+	
+	'''
+	text = ''
+	with open('./scraper_log.txt', 'a') as log:
+		try:
+			r = requests.get(url)
+		except ConnectionError as err:
+			log.write(str(err))
+			log.write('\n')
+			return ''
+		except requests.exceptions.RequestException as err:
+			log.write(str(err))
+			log.write('\n')
+			return ''
+		log.write(str(r.status_code))
+		log.write('\n')
+		text = filter_html(r)
+	'''
 	
 	return text
