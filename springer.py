@@ -33,7 +33,15 @@ def request_springer(query, api, num, key, page):
 		'p': str(num),
 		'api_key': str(key)
 	}
-	response = requests.get(url, params=parameters)
+	try:
+		response = requests.get(url, params=parameters)
+	except ConnectionError as err:
+		print('ERROR: Springer Connection Error.')
+		return ''
+	except requests.exceptions.RequestException as err:
+		print('ERROR: Springer Connection Error.')
+		return ''
+
 	return response.json()
 	
 ''' format_results

@@ -1,0 +1,449 @@
+{'apiKey': '923da2a07addcdc0fa872ffddeebae78',
+ 'apiMessage': 'This JSON was provided by Springer Nature',
+ 'facets': [{'name': 'subject',
+             'values': [{'count': '184', 'value': 'Medicine & Public Health'},
+                        {'count': '150', 'value': 'Biomedicine'},
+                        {'count': '118', 'value': 'Life Sciences'},
+                        {'count': '87', 'value': 'Infectious Diseases'},
+                        {'count': '84', 'value': 'Virology'},
+                        {'count': '71', 'value': 'Microbiology'},
+                        {'count': '67', 'value': 'Life Sciences, general'},
+                        {'count': '65', 'value': 'Biomedicine, general'},
+                        {'count': '65', 'value': 'Medical Microbiology'},
+                        {'count': '61', 'value': 'Cell Biology'},
+                        {'count': '61', 'value': 'Internal Medicine'},
+                        {'count': '57',
+                         'value': 'Medicine/Public Health, general'},
+                        {'count': '46', 'value': 'Biochemistry, general'},
+                        {'count': '46', 'value': 'Immunology'},
+                        {'count': '42', 'value': 'Public Health'},
+                        {'count': '42',
+                         'value': 'Science, Humanities and Social Sciences, '
+                                  'multidisciplinary'},
+                        {'count': '37', 'value': 'Science, multidisciplinary'},
+                        {'count': '29', 'value': 'Oncology'},
+                        {'count': '28', 'value': 'Parasitology'},
+                        {'count': '27', 'value': 'Cancer Research'}]},
+            {'name': 'keyword',
+             'values': [{'count': '141', 'value': 'COVID-19'},
+                        {'count': '76', 'value': 'SARS-CoV-2'},
+                        {'count': '49', 'value': 'Coronavirus'},
+                        {'count': '30',
+                         'value': 'Severe Acute Respiratory Syndrome'},
+                        {'count': '17', 'value': 'Pandemic'},
+                        {'count': '16', 'value': 'SARS'},
+                        {'count': '12', 'value': 'Pneumonia'},
+                        {'count': '11', 'value': 'MERS'},
+                        {'count': '9', 'value': 'Cytokine storm'},
+                        {'count': '9', 'value': 'Vaccines'},
+                        {'count': '8', 'value': 'ACE2'},
+                        {'count': '8', 'value': 'Covid-19'},
+                        {'count': '8', 'value': 'Epidemiology'},
+                        {'count': '8', 'value': 'SARS-CoV2'},
+                        {'count': '7', 'value': 'Pathogenesis'},
+                        {'count': '7', 'value': 'Transmission'},
+                        {'count': '6', 'value': 'coronavirus'},
+                        {'count': '6', 'value': 'Influenza'},
+                        {'count': '6', 'value': 'MERS-CoV'},
+                        {'count': '6', 'value': 'Pathogenicity'}]},
+            {'name': 'pub',
+             'values': [{'count': '20', 'value': 'Scientific Reports'},
+                        {'count': '12', 'value': 'VirusDisease'},
+                        {'count': '10', 'value': 'Virology Journal'},
+                        {'count': '9', 'value': 'Archives of Virology'},
+                        {'count': '9',
+                         'value': 'Journal of Translational Medicine'},
+                        {'count': '8', 'value': 'Nature'},
+                        {'count': '8', 'value': 'Nature Reviews Microbiology'},
+                        {'count': '8',
+                         'value': 'Signal Transduction and Targeted Therapy'},
+                        {'count': '7', 'value': 'BMC Infectious Diseases'},
+                        {'count': '7', 'value': 'Critical Care'},
+                        {'count': '7', 'value': 'Nature Communications'},
+                        {'count': '5',
+                         'value': 'Infectious Diseases of Poverty'},
+                        {'count': '5', 'value': 'Nature Medicine'},
+                        {'count': '5', 'value': 'Nature Reviews Immunology'},
+                        {'count': '5', 'value': 'npj Vaccines'},
+                        {'count': '4', 'value': 'Genome Medicine'},
+                        {'count': '4', 'value': 'Infection'},
+                        {'count': '4', 'value': 'Journal of NeuroVirology'},
+                        {'count': '4', 'value': 'Nature Microbiology'},
+                        {'count': '4', 'value': 'Respiratory Research'}]},
+            {'name': 'year',
+             'values': [{'count': '395', 'value': '2020'},
+                        {'count': '12', 'value': '2019'},
+                        {'count': '15', 'value': '2018'},
+                        {'count': '14', 'value': '2017'},
+                        {'count': '17', 'value': '2016'},
+                        {'count': '15', 'value': '2015'},
+                        {'count': '12', 'value': '2014'},
+                        {'count': '11', 'value': '2013'},
+                        {'count': '7', 'value': '2012'},
+                        {'count': '5', 'value': '2011'},
+                        {'count': '13', 'value': '2010'},
+                        {'count': '11', 'value': '2009'},
+                        {'count': '2', 'value': '2008'},
+                        {'count': '1', 'value': '2007'},
+                        {'count': '3', 'value': '2006'},
+                        {'count': '9', 'value': '2005'},
+                        {'count': '7', 'value': '2004'},
+                        {'count': '2', 'value': '2003'}]},
+            {'name': 'country',
+             'values': [{'count': '186', 'value': 'United States'},
+                        {'count': '90', 'value': 'China'},
+                        {'count': '61', 'value': 'India'},
+                        {'count': '52', 'value': 'Italy'},
+                        {'count': '49', 'value': 'United Kingdom'},
+                        {'count': '31', 'value': 'Germany'},
+                        {'count': '28', 'value': 'Canada'},
+                        {'count': '25', 'value': 'Australia'},
+                        {'count': '25', 'value': 'France'},
+                        {'count': '19', 'value': 'Spain'},
+                        {'count': '17', 'value': 'Japan'},
+                        {'count': '16', 'value': 'Netherlands'},
+                        {'count': '16', 'value': 'Singapore'},
+                        {'count': '16', 'value': 'Switzerland'},
+                        {'count': '15', 'value': 'Brazil'},
+                        {'count': '14', 'value': 'Iran'},
+                        {'count': '13', 'value': 'Saudi Arabia'},
+                        {'count': '12', 'value': 'Russia'},
+                        {'count': '11', 'value': 'Belgium'},
+                        {'count': '9', 'value': 'Egypt'}]},
+            {'name': 'type',
+             'values': [{'count': '484', 'value': 'Journal'},
+                        {'count': '67', 'value': 'Book'}]}],
+ 'query': '(COVID-19 OR Covid OR SARS-COV-2 OR "novel coronavirus") AND '
+          '(virulence)',
+ 'records': [{'abstract': {'h1': 'Abstract',
+                           'p': 'The outbreak of severe acute respiratory '
+                                'syndrome coronavirus 2 (SARS-CoV2) in '
+                                'December 2019 form Wuhan, China leads to '
+                                'coronavirus disease 2019 (COVID-19) pandemic. '
+                                'While the common cold symptoms are observed '
+                                'in mild cases, COVID-19 is accompanied by '
+                                'multiorgan failure in severe patients. The '
+                                'involvement of different organs in severe '
+                                'patients results in lengthening the '
+                                'hospitalization duration and increasing the '
+                                'mortality rate. In this review, we aimed to '
+                                'investigate the involvement of different '
+                                'organs in COVID-19 patients, particularly in '
+                                'severe cases. Also, we tried to define the '
+                                'potential underlying mechanisms of SARS-CoV2 '
+                                'induced multiorgan failure. The multi-organ '
+                                'dysfunction is characterized by acute lung '
+                                'failure, acute liver failure, acute kidney '
+                                'injury, cardiovascular disease, and as well '
+                                'as a wide spectrum of hematological '
+                                'abnormalities and neurological disorders. The '
+                                'most important mechanisms are related to the '
+                                'direct and indirect pathogenic features of '
+                                'SARS-CoV2. Although the presence of '
+                                'angiotensin-converting enzyme 2, a receptor '
+                                'of SARS-CoV2 in the lung, heart, kidney, '
+                                'testis, liver, lymphocytes, and nervous '
+                                'system was confirmed, there are controversial '
+                                'findings to about the observation of '
+                                'SARS-CoV2 RNA in these organs. Moreover, the '
+                                'organ failure may be induced by the cytokine '
+                                'storm, a result of increased levels of '
+                                'inflammatory mediators, endothelial '
+                                'dysfunction, coagulation abnormalities, and '
+                                'infiltration of inflammatory cells into the '
+                                'organs. Therefore, further investigations are '
+                                'needed to detect the exact mechanisms of '
+                                'pathogenesis. Since the involvement of '
+                                'several organs in COVID-19 patients is '
+                                'important for clinicians, increasing their '
+                                'knowledge may help to improve the outcomes '
+                                'and decrease the rate of mortality and '
+                                'morbidity.'},
+              'contentType': 'Article',
+              'copyright': '©2020 Springer Nature B.V.',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Mokhtari, Tahmineh'},
+                           {'creator': 'Hassani, Fatemeh'},
+                           {'creator': 'Ghaffari, Neda'},
+                           {'creator': 'Ebrahimi, Babak'},
+                           {'creator': 'Yarahmadi, Atousa'},
+                           {'creator': 'Hassanzadeh, Ghomareza'}],
+              'doi': '10.1007/s10735-020-09915-3',
+              'eIssn': '1567-2387',
+              'endingPage': '628',
+              'genre': ['ReviewPaper', 'Review Paper'],
+              'identifier': 'doi:10.1007/s10735-020-09915-3',
+              'issn': '1567-2379',
+              'issueType': 'Regular',
+              'journalId': '10735',
+              'number': '6',
+              'onlineDate': '2020-10-04',
+              'openAccess': 'true',
+              'printDate': '2020-10-23',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Journal of Molecular Histology',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '613',
+              'title': 'COVID-19 and multiorgan failure: A narrative review on '
+                       'potential mechanisms',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s10735-020-09915-3'}],
+              'volume': '51'},
+             {'abstract': {'h1': 'Abstract',
+                           'p': ['Background',
+                                 'There are no large reported series '
+                                 'determining the Covid-19 cancer patient’s '
+                                 'characteristics. We determine whether '
+                                 'differences exist in cumulative incidence '
+                                 'and mortality of Covid-19 infection between '
+                                 'cancer patients and general population in '
+                                 'Madrid.',
+                                 'Material and methods',
+                                 'We reviewed 1069 medical records of all '
+                                 'cancer patients admitted at Oncology '
+                                 'department between Feb 1 and April 7, 2020. '
+                                 'We described Covid-19 cumulative incidence, '
+                                 'treatment outcome, mortality, and associated '
+                                 'risk factors.',
+                                 'Results',
+                                 'We detected 45/1069 Covid-19 diagnoses in '
+                                 'cancer patients vs 42,450/6,662,000 in total '
+                                 'population ( p \u2009<\u20090.00001). '
+                                 'Mortality rate: 19/45 cancer patients vs '
+                                 '5586/42,450 ( p \u2009=\u20090.0001). '
+                                 'Mortality was associated with older median '
+                                 'age, adjusted by staging and histology (74 '
+                                 'vs 63.5\xa0years old, OR 1.06, p \u2009'
+                                 '=\u20090.03). Patients who combined '
+                                 'hydroxychloroquine and azithromycin '
+                                 'presented 3/18 deaths, regardless of age, '
+                                 'staging, histology, cancer treatment and '
+                                 'comorbidities (OR 0.02, p \u2009=\u2009'
+                                 '0.03).',
+                                 'Conclusion',
+                                 'Cancer patients are vulnerable to Covid-19 '
+                                 'with an increase in complications. Combined '
+                                 'hydroxychloroquine and azithromycin is '
+                                 'presented as a good treatment option.']},
+              'contentType': 'Article',
+              'copyright': '©2020 Federación de Sociedades Españolas de '
+                           'Oncología (FESEO)',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Rogado, J.'},
+                           {'creator': 'Obispo, B.'},
+                           {'creator': 'Pangua, C.'},
+                           {'creator': 'Serrano-Montero, G.'},
+                           {'creator': 'Martín Marino, A.'},
+                           {'creator': 'Pérez-Pérez, M.'},
+                           {'creator': 'López-Alfonso, A.'},
+                           {'creator': 'Gullón, P.'},
+                           {'creator': 'Lara, M. Á.'}],
+              'doi': '10.1007/s12094-020-02381-z',
+              'eIssn': '1699-3055',
+              'endingPage': '2368',
+              'genre': ['OriginalPaper', 'Brief Research Article'],
+              'identifier': 'doi:10.1007/s12094-020-02381-z',
+              'issn': '1699-048X',
+              'issueType': 'Regular',
+              'journalId': '12094',
+              'number': '12',
+              'onlineDate': '2020-05-25',
+              'openAccess': 'true',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Clinical and Translational Oncology',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '2364',
+              'title': 'Covid-19 transmission, outcome and associated risk '
+                       'factors in cancer patients at the first month of the '
+                       'pandemic in a Spanish hospital in Madrid',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s12094-020-02381-z'}],
+              'volume': '22'},
+             {'abstract': {'h1': 'Abstract',
+                           'p': 'Worldwide, millions of individuals have been '
+                                'affected by the prevailing SARS-CoV-2. '
+                                'Therefore, a robust immune system remains '
+                                'indispensable, as an immunocompromised host '
+                                'status has proven to be fatal. In the absence '
+                                'of any specific antiviral drug/vaccine, '
+                                'COVID-19 related drug repurposing along with '
+                                'various other non-pharmacological measures '
+                                'coupled with lockdown have been employed to '
+                                'combat this infection. In this context, a '
+                                'plant based rich fiber diet, which happens to '
+                                'be consumed by a majority of the Indian '
+                                'population, appears to be advantageous, as it '
+                                'replenishes the host gut microbiota with '
+                                'beneficial microbes thereby leading to a '
+                                'symbiotic association conferring various '
+                                'health benefits to the host including '
+                                'enhanced immunity. Further, implementation of '
+                                'the lockdown which has proven to be a good '
+                                'non-pharmacological measure, seems to have '
+                                'resulted in consumption of home cooked '
+                                'healthy diet, thereby enriching the '
+                                'beneficial microflora in the gut, which might '
+                                'have resulted in better prognosis of COVID-19 '
+                                'patients in India in comparison to that '
+                                'observed in the western countries.'},
+              'contentType': 'Article',
+              'copyright': '©2020 Association of Microbiologists of India',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Rishi, Praveen'},
+                           {'creator': 'Thakur, Khemraj'},
+                           {'creator': 'Vij, Shania'},
+                           {'creator': 'Rishi, Lavanya'},
+                           {'creator': 'Singh, Aagamjit'},
+                           {'creator': 'Kaur, Indu Pal'},
+                           {'creator': 'Patel, Sanjay K. S.'},
+                           {'creator': 'Lee, Jung-Kul'},
+                           {'creator': 'Kalia, Vipin C.'}],
+              'doi': '10.1007/s12088-020-00908-0',
+              'eIssn': '0973-7715',
+              'endingPage': '429',
+              'genre': ['ReviewPaper', 'Review article'],
+              'identifier': 'doi:10.1007/s12088-020-00908-0',
+              'issn': '0046-8991',
+              'issueType': 'Regular',
+              'journalId': '12088',
+              'number': '4',
+              'onlineDate': '2020-09-28',
+              'openAccess': 'true',
+              'printDate': '2020-10-07',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Indian Journal of Microbiology',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '420',
+              'title': 'Diet, Gut Microbiota and COVID-19',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s12088-020-00908-0'}],
+              'volume': '60'},
+             {'abstract': {'h1': 'Abstract',
+                           'p': 'In this rapid commentary, a mini-review is '
+                                'given of the present state-of-knowledge '
+                                'regarding the etiology and epidemiology of '
+                                'the new coronavirus 2019-nCoV and the risks '
+                                'for developing Acute respiratory distress '
+                                'syndrome (ARDS). The available knowledge on '
+                                'the viral genomics, molecular biology and '
+                                'pathogenicity of viruses of the Coronaviridae '
+                                'family and other Nidovirales, forms a helpful '
+                                'template for understanding the present '
+                                'pandemic outbreak. However, important '
+                                'questions remain unanswered about the '
+                                'underlying mechanism causing the very high '
+                                'case fatality ratios (CFR) and mechanisms '
+                                'regarding severe reactions like ARDS, fatal '
+                                'cardiac and renal failures, associated with a '
+                                'number of important comorbidity factors. '
+                                'Immunological reactions to lung alveoles in '
+                                'particular (involving lung macrophages and '
+                                'alveolar epithelial cell damage) in late '
+                                'phase ARDS in SARS-like CoV diseases, so far '
+                                'may not have received enough attention. '
+                                'Finally a shortlist of questions for high '
+                                'priority further research is suggested.'},
+              'contentType': 'Article',
+              'copyright': '©2020 Springer Nature B.V.',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Allaerts, Wilfried'}],
+              'doi': '10.1007/s10441-020-09382-z',
+              'eIssn': '1572-8358',
+              'endingPage': '452',
+              'genre': ['ReviewPaper', 'Review Essay'],
+              'identifier': 'doi:10.1007/s10441-020-09382-z',
+              'issn': '0001-5342',
+              'issueType': 'Regular',
+              'journalId': '10441',
+              'number': '4',
+              'onlineDate': '2020-04-25',
+              'openAccess': 'true',
+              'printDate': '2020-10-19',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Acta Biotheoretica',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '441',
+              'title': 'How Could This Happen?',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s10441-020-09382-z'}],
+              'volume': '68'},
+             {'abstract': {'h1': 'Abstract',
+                           'p': 'This paper addresses global bioethical '
+                                'challenges entailed in emerging viral '
+                                'diseases, focussing on their socio-cultural '
+                                'dimension and seeing them as symptomatic of '
+                                'the current era of globalisation. Emerging '
+                                'viral threats exemplify the extent to which '
+                                'humans evolved into a global species, with a '
+                                'pervasive and irreversible impact on the '
+                                'planetary ecosystem. To effectively address '
+                                'these disruptive threats, an attitude of '
+                                'preparedness seems called for, not only on '
+                                'the viroscientific, but also on bioethical, '
+                                'regulatory and governance levels. This paper '
+                                'analyses the global bioethical challenges of '
+                                'emerging viral threats from a dialectical '
+                                'materialist (Marxist) perspective, focussing '
+                                'on three collisions: (1) the collision of '
+                                'expanding networks of globalisation with '
+                                'local husbandry practices; (2) the collision '
+                                'of global networks of mobility with disrupted '
+                                'ecosystems; and (3) the collision of '
+                                'viroscience as a globalised research field '
+                                'with existing regulatory frameworks. These '
+                                'collisions emerge in a force field defined by '
+                                'the simultaneity of the non-simultaneous. '
+                                'Evidence-based health policies invoke '
+                                'discontent as they reflect the normative '
+                                'logic of a globalised knowledge regime. The '
+                                'development of a global bioethics or '
+                                'macro-ethics requires us to envision these '
+                                'collisions not primarily as issues of '
+                                'benefits and risks, but first and foremost as '
+                                'normative tensions closely entangled with '
+                                'broader socio-economic and socio-cultural '
+                                'developments.'},
+              'contentType': 'Article',
+              'copyright': '©2020 The Author(s)',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Zwart, Hub'}],
+              'doi': '10.1007/s11019-020-09970-3',
+              'eIssn': '1572-8633',
+              'endingPage': '602',
+              'genre': ['OriginalPaper', 'Scientific Contribution'],
+              'identifier': 'doi:10.1007/s11019-020-09970-3',
+              'issn': '1386-7423',
+              'issueType': 'Regular',
+              'journalId': '11019',
+              'number': '4',
+              'onlineDate': '2020-07-31',
+              'openAccess': 'true',
+              'printDate': '2020-10-06',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Medicine, Health Care and Philosophy',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '589',
+              'title': 'Emerging viral threats and the simultaneity of the '
+                       'non-simultaneous: zooming out in times of Corona',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s11019-020-09970-3'}],
+              'volume': '23'}],
+ 'result': [{'pageLength': '5',
+             'recordsDisplayed': '5',
+             'start': '1',
+             'total': '551'}]}

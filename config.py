@@ -1,6 +1,6 @@
 # Springer API Key
-springer_api_key = 'YOUR SPRINGER API KEY HERE'
+springer_api_key = '923da2a07addcdc0fa872ffddeebae78'
 
-# Elsevier API Key
-elsevier_api_key = 'YOUR ELSEVIER API KEY HERE'
+# Elsevier/ScienceDirect API Key
+elsevier_api_key = 'bbb99e6c74c927c82d275434494ec2ad'
 
