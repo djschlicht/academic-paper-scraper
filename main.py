@@ -127,7 +127,7 @@ Scapes the full-text of open access papers and stores in './texts/'
 Params: url, a string representing the url of the paper
 Returns: 0 if it was successful, -1 if the file already exists
 '''
-def get_text(url):
+def get_text(url, cur_disease):
 	
 	'''
 	name text file according to this convention:
@@ -145,7 +145,7 @@ def get_text(url):
 	
 	# make directory with folder_name where you store full texts
 	# first check if the dir already exists
-	txt_path = './data/texts/'+folder_name+'/'
+	txt_path = './data/texts/'+cur_disease+'/'+folder_name+'/'
 	if not os.path.exists(txt_path):
 		os.mkdir(txt_path)
 		
@@ -176,6 +176,7 @@ get_trait_data()
 
 # iteratively search for each trait on each disease (5 results per trait)
 for disease in diseases:
+	os.mkdir('./data/texts/'+disease[0])
 	time.sleep(1) # to not go over api limit
 	for trait in traits:
 		# create search string
@@ -195,7 +196,7 @@ for disease in diseases:
 					url = url.strip('\n\t')
 					print(url)
 					time.sleep(0.01)
-					get_text(url)
+					get_text(url, disease[0])
 				else: 
 					continue
 
