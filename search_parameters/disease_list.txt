@@ -12,79 +12,108 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
 
-+++++ Infects human populations:
+++++++++++ Pathogen has infected humans:
 
-++++ Virus-caused
-+++ Bat-borne
-hendra, "hendra henipavirus", "hendra virus", HeV
-nipah, "nipah virus", NiV
++++++++ Virus-caused
++++++ Novel Coronaviruses:
+MERS-CoV, MERS, "middle east respiratory syndrome"
+SARS-COV-1, SARS, "severe acute respiratory syndrome"
+SARS-CoV-2, COVID-19, "coronavirus disease 2019"
 
-+++ Mosquito-borne
-zika, "zika virus", ZIKV
-"West nile", "West nile virus", WNV
-chikungunya, CHIKV
-dengue, "dengue fever", "dengue virus", DENV
-
-+++ Viral hemorrhagic fevers (VHF)
-Lujo, "Lusaka/Johannesburg virus", "Lujo mammarenavirus"
-ebola, "ebola virus", "ebola hemorrhagic fever", EVD
-marburg, "marburg virus", MVD, MARV
-lassa, "lassa fever", "lassa hemorrhagic fever", "lassa virus", LASV
-
-+++ Coronaviruses:
-COVID-19, Covid, SARS-COV-2, "novel coronavirus"
-MERS, "middle east respiratory syndrome"
-SARS, SARS-COV, "severe acute respiratory syndrome"
-
-+++ Influenza:
++++++ Influenzas:
 H1N1, "swine flu", "swine influenza", "pig flu", "pig influenza"
 "avian flu", "bird flu", "avian influenza"
 
-+++ Uncategorized (viral)
-"hantavirus pulmonary syndrome", "Black creek canal virus", BCCV, "New York orthohantavirus", NYV, "Monongahela virus" MGLV
-HIV, "human immunodeficiency virus"
-hepatitis, "hepatitis ? virus", H?V
++++++ Viral hemorrhagic fevers (VHF)
++++ Ebolavirus; causes Ebola Virus Disease (EVD)
+"Bundibugyo virus", BDBV
+"Ebola virus", EBOV
+"Sudan virus", SUDV
+"Tai forest virus", TAFV
++++ Marburgvirus; causes Marburg Virus Disease (MVD)
+"Marburg virus", MARV
+"Ravn virus", RAVV
++++ Others; cause general VHF
+"Chapare mammarenavirus", "Chapare virus", CHAPV
+"Guanarito mammarenavirus", GTOV
+"Lassa mammarenavirus", "lassa virus", LASV
+"Lujo mammarenavirus", LUJV
+"Sabia virus", SABV
 
-
-++++ Bacteria-caused
-"Lyme disease", "Lyme borreliosis"
-chagas, "american trypanosomiasis", "trypanosoma cruzi"
-elephantiasis, "lymphatic filariasis"
-bilharzia, schistosomiasis
-leishmaniasis, leishmania
-
-
-
-
-
-+++ 'Uncommon':
-"heartland virus", HRTV
-SFTS, "Severe fever with thrombocytopenia syndrome"
-"St. Louis virus" "st. louis encephalitis"
-"Powassan virus", POWV, "deer tick virus", DTV
++++++ Lyssaviruses (rabies-like)
 "Australian bat lyssavirus", ABLV 
 "bokeloh bat lyssavirus", BBLV
-"Rocky mountain spotted fever"
-"Kyasanur forest disease"
-"colorado tick fever"
-"irkut virus"
-"duvenhage virus"
-mayaro, "mayaro virus"
-"japanese encephalitis virus", "japanese encephalitis"
-"melaka virus"
-ehrlichiosis, "erlicia chaffeensis"
-"eastern equine encephalitis", "eastern equine encephalitis virus"
-"la crosse encephalitis", "la crosse encephalitis virus"
+"duvenhage virus", "duvenhage lyssavirus", DUVV
+"european bat 1 lyssavirus", EBLV-1
+"european bat 2 lyssavirus", EBLV-2
+"irkut virus", IRKV
+"mokola virus", "mokola lyssavirus", MOKV
 
-+++ Already emerged, but useful to include:
-malaria
-cholera
-"yellow fever"
-plague
++++++ Mosquito-borne viruses
+"chikungunya virus", CHIKV
+"dengue virus", "dengue fever", DENV
+"eastern equine encephalitis virus", EEEV
+"japanese encephalitis virus", JEV
+"la crosse encephalitis virus", LACV
+"mayaro virus", MAYV
+"O'nyong'nyong virus", ONNV
+"St. Louis encephalitis virus", SLEV
+"West nile virus", WNV
+"usutu virus", USUV
+"zika virus", ZIKV
 
-+++++ Does not infect humans:
++++++ Tick-borne viruses
+"alkhurma virus", ALKV
+"colorado tick fever", CTF, coltivirus
+"deer tick virus", DTV
+"heartland virus", HRTV, "heartland bandavirus"
+"Kemerovo virus", KEMV
+"Kyasanur forest disease", KFD "kyasanur forest disease virus"
+"Powassan virus", POWV
+"sfts virus", "dabie bandavirus", SFTS, "Severe fever with thrombocytopenia syndrome"
+"tick-borne encephalitis virus", TBEV
+
++++++ Bat-borne viruses
+"hendra henipavirus", "hendra virus", HeV
+"melaka virus", MELV
+"nipah virus", NiV
+
++++++ Hantaviruses; all cause Hantavirus pulmonary syndrome (HPS)
+"Black creek canal orthohantavirus", BCCV
+"blue river virus", BRV
+"Monongahela virus",  MGLV
+"New York orthohantavirus", NYV
+"sin nombre orthohantavirus", SNV
+
++++++ Uncategorized (viral)
+"Chandipura vesiculovirus", CHPV
+"hepatitis ? virus", H?V NOT HIV
+"human immunodeficiency virus", HIV
+"monkeypox virus", MPV
+
++++++++ Bacteria-caused
+"human granulocytic anaplasmosis", "anaplasma phagocytophilum"
+"human monocytic ehrlichiosis", "erlicia chaffeensis"
+"Lyme disease", "Lyme borreliosis"
+"Rocky mountain spotted fever", RMSF, "rickettsia rickettsii"
+
++++++++ Parasites
+chagas, "american trypanosomiasis", "trypanosoma cruzi"
+elephantiasis, "lymphatic filariasis", "wuchereria bancrofti"
+leishmaniasis, leishmania
+schistosomiasis, bilharzia, "snail fever"
 
 
+++++++++++ No identified human infections:
+"Lagos bat lyssavirus", LBV
+"West Caucasian bat lyssavirus", WCBL
+
+
+++++++++++ Already emerged, but useful to include:
++ malaria
++ cholera
++ "yellow fever"
++ plague
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++ Notes:

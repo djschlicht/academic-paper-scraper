@@ -176,7 +176,9 @@ get_trait_data()
 
 # iteratively search for each trait on each disease (5 results per trait)
 for disease in diseases:
-	os.mkdir('./data/texts/'+disease[0])
+	disease_path = './data/texts/'+disease[0]
+	if not os.path.exists(disease_path):
+		os.mkdir(disease_path)
 	time.sleep(1) # to not go over api limit
 	for trait in traits:
 		# create search string
