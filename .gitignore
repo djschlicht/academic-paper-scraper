@@ -3,3 +3,5 @@ config.py
 tmp_files
 scraper_log.txt
 .textdataframe.ipynb.swp
+.idea
+.ipynb_checkpoints
