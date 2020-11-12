@@ -1,7 +1,0 @@
-Transmission studies of the newly described apple chlorotic fruit spot viroid using a combined RT-qPCR and droplet digital PCR approach
-
-Abstract
-The transmission of the apscaviroid tentatively named apple chlorotic fruit spot viroid (ACFSVd) was investigated using a one-step reverse-transcription (RT) droplet digital PCR assay for absolute quantification of the viroid, followed by quantification of relative standard curves by RT-qPCR. Our results indicate that ACFSVd is effectively transmitted by grafting, budding and seeds. No transmission has yet been observed to the viroid-inoculated pome fruit species Pyrus sp. and Cydonia sp. ACFSVd was detected in viruliferous aphids (Myzus persicae, Dysaphis plantaginea) and in codling moths (Cydia pomonella). The viroid was also detected systemically in the infected hemiparasitic plant Viscum album subsp. album (mistletoe).
-
-Electronic supplementary material
-Below is the link to the electronic supplementary material.Supplementary material 1 (DOC 43 kb)

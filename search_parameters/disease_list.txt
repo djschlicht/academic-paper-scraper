@@ -11,25 +11,84 @@
 +++ -> Wildcards characters are available: ?, *
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++ Search Terms and Keywords: ++++++++++++++++++++++++
-ebola, "ebola virus", "ebola hemorrhagic fever", EVD
-zika, "zika virus", ZIKV
+
++++++ Infects human populations:
+
+++++ Virus-caused
++++ Bat-borne
+hendra, "hendra henipavirus", "hendra virus", HeV
 nipah, "nipah virus", NiV
+
++++ Mosquito-borne
+zika, "zika virus", ZIKV
+"West nile", "West nile virus", WNV
 chikungunya, CHIKV
-hendra, "hendra henipavirus", "hendra virus"
-marburg, "marburg virus", MVD, MARV
 dengue, "dengue fever", "dengue virus", DENV
-lassa, "lassa fever", "lassa virus"
-Lujo, Lusaka/Johannesburg virus
+
++++ Viral hemorrhagic fevers (VHF)
+Lujo, "Lusaka/Johannesburg virus", "Lujo mammarenavirus"
+ebola, "ebola virus", "ebola hemorrhagic fever", EVD
+marburg, "marburg virus", MVD, MARV
+lassa, "lassa fever", "lassa hemorrhagic fever", "lassa virus", LASV
+
++++ Coronaviruses:
+COVID-19, Covid, SARS-COV-2, "novel coronavirus"
+MERS, "middle east respiratory syndrome"
+SARS, SARS-COV, "severe acute respiratory syndrome"
+
++++ Influenza:
+H1N1, "swine flu", "swine influenza", "pig flu", "pig influenza"
+"avian flu", "bird flu", "avian influenza"
+
++++ Uncategorized (viral)
+"hantavirus pulmonary syndrome", "Black creek canal virus", BCCV, "New York orthohantavirus", NYV, "Monongahela virus" MGLV
+HIV, "human immunodeficiency virus"
+hepatitis, "hepatitis ? virus", H?V
+
+
+++++ Bacteria-caused
 "Lyme disease", "Lyme borreliosis"
-"West nile", "West nile virus"
+chagas, "american trypanosomiasis", "trypanosoma cruzi"
+elephantiasis, "lymphatic filariasis"
+bilharzia, schistosomiasis
+leishmaniasis, leishmania
+
+
+
+
+
++++ 'Uncommon':
 "heartland virus", HRTV
-"Severe fever with thrombocytopenia syndrome", SFTS
-St. Louis virus
+SFTS, "Severe fever with thrombocytopenia syndrome"
+"St. Louis virus" "st. louis encephalitis"
 "Powassan virus", POWV, "deer tick virus", DTV
 "Australian bat lyssavirus", ABLV 
-H1N1, "swine flu", "swine influenza", "pig flu", "pig influenza"
-MERS, "middle east respiratory syndrome"
-"avian flu", "bird flu", "avian influenza"
-HIV, "human immunodeficiency virus"
-SARS, SARS-COV, "severe acute respiratory syndrome"
-COVID-19, Covid, SARS-COV-2, "novel coronavirus"
+"bokeloh bat lyssavirus", BBLV
+"Rocky mountain spotted fever"
+"Kyasanur forest disease"
+"colorado tick fever"
+"irkut virus"
+"duvenhage virus"
+mayaro, "mayaro virus"
+"japanese encephalitis virus", "japanese encephalitis"
+"melaka virus"
+ehrlichiosis, "erlicia chaffeensis"
+"eastern equine encephalitis", "eastern equine encephalitis virus"
+"la crosse encephalitis", "la crosse encephalitis virus"
+
++++ Already emerged, but useful to include:
+malaria
+cholera
+"yellow fever"
+plague
+
++++++ Does not infect humans:
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ Notes:
++++ 	- Aiming for 50 different pathogens
++++		- 70% of those detected in humans
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

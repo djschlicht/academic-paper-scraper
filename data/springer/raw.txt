@@ -1,58 +1,58 @@
 {'apiKey': '923da2a07addcdc0fa872ffddeebae78',
  'apiMessage': 'This JSON was provided by Springer Nature',
  'facets': [{'name': 'subject',
-             'values': [{'count': '184', 'value': 'Medicine & Public Health'},
-                        {'count': '150', 'value': 'Biomedicine'},
-                        {'count': '118', 'value': 'Life Sciences'},
+             'values': [{'count': '190', 'value': 'Medicine & Public Health'},
+                        {'count': '157', 'value': 'Biomedicine'},
+                        {'count': '123', 'value': 'Life Sciences'},
                         {'count': '87', 'value': 'Infectious Diseases'},
-                        {'count': '84', 'value': 'Virology'},
-                        {'count': '71', 'value': 'Microbiology'},
-                        {'count': '67', 'value': 'Life Sciences, general'},
-                        {'count': '65', 'value': 'Biomedicine, general'},
-                        {'count': '65', 'value': 'Medical Microbiology'},
-                        {'count': '61', 'value': 'Cell Biology'},
-                        {'count': '61', 'value': 'Internal Medicine'},
-                        {'count': '57',
+                        {'count': '86', 'value': 'Virology'},
+                        {'count': '74', 'value': 'Microbiology'},
+                        {'count': '68', 'value': 'Life Sciences, general'},
+                        {'count': '67', 'value': 'Biomedicine, general'},
+                        {'count': '66', 'value': 'Medical Microbiology'},
+                        {'count': '63', 'value': 'Cell Biology'},
+                        {'count': '63', 'value': 'Internal Medicine'},
+                        {'count': '63',
                          'value': 'Medicine/Public Health, general'},
-                        {'count': '46', 'value': 'Biochemistry, general'},
-                        {'count': '46', 'value': 'Immunology'},
-                        {'count': '42', 'value': 'Public Health'},
-                        {'count': '42',
+                        {'count': '51', 'value': 'Immunology'},
+                        {'count': '50', 'value': 'Biochemistry, general'},
+                        {'count': '44',
                          'value': 'Science, Humanities and Social Sciences, '
                                   'multidisciplinary'},
-                        {'count': '37', 'value': 'Science, multidisciplinary'},
-                        {'count': '29', 'value': 'Oncology'},
-                        {'count': '28', 'value': 'Parasitology'},
-                        {'count': '27', 'value': 'Cancer Research'}]},
+                        {'count': '43', 'value': 'Public Health'},
+                        {'count': '39', 'value': 'Science, multidisciplinary'},
+                        {'count': '32', 'value': 'Oncology'},
+                        {'count': '28', 'value': 'Cancer Research'},
+                        {'count': '28', 'value': 'Parasitology'}]},
             {'name': 'keyword',
-             'values': [{'count': '141', 'value': 'COVID-19'},
-                        {'count': '76', 'value': 'SARS-CoV-2'},
+             'values': [{'count': '150', 'value': 'COVID-19'},
+                        {'count': '83', 'value': 'SARS-CoV-2'},
                         {'count': '49', 'value': 'Coronavirus'},
                         {'count': '30',
                          'value': 'Severe Acute Respiratory Syndrome'},
-                        {'count': '17', 'value': 'Pandemic'},
-                        {'count': '16', 'value': 'SARS'},
+                        {'count': '18', 'value': 'Pandemic'},
+                        {'count': '18', 'value': 'SARS'},
+                        {'count': '12', 'value': 'MERS'},
                         {'count': '12', 'value': 'Pneumonia'},
-                        {'count': '11', 'value': 'MERS'},
-                        {'count': '9', 'value': 'Cytokine storm'},
-                        {'count': '9', 'value': 'Vaccines'},
+                        {'count': '10', 'value': 'Cytokine storm'},
+                        {'count': '10', 'value': 'Vaccines'},
+                        {'count': '9', 'value': 'Covid-19'},
+                        {'count': '9', 'value': 'Surveillance'},
                         {'count': '8', 'value': 'ACE2'},
-                        {'count': '8', 'value': 'Covid-19'},
                         {'count': '8', 'value': 'Epidemiology'},
                         {'count': '8', 'value': 'SARS-CoV2'},
                         {'count': '7', 'value': 'Pathogenesis'},
                         {'count': '7', 'value': 'Transmission'},
                         {'count': '6', 'value': 'coronavirus'},
                         {'count': '6', 'value': 'Influenza'},
-                        {'count': '6', 'value': 'MERS-CoV'},
-                        {'count': '6', 'value': 'Pathogenicity'}]},
+                        {'count': '6', 'value': 'MERS-CoV'}]},
             {'name': 'pub',
-             'values': [{'count': '20', 'value': 'Scientific Reports'},
+             'values': [{'count': '22', 'value': 'Scientific Reports'},
                         {'count': '12', 'value': 'VirusDisease'},
+                        {'count': '10',
+                         'value': 'Journal of Translational Medicine'},
                         {'count': '10', 'value': 'Virology Journal'},
                         {'count': '9', 'value': 'Archives of Virology'},
-                        {'count': '9',
-                         'value': 'Journal of Translational Medicine'},
                         {'count': '8', 'value': 'Nature'},
                         {'count': '8', 'value': 'Nature Reviews Microbiology'},
                         {'count': '8',
@@ -65,13 +65,13 @@
                         {'count': '5', 'value': 'Nature Medicine'},
                         {'count': '5', 'value': 'Nature Reviews Immunology'},
                         {'count': '5', 'value': 'npj Vaccines'},
+                        {'count': '5', 'value': 'Virologica Sinica'},
+                        {'count': '4', 'value': 'Communications Biology'},
                         {'count': '4', 'value': 'Genome Medicine'},
                         {'count': '4', 'value': 'Infection'},
-                        {'count': '4', 'value': 'Journal of NeuroVirology'},
-                        {'count': '4', 'value': 'Nature Microbiology'},
-                        {'count': '4', 'value': 'Respiratory Research'}]},
+                        {'count': '4', 'value': 'Journal of NeuroVirology'}]},
             {'name': 'year',
-             'values': [{'count': '395', 'value': '2020'},
+             'values': [{'count': '421', 'value': '2020'},
                         {'count': '12', 'value': '2019'},
                         {'count': '15', 'value': '2018'},
                         {'count': '14', 'value': '2017'},
@@ -90,32 +90,120 @@
                         {'count': '7', 'value': '2004'},
                         {'count': '2', 'value': '2003'}]},
             {'name': 'country',
-             'values': [{'count': '186', 'value': 'United States'},
-                        {'count': '90', 'value': 'China'},
-                        {'count': '61', 'value': 'India'},
-                        {'count': '52', 'value': 'Italy'},
-                        {'count': '49', 'value': 'United Kingdom'},
+             'values': [{'count': '194', 'value': 'United States'},
+                        {'count': '94', 'value': 'China'},
+                        {'count': '66', 'value': 'India'},
+                        {'count': '54', 'value': 'Italy'},
+                        {'count': '54', 'value': 'United Kingdom'},
                         {'count': '31', 'value': 'Germany'},
                         {'count': '28', 'value': 'Canada'},
-                        {'count': '25', 'value': 'Australia'},
+                        {'count': '26', 'value': 'Australia'},
                         {'count': '25', 'value': 'France'},
-                        {'count': '19', 'value': 'Spain'},
+                        {'count': '20', 'value': 'Spain'},
                         {'count': '17', 'value': 'Japan'},
+                        {'count': '17', 'value': 'Switzerland'},
+                        {'count': '16', 'value': 'Brazil'},
                         {'count': '16', 'value': 'Netherlands'},
                         {'count': '16', 'value': 'Singapore'},
-                        {'count': '16', 'value': 'Switzerland'},
-                        {'count': '15', 'value': 'Brazil'},
                         {'count': '14', 'value': 'Iran'},
+                        {'count': '13', 'value': 'Russia'},
                         {'count': '13', 'value': 'Saudi Arabia'},
-                        {'count': '12', 'value': 'Russia'},
                         {'count': '11', 'value': 'Belgium'},
                         {'count': '9', 'value': 'Egypt'}]},
             {'name': 'type',
-             'values': [{'count': '484', 'value': 'Journal'},
+             'values': [{'count': '510', 'value': 'Journal'},
                         {'count': '67', 'value': 'Book'}]}],
  'query': '(COVID-19 OR Covid OR SARS-COV-2 OR "novel coronavirus") AND '
           '(virulence)',
  'records': [{'abstract': {'h1': 'Abstract',
+                           'p': ['Background',
+                                 'Coronaviruses mainly affect the respiratory '
+                                 'system; however, there are reports of '
+                                 'SARS-CoV and MERS-CoV causing neurological '
+                                 'manifestations. We aimed at discussing the '
+                                 'various neurological manifestations of '
+                                 'SARS-CoV-2 infection and to estimate the '
+                                 'prevalence of each of them.',
+                                 'Methods',
+                                 'We searched the following electronic '
+                                 'databases; PubMed, MEDLINE, Scopus, EMBASE, '
+                                 'Google Scholar, EBSCO, Web of Science, '
+                                 'Cochrane Library, WHO database, and '
+                                 'ClinicalTrials.gov . Relevant MeSH terms for '
+                                 'COVID-19 and neurological manifestations '
+                                 'were used. Randomized controlled trials, '
+                                 'non-randomized controlled trials, '
+                                 'case-control studies, cohort studies, '
+                                 'cross-sectional studies, case series, and '
+                                 'case reports were included in the study. To '
+                                 'estimate the overall proportion of each '
+                                 'neurological manifestations, the study '
+                                 'employed meta-analysis of proportions using '
+                                 'a random-effects model.',
+                                 'Results',
+                                 'Pooled prevalence of each neurological '
+                                 'manifestations are, smell disturbances '
+                                 '(35.8%; 95% CI 21.4–50.2), taste '
+                                 'disturbances (38.5%; 95%CI 24.0–53.0), '
+                                 'myalgia (19.3%; 95% CI 15.1–23.6), headache '
+                                 '(14.7%; 95% CI 10.4–18.9), dizziness (6.1%; '
+                                 '95% CI 3.1–9.2), and syncope (1.8%; 95% CI '
+                                 '0.9–4.6). Pooled prevalence of acute '
+                                 'cerebrovascular disease was (2.3%; 95%CI '
+                                 '1.0–3.6), of which majority were ischaemic '
+                                 'stroke (2.1%; 95% CI 0.9–3.3), followed by '
+                                 'haemorrhagic stroke (0.4%; 95% CI 0.2–0.6), '
+                                 'and cerebral venous thrombosis (0.3%; 95% CI '
+                                 '0.1–0.6).',
+                                 'Conclusions',
+                                 'Neurological symptoms are common in '
+                                 'SARS-CoV-2 infection, and from the large '
+                                 'number of cases reported from all over the '
+                                 'world daily, the prevalence of neurological '
+                                 'features might increase again. Identifying '
+                                 'some neurological manifestations like smell '
+                                 'and taste disturbances can be used to screen '
+                                 'patients with COVID-19 so that early '
+                                 'identification and isolation is possible.']},
+              'contentType': 'Article',
+              'copyright': '©2020 Fondazione Società Italiana di Neurologia',
+              'coverDate': '2020-12',
+              'creators': [{'creator': 'Favas, T. T.'},
+                           {'creator': 'Dev, Priya'},
+                           {'creator': 'Chaurasia, Rameshwar Nath'},
+                           {'creator': 'Chakravarty, Kamlesh'},
+                           {'creator': 'Mishra, Rahul'},
+                           {'creator': 'Joshi, Deepika'},
+                           {'creator': 'Mishra, Vijay Nath'},
+                           {'creator': 'Kumar, Anand'},
+                           {'creator': 'Singh, Varun Kumar'},
+                           {'creator': 'Pandey, Manoj'},
+                           {'creator': 'Pathak, Abhishek'}],
+              'doi': '10.1007/s10072-020-04801-y',
+              'eIssn': '1590-3478',
+              'endingPage': '3470',
+              'genre': ['OriginalPaper', 'COVID-19'],
+              'identifier': 'doi:10.1007/s10072-020-04801-y',
+              'issn': '1590-1874',
+              'issueType': 'Regular',
+              'journalId': '10072',
+              'number': '12',
+              'onlineDate': '2020-10-21',
+              'openAccess': 'true',
+              'printDate': '2020-11-10',
+              'publicationDate': '2020-12-01',
+              'publicationName': 'Neurological Sciences',
+              'publicationType': 'Journal',
+              'publisher': 'Springer',
+              'startingPage': '3437',
+              'title': 'Neurological manifestations of COVID-19: a systematic '
+                       'review and meta-analysis of proportions',
+              'topicalCollection': '',
+              'url': [{'format': '',
+                       'platform': '',
+                       'value': 'http://dx.doi.org/10.1007/s10072-020-04801-y'}],
+              'volume': '41'},
+             {'abstract': {'h1': 'Abstract',
                            'p': 'The outbreak of severe acute respiratory '
                                 'syndrome coronavirus 2 (SARS-CoV2) in '
                                 'December 2019 form Wuhan, China leads to '
@@ -378,72 +466,8 @@
               'url': [{'format': '',
                        'platform': '',
                        'value': 'http://dx.doi.org/10.1007/s10441-020-09382-z'}],
-              'volume': '68'},
-             {'abstract': {'h1': 'Abstract',
-                           'p': 'This paper addresses global bioethical '
-                                'challenges entailed in emerging viral '
-                                'diseases, focussing on their socio-cultural '
-                                'dimension and seeing them as symptomatic of '
-                                'the current era of globalisation. Emerging '
-                                'viral threats exemplify the extent to which '
-                                'humans evolved into a global species, with a '
-                                'pervasive and irreversible impact on the '
-                                'planetary ecosystem. To effectively address '
-                                'these disruptive threats, an attitude of '
-                                'preparedness seems called for, not only on '
-                                'the viroscientific, but also on bioethical, '
-                                'regulatory and governance levels. This paper '
-                                'analyses the global bioethical challenges of '
-                                'emerging viral threats from a dialectical '
-                                'materialist (Marxist) perspective, focussing '
-                                'on three collisions: (1) the collision of '
-                                'expanding networks of globalisation with '
-                                'local husbandry practices; (2) the collision '
-                                'of global networks of mobility with disrupted '
-                                'ecosystems; and (3) the collision of '
-                                'viroscience as a globalised research field '
-                                'with existing regulatory frameworks. These '
-                                'collisions emerge in a force field defined by '
-                                'the simultaneity of the non-simultaneous. '
-                                'Evidence-based health policies invoke '
-                                'discontent as they reflect the normative '
-                                'logic of a globalised knowledge regime. The '
-                                'development of a global bioethics or '
-                                'macro-ethics requires us to envision these '
-                                'collisions not primarily as issues of '
-                                'benefits and risks, but first and foremost as '
-                                'normative tensions closely entangled with '
-                                'broader socio-economic and socio-cultural '
-                                'developments.'},
-              'contentType': 'Article',
-              'copyright': '©2020 The Author(s)',
-              'coverDate': '2020-12',
-              'creators': [{'creator': 'Zwart, Hub'}],
-              'doi': '10.1007/s11019-020-09970-3',
-              'eIssn': '1572-8633',
-              'endingPage': '602',
-              'genre': ['OriginalPaper', 'Scientific Contribution'],
-              'identifier': 'doi:10.1007/s11019-020-09970-3',
-              'issn': '1386-7423',
-              'issueType': 'Regular',
-              'journalId': '11019',
-              'number': '4',
-              'onlineDate': '2020-07-31',
-              'openAccess': 'true',
-              'printDate': '2020-10-06',
-              'publicationDate': '2020-12-01',
-              'publicationName': 'Medicine, Health Care and Philosophy',
-              'publicationType': 'Journal',
-              'publisher': 'Springer',
-              'startingPage': '589',
-              'title': 'Emerging viral threats and the simultaneity of the '
-                       'non-simultaneous: zooming out in times of Corona',
-              'topicalCollection': '',
-              'url': [{'format': '',
-                       'platform': '',
-                       'value': 'http://dx.doi.org/10.1007/s11019-020-09970-3'}],
-              'volume': '23'}],
+              'volume': '68'}],
  'result': [{'pageLength': '5',
              'recordsDisplayed': '5',
              'start': '1',
-             'total': '551'}]}
+             'total': '577'}]}

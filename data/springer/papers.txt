@@ -1,4 +1,30 @@
 Title: 
+	Neurological manifestations of COVID-19: a systematic review and meta-analysis of proportions
+Publisher and Journal: 
+	Springer; Neurological Sciences
+Publication Date: 
+	2020-12-01
+Authors:
+	Favas, T. T.
+	Dev, Priya
+	Chaurasia, Rameshwar Nath
+	Chakravarty, Kamlesh
+	Mishra, Rahul
+	Joshi, Deepika
+	Mishra, Vijay Nath
+	Kumar, Anand
+	Singh, Varun Kumar
+	Pandey, Manoj
+	Pathak, Abhishek
+Abstract:
+	BackgroundCoronaviruses mainly affect the respiratory system; however, there are reports of SARS-CoV and MERS-CoV causing neurological manifestations. We aimed at discussing the various neurological manifestations of SARS-CoV-2 infection and to estimate the prevalence of each of them.MethodsWe searched the following electronic databases; PubMed, MEDLINE, Scopus, EMBASE, Google Scholar, EBSCO, Web of Science, Cochrane Library, WHO database, and ClinicalTrials.gov . Relevant MeSH terms for COVID-19 and neurological manifestations were used. Randomized controlled trials, non-randomized controlled trials, case-control studies, cohort studies, cross-sectional studies, case series, and case reports were included in the study. To estimate the overall proportion of each neurological manifestations, the study employed meta-analysis of proportions using a random-effects model.ResultsPooled prevalence of each neurological manifestations are, smell disturbances (35.8%; 95% CI 21.4–50.2), taste disturbances (38.5%; 95%CI 24.0–53.0), myalgia (19.3%; 95% CI 15.1–23.6), headache (14.7%; 95% CI 10.4–18.9), dizziness (6.1%; 95% CI 3.1–9.2), and syncope (1.8%; 95% CI 0.9–4.6). Pooled prevalence of acute cerebrovascular disease was (2.3%; 95%CI 1.0–3.6), of which majority were ischaemic stroke (2.1%; 95% CI 0.9–3.3), followed by haemorrhagic stroke (0.4%; 95% CI 0.2–0.6), and cerebral venous thrombosis (0.3%; 95% CI 0.1–0.6).ConclusionsNeurological symptoms are common in SARS-CoV-2 infection, and from the large number of cases reported from all over the world daily, the prevalence of neurological features might increase again. Identifying some neurological manifestations like smell and taste disturbances can be used to screen patients with COVID-19 so that early identification and isolation is possible.
+DOI: 
+	10.1007/s10072-020-04801-y
+URL: 
+	http://dx.doi.org/10.1007/s10072-020-04801-y
+
+
+Title: 
 	COVID-19 and multiorgan failure: A narrative review on potential mechanisms
 Publisher and Journal: 
 	Springer; Journal of Molecular Histology
@@ -81,21 +107,5 @@ DOI:
 	10.1007/s10441-020-09382-z
 URL: 
 	http://dx.doi.org/10.1007/s10441-020-09382-z
-
-
-Title: 
-	Emerging viral threats and the simultaneity of the non-simultaneous: zooming out in times of Corona
-Publisher and Journal: 
-	Springer; Medicine, Health Care and Philosophy
-Publication Date: 
-	2020-12-01
-Authors:
-	Zwart, Hub
-Abstract:
-	This paper addresses global bioethical challenges entailed in emerging viral diseases, focussing on their socio-cultural dimension and seeing them as symptomatic of the current era of globalisation. Emerging viral threats exemplify the extent to which humans evolved into a global species, with a pervasive and irreversible impact on the planetary ecosystem. To effectively address these disruptive threats, an attitude of preparedness seems called for, not only on the viroscientific, but also on bioethical, regulatory and governance levels. This paper analyses the global bioethical challenges of emerging viral threats from a dialectical materialist (Marxist) perspective, focussing on three collisions: (1) the collision of expanding networks of globalisation with local husbandry practices; (2) the collision of global networks of mobility with disrupted ecosystems; and (3) the collision of viroscience as a globalised research field with existing regulatory frameworks. These collisions emerge in a force field defined by the simultaneity of the non-simultaneous. Evidence-based health policies invoke discontent as they reflect the normative logic of a globalised knowledge regime. The development of a global bioethics or macro-ethics requires us to envision these collisions not primarily as issues of benefits and risks, but first and foremost as normative tensions closely entangled with broader socio-economic and socio-cultural developments.
-DOI: 
-	10.1007/s11019-020-09970-3
-URL: 
-	http://dx.doi.org/10.1007/s11019-020-09970-3
 
 
