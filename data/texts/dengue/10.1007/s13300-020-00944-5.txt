@@ -1,0 +1,232 @@
+Diabetes Care During Hajj
+
+Abstract
+Diabetes mellitus affects over 463 million individuals worldwide. Religious activities such as the Hajj pilgrimage have a major impact on patients with diabetes mellitus, including increasing the risk of hyperglycaemia and hypoglycaemia. This increased risk is due to dietary changes and intense physical activity during pilgrimage while being on antidiabetic medications. Approximately 20% of the pilgrims with underlying illnesses who visit Mecca are diabetic, and complications, such as diabetic ketoacidosis, nonketotic hyperosmolar state, and fatigue/unconsciousness due to hypoglycaemia, have been observed among these patients. Diabetic patients are also at a high risk for foot complications and infections. To avoid any aggravation of the diabetes, a complete biochemical evaluation of the patient must be conducted before Hajj, and the patients must be provided contextualized educational guidance to avert these potential health challenges. This counselling should include the importance of carrying with them at all time their relevant medical history, summaries of the current treatment regimen and emergency snacks. In addition, to reduce the risk of hypoglycaemia, the dosage of insulin should be reduced in selected patients by 20% and that of sulfonylurea should be reduced as needed. Basal insulin and glucagon-like peptide 1 receptor agonists are associated with fewer complications and can be preferentially prescribed. Those patients with type 1 diabetes can continue with the use of insulin pump with suitable education prior to Hajj. For the prevention of foot problems, the use of padded socks and well-fitting shoes is recommended along with an insistence on not walking barefoot. After Hajj, the patient must be followed up, and necessary investigations must be made along with readjustment of insulin dosage in those patients for whom it was reduced. Until the pandemic situation abates, all diabetic patients should avoid making the Hajj journey.
+
+Digital Features
+This article is published with digital features, including [list digital features available e.g. a summary slide and video abstract], to facilitate understanding of the article. To view digital features for this article go to https://doi.org/10.6084/m9.figshare.13050551.
+
+Introduction
+Epidemiology of Diabetes MellitusAccording to the International Diabetes Federation prevalence estimates for 2019, diabetes mellitus (DM) affects over 463 million individuals worldwide, of whom 90% have type 2 diabetes mellitus (T2DM) [1]. The prevalence of DM has significantly increased over the last two decades, with the maximum rise noted in regions of the Middle East and North Africa, particularly in Saudi Arabia [1]. Population-based studies have indicated that Saudi Arabia ranks highest in terms of prevalence of diabetes, with 17.7% of the general population having this metabolic disease [2].The prevalence of diabetes is high in several nations with large Muslim population, such as Pakistan, Indonesia, Egypt, Bangladesh and India, and all of these countries rank amongst the top ten countries in the world in terms of diabetes prevalence [3]. Overall, 148 million Muslims have been estimated to be diabetic based on an analysis of worldwide data [3].Religious Commitments of HajjHajj is the fifth pillar of Islam and is considered obligatory for all Muslims provided they are in sufficiently good health to undertake the journey [4]. ‘Hajj’ is an Arabic word for pilgrimage and is performed at the holy cities of Mecca and Medina where over 2.5 million pilgrims gather annually to perform the religious ceremonies of Hajj, which last between 5 and 15 days for most pilgrims, but may extend to 45 days for some [5, 6]. In 2019, 24,89,406 pilgrims performed Hajj, based on the sites’ official website registers. In light of the worldwide spread of coronavirus disease 2019 (COVID-19), the Hajj can be a high-risk undertaking, especially for patients with DM and other comorbidities [7].Patients with DM wanting to undertake the Hajj journey have unique needs pertaining to their religious practices and health status. This necessitates differential care and attention in order to prevent possible complications that could arise during religious activities. Both healthcare professional-oriented awareness and patient education are of paramount importance in this endeavour [8].Currently, only 55% of Hajj pilgrims with DM receive educational counselling before Hajj, and only 22% are aware of the need for self-monitoring [9]. These statistics emphasise the need for guidelines for the diabetic management of Hajj pilgrims so that physicians looking after these patients are more aware of the possible risks [4, 9]. The purpose of this narrative review is to provide comprehensive strategies for the effective management of the patient with DM during the pre-Hajj, Hajj and post-Hajj periods so that their risk of developing complications associated with DM is minimised. Our objective is to provide recommendations for clinicians so that they can carefully assess their patients, discouraging those at risk from undertaking the pilgrimage and providing safety recommendations for those deemed fit to undertake the journey. This article is based on previously conducted studies and does not contain any studies with human participants or animals performed by any of the authors.
+
+Challenges for Patients with DM During Hajj
+Patients with DM are at a high risk for developing complications during the global spread of COVID-19 [7]. Current guidelines recommend that these patients postpone their Hajj journey until the pandemic situation abates because of their higher susceptibility for respiratory infections [10]. Poor self-management is the leading risk factor for diabetes-related complications in over 94.5% of cases and is regarded as a primary cause of morbidity and mortality in patients with DM [11]. It has been reportede that only 38% of patients with DM embarking on the Hajj journey engaged in regular blood glucose level monitoring [4]. The diabetes-related complications which can arise during the Hajj journey are discussed in the following sections.Infectious DiseasesIn the setting of the COVID-19 pandemic, religious gatherings at Mecca are potential exposure settings that could facilitate the spread of the disease to Hajjis [12]. This perception is supported by studies that identified the crowded conditions of the Hajj as hotspots for transmitting antibiotic-resistant infections and pulmonary infections, which emphasises that this setting could also serve as a hotspot for the spread of COVID-19 [12]. In previous outbreaks of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), Hajj pilgrims were found to show poor compliance with preventive protocols because of their inclination to fulfill religious commitments [13, 14]. Patients with DM are at a greater risk of developing a severe manifestation of COVID-19, with a resultant higher risk of mortality due to respiratory complications [7, 12]. Although the Hajj borders were open from 2 August 2020, keeping in mind the religious sentiments of a larger group, patients with DM must completely avoid Hajj gatherings until the spread of COVID-19 is contained in their home country as well as in Saudi Arabia [13, 14]. Post-COVID-19, safe international travel can be encouraged, but even then the need for social distancing and hygiene maintenance must be stressed [13, 14]. Elderly patients must take additional precautions, and those with uncontrolled blood glucose levels or an elevated risk of cardiovascular complications must not be allowed to travel unless the situation is regarded to be completely safe from the pandemic and diabetic points of view [15, 16]. In addition to COVID-19, infections due to Salmonella, Campylobacter and enterohemorrhagic Escherichia coli can be encountered during Hajj due to the lack of hygiene in overcrowded mosques and camps [9]. The risk of contracting any of these infections must be taken into careful consideration in the post-COVID period, especially among older pilgrims [13]. Upper respiratory tract infections are the most commonly encountered infections in this age group and are associated with an increased risk of hyperglycaemic complications [6]. A cohort study of elderly patients at Arafat hospital found that 39.4% of patients had pneumonia and 14.4% showed exacerbation of asthma and chronic obstructive pulmonary disease (COPD); among these patients, 59% required secondary and tertiary care facilities for the management of these complications [17]. The conclusion to be drawn, therefore, is that all necessary vaccinations and evaluations must be completed before the Hajj journey (Tables 1, 2). Table 1 Vaccinations to be completed before Hajj [40]Full size tableTable 2 Pre-Hajj educational considerationsFull size tableHyperglycaemiaHyperglycaemia is a common manifestation among Hajj pilgrims, primarily due to a lack of/poor compliance to insulin administration prior to meals pertaining to irregular meal times [4, 18]. In a recent cross-sectional study, 27.4% of Hajjs had a high blood glucose level at the time of Hajj [19]. Patients with T2DM have a higher risk of acute complications than those with type 1 DM (T1DM) [19]. Such high rates of complications can also be due to over-indulgence of high-calorie foods, such as dates and fried food items during Hajj [4].Current recommendations are that patients with DM strictly avoid the Hajj, both from national and international locations [13]. Post-pandemic, patients with poor glycaemic control, history of hypoglycaemia and/or presence of comorbid conditions must not go on the Hajj (Fig. 1).Fig. 1Risk stratification table for persons with diabetes wishing to go on HajjFull size imageRecommendations to Manage Diabetic Ketoacidosis and Hyperosmolar State
+
+
+In the post-COVID era, when patients with DM receive their physican’s approval for embarking on the Hajj, diabetic ketoacidosis (DKA) can be avoided by promoting sufficient hydration in the patient who generally is in control of his/her DM [16].
+
+
+DKA must be managed on the basis of routine clinical recommendations.
+
+
+For prevention of DKA, insulin dosage must be reduced only on a case-by-case basis. If the dietary requirements of the patient have not been reduced or they are making the use of walking aids, such as wheelchairs, reducing the dose of insulin is not required during Hajj [20].
+
+
+HypoglycaemiaDue to increased physical activity and non-compliance with the timing of meals during Hajj, all patients with DM are at a high risk of hypoglycaemia [21]. In a recent survey, approximately 37% of diabetic patients on Hajj were identified as hypoglycaemic; another 14.9 and 12.5% were reported with symptoms of hypoglycaemia in the form of fatigue and headache, respectively [19]. Such patients often tend to neglect medical care during hypoglycaemic events as they correlate it with general tiredness or drowsiness due to Hajj activities [22]. In terms of dose adjustment, it should be noted that for patients on insulin treatment, insulin in Saudi Arabia typically is provided at a concentration of 100 U/mL, which is different from the standard concentration of 40 U/mL available in most countries [23]. Consequently, if the dose is not adjusted accordingly, overdosing can be a risk [23]. High temperatures (range 37 to 45 °C) during Hajii also increase insulin absorption, resulting in hypoglycaemia, which must be accounted for during dose adjustment [24].Recommendations to Reduce the Risk of Hypoglycaemia during Hajj
+
+
+Antidiabetic therapies, such as sulfonylureas (SUs), are associated with a high risk of hypoglycaemia. It is recommended that the dosage for the patient be reduced, if required, during the Hajj journey [25].
+
+
+For patients on insulin therapies, there is a high risk of hypoglycaemia, which can be avoided by reducing the dosage of insulin depending on the glycaemic status of the patient [25].
+
+
+For analogue insulins, such as degludec and glargine, no dose alterations may be required. However, self-monitoring of blood glucose levels must be encouraged [25].
+
+
+For prandial insulin, the patient must be advised to avoid taking the dose in case of a skipped meal due to religious commitments [9, 25].
+
+
+For patients on insulin pump therapy, minor dose adjustments may be necessary before their Hajj journey. It is generally recommended to reduce the dosage by approximately 10% to lower the risk of hypoglycaemia [9].
+
+
+Foot ComplicationsIt has been been reported that 13.8% of Hajjis with DM have an underlying diabetic neuropathy, which which increases the risk for foot complications, such as wounds [26]. Diabetic foot ulcers are one of the most common reasons for Hajjis to seek medical attention, and treatment may consist of surgical management in critical cases [27]. Blisters are common in 31% of such pilgrims due to mechanical stress during walking [28], while another 25% of the patients have been reported to have erythema during the pilgrim rituals [29]. Patients with uncontrolled diabetes are at a higher risk of foot infections when compared with non-diabetics and patients with their diabetes under control [19,20,21,22,23,24,25,26,27]. Patients with DM face developing severe complications due to compromised states of immunity, poor wound healing, and the presence of neuropathy and peripheral vascular disease [30].There is also a significant risk of sustaining foot burns due to the high temperature of the ground in the summer months (approx.  60 °C), which later manifests into foot ulcers [27].Recommendations to Manage Foot Problems
+
+
+A good quality non-scented moisturiser should be recommended to the patient for use twice daily to prevent cracks and fissures during walking [28].
+
+
+Daily foot inspection must be performed and dipping feet in hot water must be strictly avoided [30].
+
+
+For travelling from one pilgrimage location to another, which can range from 5 to 15 km, the use of motorised vehicles or wheelchairs is recommended [30].
+
+
+For activities within mosques, padded socks must be used in areas where shoes are prohibited; walking barefoot should be prohibited [31].
+
+
+For pilgrim activities that necessitate walking, light-weighted, softly padded shoes with padding at the heel and ball of the foot should be preferred. These shoes should be flexible enough to reduce the impact of the foot meeting the ground [31].
+
+
+Patients should be advised to dry their feet with cotton towels after performing wudu [11].
+
+
+Patients should be educated on signs of inflammation and infection and on starting on prophylactic antibiotics to prevent progression to a state of irreversible tissue damage in suspected cases. Patients must be advised to seek medical help as soon as possible [31].
+
+
+In case of foot blisters, the feet should be kept dry and proper foot hygiene measures should be taken to prevent infection [27,28,29,30].
+
+
+Infected blisters must be immediately assessed by medical professionals at Mecca.
+
+
+Renal and Cardiovascular ComplicationsThere is a high risk of renal diseases among diabetic patients performing the rituals of Hajj due to high levels of dehydration during the summer months, which affects renal function [27]. Hajjis tend to avoid drinking adequate amounts of fluid due to fear of polyuria during travel. Cardiovascular disease has been found to be most common cause of admission to intensive care units during Hajj [32]. Cardiovascular diseases occur due to physical and emotional exertion during Hajj and are manifested as chest pain, shortness of breath and palpitations [32].Recommendations to Manage Renal and Cardiovascular Complications
+
+
+Patients with a positive history of cardiovascular complications must be strongly advised against the Hajj journey, especially in these times of the COVID-19 pandemic [33].
+
+
+To reduce the manifestation of cardiovascular complications during Hajj, it is essential to manage hypoglycaemia and limit physical exertion, especially in patients who are considered to be at risk, such as the elderly. Sudden physical activity in these patients can trigger cardiovascular events and must be advised against [32]. It is recommended that the dosage of diuretics be reduced in patients with DM who undertake the Hajj journey in order to minimise the risk of hyperglycaemia and DKA and aggrevate co-existing kidney disorders [34].
+
+
+Nausea and vomiting must be immediately managed in patients with chronic kidney disease to prevent dehydration. Intravenous fluid can be administered in cases of dehydration for reducing the deterioration of renal function [35].
+
+
+All medications must be carefully planned to rule out the risk of any effects on renal or cardiovascular function. The dosage of diuretics may also need to be adjusted in accordance with the (high) temperatures at Hajj locations [35].
+
+
+Blood pressure must under control before beginning the Hajj journey, and both blood pressure and blood glucose levels must be regularly monitored [32].
+
+
+Eye DiseaseIndividuals with diabetes are at a greater risk of eye diseases because of the possibility of microvascular complications [36]. Among Hajj pilgrims with DM, 23.8% were found to have diabetic retinopathy [26]. This patient groups was at a greater risk of falls and injuries due to these visual disturbances [26].Recommendations to Prevent Eye Disease
+
+
+It is advisable for patients with eye disease to use walking and visual aids to prevent falls while performing Hajj rituals. It is also recommended that protective eyewear be prescribed to retinopathy patients during Hajj [36].
+
+
+All patients must be asked to avoid touching their eyes, especially among large gatherings/in public places to avoid infections.
+
+
+Eye lubricants and anti-vascular endothelial growth factor therapies are recommended for patients with diagnosed retinopathy [37].
+
+
+
+
+Pre-Hajj Management
+Pre-Hajj Health EducationThe COVID-19 era must be regarded as the pre-Hajj period for patients with DM, during which time the need for regular self-monitoring can be emphasised through patient education. Similar to the pre-Ramadan health evaluation, an assessment must be made of the health status of a patient with DM with the aim to determine his/her fitness for the Hajj journey [22]. Capillary glucose monitoring is recommended over continuous blood glucose monitoring during Hajj because of the higher rate of patient compliance to the former [22].Planning and Investigations Before HajjPatients should undergo a complete clinical evaluation, including a thorough foot examination, renal and cardiovascular profile in their pre-Hajj medical assessment which should take place at least 2–3 months prior to Hajj [26]. Blood glucose levels of the patient, including fasting and post-prandial glucose levels, and glycated hemoglobin (HbA1c) levels must be closely monitored before their Hajj journey [9]. It is important to identify patients with existing microvascular/macrovascular complications and other comorbid conditions [27]. A cardiac evaluation with electrocardiogram should be performed in all patients with cardiovascular risk factors, and if any risk factors are found, the patient must be advised to avoid Hajj [32]. A two-dimensional echo and stress test should be performed when there is suspicion of coronary artery disease [32]. HbA1c levels of around 7% are indicative of a low risk category (Fig. 1), and these patients can be approved for the Hajj journey.Educational Regimen Prior to Hajj
+
+
+Patients must be educated about the use of the glucometer and dipstick for assessing blood glucose levels and ketone bodies in the urine. For blood glucose levels > 15 mmol/L, testing for ketone bodies must be recommended [4].
+
+
+Blood glucose levels must be monitored as per standard of care, especially before Ihram; based on these results, the dosage of insulin must be adjusted.
+
+
+Patients must be educated in how to prick themselves for glucose monitoring during Ihram and must not refrain from self-testing [38].
+
+
+Patients with well-managed DM may be advised to slightly reduce their insulin dosage by 10–20% owing to prolonged hours of physical activity during the pilgrimage [21]. Patients who are relatively inactive in their current daily routines may require a further reduction in their doses of insulin [39].
+
+
+Risk Stratification Scale for HajjOther vaccines that must be taken include those for hepatitis A, B, and Bacillus Calmette-Guerin for the prevention of hepatitis and tuberculosis infections, which are common in Saudi Arabia [40]. Since no approved vaccination is currently available against the COVID-19, patients with DM should avoid making the Hajj journey until the pandemic has passed [14].
+
+Management During Hajj
+During Hajj, the self-management practices of patients with DM must be sufficiently promoted, such as by physician follow-up reminders and initiation of early management adaptations, as shown in Fig. 2.Fig. 2Summary of recommendations for patients with diabetes mellitus undertaking HajjFull size imageDietary Considerations During Hajj
+
+
+Regular meals must be encouraged in patients as well as between-meal snacks. In case of irregular meals, patients can be advised to consume nuts, fruits and dairy products, which are readily available at Mecca [41]. They must be instructed to avoid sugary drinks unless responding to hypoglycaemia.
+
+
+Eating one to two dates, which are easily available at pilgrim locations, or a high carbohydrate drink/meal is recommended in response to symptoms of hypoglycaemia or in situations where a meal is skipped or delayed [41]. Before Tawaf and Sai, it is advisable to consume complex carbohydrates and dates, if required, because they can be carried inside the mosque [24].
+
+
+Tight glycaemic control must not be attempted during Hajj journey because hyperglycaemia has less severe consequences than hypoglycaemia during Hajj, with the latter having the potential to be fatal [24].
+
+
+Adjustment of Medications During HajjPatients with DM must be advised to increase their activity in a graded manner over a period of 6–8 weeks, especially walking, in order that they can cope with the physical rigors of Hajj and that their medication dosages can be better matched to their blood glucose levels. The following recommendations are made with respect to medication adjustment.Persons with T1DM and Those on Intensive Insulin Therapy
+
+
+A combination of basal (glargine, detemir or degludec) and rapid-acting insulin analogues (lispro, aspart and glulisine) can be selected during Hajj since these are associated with a lower risk of hypoglycaemia in comparison with premixed insulins or co-formulations [9, 42]. Fiasp can also be used.
+
+
+The dosage of short- and intermediate-acting insulin may be reduced by 20% before and during prolonged walking routes [21].
+
+
+For patients with T1DM, insulin pump therapy may be preferred for optimising glycaemic control during Hajj, as this therapy allows for flexibility during meals and minimises the risk of hypoglycaemia [43].
+
+
+Patients must be advised to also pack injectable insulin in order to facilitate the switch to basal bolus regimen in case of pump failure [42, 43].
+
+
+Persons on Basal Insulin
+
+
+Adjustment may be required with basal insulin depending on physical activity patterns. A combination of basal insulin and glucagon-like peptide 1 receptor agonist (GLP-1 RA) can be prescribed for preventing hypoglycaemia [44].
+
+
+This combination has shown superior outcomes in terms of hypoglycaemic prevention when compared with other therapies [44].
+
+
+Persons on Pre-Mixed Regimens
+
+
+Insulin analogues, such as insulin degludec and insulin aspart, are superior medications for the management of unexpected blood glucose changes due to erratic dietary patterns during Hajj, and thus are preferred [45].
+
+
+Persons Using SUs
+
+
+For patients using SUs, more frequent monitoring of blood glucose levels is recommended because of a higher risk for hypoglycaemia [46].
+
+
+A decrease in the dosage of SU before and during long walking hours may be facilitated based on the patient’s profile [21, 25].
+
+
+The dosage of SU may be adjusted, particularly for elderly patients and for those with renal impairment [25].
+
+
+Persons on Other Oral Anti-Hyperglycaemic Drugs
+
+
+Metformin is associated with low rates of hypoglycaemia when compared with other oral therapies and is thus preferred during Hajj as long as it is well tolerated by the patient and the glomerular filtration rate is > 30 mL/min/1.73 m2 [47].
+
+
+In the absence of contraindications, sodium-glucose co-transporter-2 SGLT2 inhibitors can be used in combination with metformin to further reduce the risk of hypoglycaemia [44].
+
+
+Persons on SGLT2 InhibitorsThe risk of hypoglycaemia is lower with the use of SGLT2 inhibitors and thus these medications are preferred during Hajj among patients with preserved renal function and/or patients not at incipient risk for peripheral vascular disease, lower limb amputation or limb-threatening ischemia [44]. However, these patients should be counselled to drink adequate amounts of water to cover for fluid loss due to perspiration and diuresis [48]. In view of the risk of dehydration and hypotension, the antihypertensive medications of these patients must also be adjusted [32].If signs of dehydration, such as orthostatic hypotension (dizziness, fainting, lightheadedness or weakness) develop, resting and rehydration must be starting immediately. Increased frequency of blood sugar monitoring may be necessary in these cases to rule out hypoglycaemia [49].Other Considerations for Diabetic Management During Hajj
+
+
+Patient should be aware of contact details of dedicated local health facilities in different places during the journey of Hajj. Emergency contact details of the treating physician should be provided in the kit so that the treatment course of the patient is mutually discussed with the medical team in Saudi Arabia [50]. While being in contact with the medical team, relevant details of treatment management and documentation should be requested, which will assist in post-Hajj management.
+
+
+There were eight hospitals and 93 clinics set up in the holy sites during Hajj 2019, with 30,000 doctors and nurses [50]. In addition, there was also a translational programme which allowed patients to communicate more easily at the sites of Hajj pilgrim. However, due to a lack of awareness, patients often self-medicate, resulting in worsening of their health outcomes. Wearing a “Diabetes Band” at all time during the Hajj would potentially help other pilgrims and healthcare professionals to better understand the situation in the case of an emergency. Thus, the wearing of such a Diabetes Band must be highly encouraged among patients, even those who are performing Hajj for the second time [51].
+
+
+Sick Day Guidelines
+
+
+The patients must not forget to take insulin and/or other diabetic medicines; dose alteration may be required in some cases with perceived variations in physical activity [9].
+
+
+Blood glucose levels need to be monitored more frequently. Patients must be advised that if these levels rise above 15 mmol/L, there is a need to test for urine ketones, which can be done with the help of a urine dipstick [4].
+
+
+If patients feel unwell while using SGLT-2 inhibitors, they must be advised to stop taking the drug and seek emergency medical care [42].
+
+
+In case of any kind of sickness/infection/diarrhoea, it is essential to stay hydrated, consume plenty of non-sweetened drinks and consume small, frequent meals [48].
+
+
+Frequent snacking and replacing/supplementing meals with carbohydrate-containing beverages should take place in the case of loss of appetite/uneasiness [42].
+
+
+If the patient faces difficulty in eating/drinking/swallowing, immediate medical assistance must be advised [50].
+
+
+
+
+Post-Hajj Management
+Regular Follow-up and Diabetic Management
+
+
+Patients must be followed up after successful completion of Hajj and a history of their diabetes care and health-related experiences during pilgrimage must be obtained by the physician [51].
+
+
+Patients should undergo a complete clinical and biochemical evaluation, including examination of their feet. The blood glucose levels need to be monitored for medication adjustment as per their current blood glucose levels [42]. Most of these adjustments are to be carried out 10–14 days after arrival in the home countries so that there is a more accurate reflection of the metabolic milieu. Most patients require an increase in antidiabetic medication to match the reduced physical activity, more optimal environment and increased dietary consumption [45].
+
+
+Patients with micro/macro vascular complications need additional evaluations, such as retinal examination, which must be appropriately scheduled with an ophthalmologist [37].
+
+Conclusion
+Overall, patients with DM need to be carefully managed before, after and during their Hajj journey in order to prevent severe hypoglycaemia, hyperglycaemia and/or foot complications arising from the change in their activity levels and unfamiliarity of the surroundings. Good planning and pre-travel consultation with clinicians increase the odds of having a safe Hajj pilgrimage without major health consequences. The major objective of pre-Hajj planning is to achieve good control of the diabetes and to avoid any complications during the performance of Hajj. During Hajj, the insulin dosage of selected patients may need to be reduced to prevent hypoglycaemia. This treatment adjustment needs to be made on the basis of other comorbid conditions, such as renal/cardiovascular disorders. Patients must be encouraged to undergo regular self-monitoring and comply with their treatment schedule as well as the prescribed dietary routine. A Diabetes Band and prescription information must be worn by/carried on the person at all times for timely management in the city of Mecca. Once the Hajj is completed and the patient has returned home, biochemical evaluation, foot examination and treatment adjustment must once again be made in accordance with the (resumed) daily lifestyle.
