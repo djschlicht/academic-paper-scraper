@@ -1,11 +1,11 @@
 Things to do:
+- Find a way to prioritize retrieved texts
+- Citation linking
 
 Things to improve on:
 - Literature review and other techniques
-- Code efficiency, algorithm speed
 - Relevance calculating algorithm (look into TF-IDF)
 - Automatic parameter guessing (look into conditional random fields)
-- Commenting code
 - Query quality
 - Full-text retrieval
-- Next item
+- Code efficiency, algorithm speed
