@@ -1,6 +1,5 @@
 __pycache__
 config.py
-todo.txt
 tmp_files
-backups
 scraper_log.txt
+.textdataframe.ipynb.swp
