@@ -50,7 +50,6 @@ animal-to-human
 vector*
 reservoir*
 host
-species
 "interspecies transmission"
 "transmitted by"
 
@@ -59,6 +58,7 @@ transmiss* AND (efficiency OR rate)
 infect* AND number AND (human* OR population)
 pathogenicity
 virulence
+r0
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

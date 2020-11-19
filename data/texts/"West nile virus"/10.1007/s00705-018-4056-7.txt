@@ -1,0 +1,10 @@
+The complete genome sequence analysis of West Nile virus strains isolated in Slovakia (central Europe)
+http://dx.doi.org/10.1007/s00705-018-4056-7
+
+Abstract
+The present study reports the first complete genome sequence analysis of West Nile virus (WNV) strains isolated from brain samples from raptors. The results prove the circulation of closely related WNV lineage II strains in central Europe and genetic analysis revealed seven amino acid substitutions in structural (PrM3, E159 and E231) and in non-structural (NS1109, NS5259, NS5310 and NS5600) proteins. Observed amino acid substitutions Phe3 and Ser231 were common only within the lineage VII Koutango strain isolated from Rhipicephalus guilhoni tick in Senegal. Further research could reveal whether these substitutions influence the biological properties of WNV, including virulence and neuroinvasiveness.
+
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+
+Supplementary material 1 (PDF 211 kb)Supplementary material 2 (PDF 362 kb)Supplementary material 3 (FASTA 17899 kb)Supplementary material 4 (FASTA 425 kb)Supplementary material 5 (PDF 151 kb)
