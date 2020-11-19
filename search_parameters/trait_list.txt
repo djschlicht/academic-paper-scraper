@@ -59,6 +59,7 @@ infect* AND number AND (human* OR population)
 pathogenicity
 virulence
 r0
+reproduction number
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
