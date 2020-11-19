@@ -3,12 +3,16 @@
 
 import pandas as pd
 import requests
+import os
+
+# get working dir
+cwd = os.getcwd()
 
 # specify what kind of citation to get
 headers = {'Accept': 'text/x-bibliography; style=apa'}
 
 # get the article doi-urls
-df = pd.read_csv('./database/db.csv', usecols=["Article URL"])
+df = pd.read_csv(cwd+'/database/db.csv', usecols=["Article URL"])
 
 txt = ''
 cur_line = 2 # first row is headers and csv usually not 0 indexed
@@ -18,16 +22,20 @@ for doi in df['Article URL']:
 		continue
 		cur_line += 1
 	else:
-		response = requests.get(doi, headers=headers)
-		if(response.status_code != 200):
-			print("error: status code" + str(response.status_code))
-		response.encoding = 'utf-8'
+		while(True):
+			try:
+				response = requests.get(doi, headers=headers)
+				response.encoding = 'utf-8'
+				if(response.status_code == 200):
+					break
+			except Exception as inst:
+				print(inst)
 		txt += str(cur_line) + '\n'
 		txt += str(response.text) + '\n\n'
 		cur_line += 1
 
 # write the citations to a file
-with open('./database/citations.txt', 'w+') as cites:
+with open(cwd+'/database/citations.txt', 'w+') as cites:
 	cites.write(txt)
 
 	
