@@ -2,16 +2,12 @@
 
 ## To-do list
 Things to do:
-- Find a way to prioritize retrieved texts
-- Citation linking
 
 Things to improve on:
 - Literature review and other techniques
-- Relevance calculating algorithm (look into TF-IDF)
+- Collect
 - Automatic parameter guessing (look into conditional random fields)
-- Query quality
-- Full-text retrieval
-- Code efficiency, algorithm speed
+- Code efficiency
 
 ## Summary
 The purpose of academic-paper-scraper is to automate data collection from
