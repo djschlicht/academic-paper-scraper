@@ -20,8 +20,9 @@ Puts API calls in to the Springer Database
 Stores results in 'papers.txt' and 'raw.txt' in ./data/springer.
 
 Params: query, the string to be entered in the search
+		nresults, the number of results to be returned per query
 '''
-def call_springer(query):
+def call_springer(query, nresults):
 	# create text files to store the data
 	fp= "./data/springer/"
 	with open(fp+"papers.txt", "w") as papers, open(fp+"raw.txt", "w") as raw:
@@ -39,7 +40,7 @@ def call_springer(query):
 				# strip irrelevant data, format and write to file
 				sp.format_results(obj, papers)
 		'''
-		obj = sp.request_springer(query, 'open', 5, config.springer_api_key, 1)
+		obj = sp.request_springer(query, 'open', nresults, config.springer_api_key, 1)
 		pprint.pprint(obj, raw)
 		sp.format_results(obj, papers)
 		
@@ -54,12 +55,13 @@ output: returns a string containing the query
 def generate_query(disease, trait):
 	query = ''
 	
-	# TODO: add extra filters e.g. date restriction, journal, etc
-
+	# makes it only return journal articles
+	query = 'type:Journal '
 	
 	# group alternate names using OR and parentheses
-	query += '('	
-	query += r' OR '.join(disease)
+	query += '('
+	query += 'title:' # only search for articles with disease in title
+	query += r' OR title:'.join(disease)
 	query += ')'
 	
 	# use logical AND to link disease + trait info
@@ -169,56 +171,79 @@ def get_text(url, cur_disease):
 	
 	return 0
 
+''' iterative_search
+This will iteratively search for each disease in disease_list matched
+with each trait in trait_list and scrape the texts.
+
+params: nresults, the number of results to return for each disease +
+		trait query
+'''
+def iterative_search(nresults):
+	for disease in diseases:
+		disease_path = './data/texts/'+disease[0]
+		if not os.path.exists(disease_path):
+			os.mkdir(disease_path)
+			
+		time.sleep(1) # to not go over api limit
+		for trait in traits:
+			# create search string
+			query = generate_query(disease, trait)
+
+			print("current query: " + query)
+			
+			# Pass query to the API
+			call_springer(query, nresults)
+
+			# get full texts of papers in ./data/springer/papers.txt
+			with open('./data/springer/papers.txt', 'r') as papers:
+				print('Scraping papers:')
+				for line in papers:
+					if 'URL:' in line:
+						url = papers.readline()
+						url = url.strip('\n\t')
+						print(url)
+						time.sleep(0.01)
+						get_text(url, disease[0])
+					else: 
+						continue
+						
+''' single_search
+Performs a single query
+
+Params: disease, a string containing the name of the disease + alternate names
+				separated by commas
+		trait, a string contining the trait you want to include in the search
+				you can use booleans and wildcards
+		nresults, the number of results that are returned from the search
+'''						
+def single_search(disease, trait, nresults):
+	# put disease names into a list
+	disease_lst = [word for word in disease.split(', ')]
+	
+	query = generate_query(disease_lst, trait)
+	
+	call_springer(query, nresults)
+	
+	# get full texts of papers in ./data/springer/papers.txt
+	with open('./data/springer/papers.txt', 'r') as papers:
+		print('Scraping papers:')
+		for line in papers:
+			if 'URL:' in line:
+				url = papers.readline()
+				url = url.strip('\n\t')
+				print(url)
+				time.sleep(0.01)
+				get_text(url, disease[0])
+			else: 
+				continue	
+						
 ''' Main '''
 # Load up most recent data from disease_list and trait_list
 get_disease_data()
 get_trait_data()
 
-# iteratively search for each trait on each disease (5 results per trait)
-for disease in diseases:
-	disease_path = './data/texts/'+disease[0]
-	if not os.path.exists(disease_path):
-		os.mkdir(disease_path)
-	time.sleep(1) # to not go over api limit
-	for trait in traits:
-		# create search string
-		query = generate_query(disease, trait)
-
-		print("current query: " + query)
-		
-		# Pass query to the API
-		call_springer(query)
-
-		# get full texts of papers in ./data/springer/papers.txt
-		with open('./data/springer/papers.txt', 'r') as papers:
-			print('Scraping papers:')
-			for line in papers:
-				if 'URL:' in line:
-					url = papers.readline()
-					url = url.strip('\n\t')
-					print(url)
-					time.sleep(0.01)
-					get_text(url, disease[0])
-				else: 
-					continue
-
-'''
-# test getting one disease one trait
-query = 'marburg+AND+"incubation+period"+AND+"type:Journal"'
-call_springer(query)
+#iterative_search(5)
 
 
-# get full texts of papers in ./data/springer/papers.txt
-with open('./data/springer/papers.txt', 'r') as papers:
-	print('Scraping papers:')
-	for line in papers:
-		if 'URL:' in line:
-			url = papers.readline()
-			url = url.strip('\n\t')
-			print(url)
-			time.sleep(0.01)
-			get_text(url)
-		else: 
-			continue
-				
-'''
+
+
