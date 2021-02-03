@@ -1,8 +1,0 @@
-ceRNA analysis of SARS-CoV-2
-http://dx.doi.org/10.1007/s00705-020-04856-4
-
-Abstract
-Viral RNAs can perturb the miRNA regulatory network, competing with host RNAs as part of their infective process. An in silico competing endogenous RNA (ceRNA) analysis has been carried on SARS-CoV-2. The results suggest that, in humans, the decrease of microRNA activity caused by viral RNAs can lead to a perturbation of vesicle trafficking and the inflammatory response, in particular by enhancing KLF10 activity. The results suggest also that, during the study of the mechanics of viral infections, it could be of general interest to investigate the competition of viral RNA with cellular transcripts for shared microRNAs.
-
-Electronic supplementary material
-Below is the link to the electronic supplementary material.Sup. 1 Step-by-step competing endogenous RNA analysis on positive and negative SARS-CoV-2 strands (XLSX 304 kb)Sup. 2 Extract of differential expression analysis of ceRNA genes in specimens from the work of Blanco-Melo and colleagues (XLSX 30 kb)Sup. 3 Extract of differential expression analysis of ceRNA genes from GSE155106 and GSE152418 (XLSX 41 kb)Sup. 4 Heatmap of expression of the ceRNA genes present in GSE152418 (JPG 218 kb)
